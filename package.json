@@ -1,0 +1,15 @@
+{
+  "name": "w-s-feriados",
+  "version": "1.0.0",
+  "description": "Web scraping para feriados municipais",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinicius Pessoa da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "puppeteer": "^13.6.0"
+  }
+}
