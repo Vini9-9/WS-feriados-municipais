@@ -1,4 +1,5 @@
 const axios = require("axios");
+const fs = require("fs");
 
 const apiEstados = axios.create({
   baseURL: "https://servicodados.ibge.gov.br/api/v1/localidades/estados",
@@ -20,15 +21,29 @@ async function getEstados () {
 
 //var apiCidades =  apiEstados + UF + '/municipios'
 async function getCidades (UF) {
-
-    //console.log(UF)
-    await apiEstados.get(`/${UF}/municipios`)
+    const response = await apiEstados.get(`/${UF}/municipios`)
     .then((response) => {
         return formatarNomes(response.data)
     })
     .catch((error) => {
         return error.response.data
     });
+    return response;
+}
+
+async function getTodasAsCidades (estados) {
+    var todasAsCidades = [];
+
+    for (const estado of estados) {
+        let cidades = await getCidades(estado.sigla)
+        todasAsCidades.push(
+            {
+                "sigla": estado.sigla,
+                "cidades": cidades
+            })    
+    }
+
+    return todasAsCidades;
 
 }
 
@@ -36,19 +51,22 @@ function formatarNomes (cidades) {
     var nomes = cidades.map((el) => {
         return el.nome
     })
-    //console.log('nomes', nomes)
     return nomes
 }
 
-(async () => {
-    const estados = await getEstados();
-    // estados.forEach(el => {
-        //let cidades = await getCidades(el.sigla)
-        let cidades = await getCidades('AM')
-        for (const cidade of cidades) {
-            getFeriados(cidade)
-        }
-    // });
-})()
+async function getFeriadosPorCidades(cidades) {
+    for (const cidade of cidades) {
+        await getFeriadosPorCidade(cidade)
+    }  
+}
 
+async function execute(){
+    const estados  = await getEstados();
+    const cidades  = await getTodasAsCidades(estados);
+    fs.writeFile('cidades.json', JSON.stringify(cidades, null, 2), err => {
+        if(err) throw new Error('Alguma coisa deu errado')
+        console.log('Deu certo!')
+    })
+}
 
+execute()
