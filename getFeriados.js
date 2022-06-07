@@ -1,5 +1,6 @@
 const puppeteer = require('puppeteer');
 const fs = require("fs");
+const prompt = require('prompt-sync')();
 
 async function getFeriadosPorCidade(nomeCidade, siglaEstado){
     return await webScraping(nomeCidade, siglaEstado)
@@ -13,9 +14,27 @@ async function getFeriadosPorCidades(cidades) {
 
 function formatarURL(nomeCidade, siglaEstado, ano) {
     const pageDefault = "https://calendario.online/feriados-";
-    const response = `${pageDefault + nomeCidade}-${siglaEstado}.html`;
+    nomeCidadeFormatado = formatarNomeCidade(nomeCidade);
+    const response = `${pageDefault + nomeCidadeFormatado}-${siglaEstado}.html`;
     console.log("URL: " + response)
     return response
+}
+
+function formatarNomeCidade(nomeCidade) {
+    cidadeSemAcento = removeAcento(nomeCidade)
+    return cidadeSemAcento.replaceAll(' ','-');
+}
+
+function removeAcento (text)
+{       
+    text = text.toLowerCase();                                                         
+    text = text.replace(new RegExp('[ÁÀÂÃ]','gi'), 'a');
+    text = text.replace(new RegExp('[ÉÈÊ]','gi'), 'e');
+    text = text.replace(new RegExp('[ÍÌÎ]','gi'), 'i');
+    text = text.replace(new RegExp('[ÓÒÔÕ]','gi'), 'o');
+    text = text.replace(new RegExp('[ÚÙÛ]','gi'), 'u');
+    text = text.replace(new RegExp('[Ç]','gi'), 'c');
+    return text;                 
 }
 
 function criarJSON(dados, nomeArquivo) {
@@ -63,10 +82,12 @@ async function webScraping(nomeCidade, siglaEstado){
     return feriadosObj
 }
 
-async function execute(){
+async function execute(siglaEstado, cidade){
     try {
+        // siglaEstadoInformado = "SP"; //informe a sigla do estado aqui
+        // cidadeInformada = "São Bernardo do Campo"; //informe a cidade aqui
         const response = fs.readFileSync('./cidades.json', { encoding: 'utf8' });
-        const feriadosMunicipais = await getFeriadosPorCidade("Carapebus", "RJ")
+        const feriadosMunicipais = await getFeriadosPorCidade(cidade, siglaEstado)
         criarJSON(feriadosMunicipais, 'feriado-municipal.json')
     } catch (error) {
         console.error(error);
@@ -74,4 +95,12 @@ async function execute(){
       
 }
 
-execute()
+console.log("================================================");
+console.log("| 💻 BEM VINDO AO WS DE FERIADOS MUNICIPAIS 💻 |");
+console.log("================================================");
+
+const siglaEstadoInformado = prompt('Qual a sigla do estado onde fica a cidade? R.:');
+console.log(`Sigla informada: ${siglaEstadoInformado}`);
+const cidadeInformada = prompt('Qual o nome da cidade? R.:');
+console.log(`Cidade informada: ${cidadeInformada}`);
+execute(siglaEstadoInformado, cidadeInformada)

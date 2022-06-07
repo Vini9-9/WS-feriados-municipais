@@ -23,5 +23,8 @@ npm install
 ```
 ## Executando o Programa ##
 ```
-node getCidades.js
+// Para listar todas as cidades
+node getCidades.js // será gerado um arquivo 'cidades.json'
+// Para listar os feriados municipais de uma cidade
+node getFeriados.js // será gerado um arquivo 'feriado-municipal.json'
 ```
