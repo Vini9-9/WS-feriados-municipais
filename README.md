@@ -1,4 +1,7 @@
-* Sites de referência: https://www.feriados.com.br/ e https://calendario.online/
+# Web scraping para coletar feriados municipais
+
+* Sites de referência: https://www.feriados.com.br/ e https://calendario.online/;
+* Tecnologia utilizada: NodeJS com o módulo puppeteer;
 
 ## Tasks 
 
@@ -22,9 +25,26 @@ cd WS-feriados-municipais
 npm install
 ```
 ## Executando o Programa ##
+* Para listar todas as cidades
 ```
-// Para listar todas as cidades
-node getCidades.js // será gerado um arquivo 'cidades.json'
-// Para listar os feriados municipais de uma cidade
-node getFeriados.js // será gerado um arquivo 'feriado-municipal.json'
+node getCidades.js 
+// será gerado um arquivo 'cidades.json'
+```
+
+* Para listar os feriados municipais de uma cidade
+```
+node getFeriados.js 
+```
+Deve-se informar os dados solicitados:
+```
+Qual a sigla do estado onde fica a cidade? R.:SP
+LOG: Sigla informada: SP
+Qual o nome da cidade? R.:Taubate
+LOG: Cidade informada: Taubate
+```
+Após informado o site de referência será acessado para o WS
+e informará quando o arquivo com os feriados for criado.
+```
+URL: https://calendario.online/feriados-taubate-SP.html
+Consegui criar o arquivo feriado-municipal.json
 ```
