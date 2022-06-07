@@ -1,9 +1,10 @@
-* Site referência: https://www.feriados.com.br/
+* Sites de referência: https://www.feriados.com.br/ e https://calendario.online/
 
 ## Tasks 
 
 - [X] Pegar o nome de todos os estados do Brasil;
 - [X] Pegar o nome de todas as cidades do Brasil;
+- [X] Pegar todos os feriados de uma cidade do Brasil;
 - [ ] Pegar todos os feriados municipais do Brasil;
 
 # Pré requisitos

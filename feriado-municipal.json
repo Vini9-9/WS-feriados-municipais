@@ -1,0 +1,16 @@
+{
+  "siglaEstado": "RJ",
+  "nomeCidade": "Carapebus",
+  "feriados": [
+    {
+      "dataFeriado": "13 de março de 2022",
+      "tipoFeriado": "Municipal",
+      "nomeFeriado": "Aniversário de Carapebus"
+    },
+    {
+      "dataFeriado": "15 de agosto de 2022",
+      "tipoFeriado": "Municipal",
+      "nomeFeriado": "Assunção de Nossa Senhora"
+    }
+  ]
+}

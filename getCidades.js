@@ -54,19 +54,17 @@ function formatarNomes (cidades) {
     return nomes
 }
 
-async function getFeriadosPorCidades(cidades) {
-    for (const cidade of cidades) {
-        await getFeriadosPorCidade(cidade)
-    }  
+function criarJSON(dados, nomeArquivo) {
+    fs.writeFile(nomeArquivo, JSON.stringify(dados, null, 2), err => {
+        if(err) throw new Error('Alguma coisa deu errado')
+        console.log(`Consegui criar o arquivo ${nomeArquivo}`)
+    })
 }
 
 async function execute(){
     const estados  = await getEstados();
     const cidades  = await getTodasAsCidades(estados);
-    fs.writeFile('cidades.json', JSON.stringify(cidades, null, 2), err => {
-        if(err) throw new Error('Alguma coisa deu errado')
-        console.log('Deu certo!')
-    })
+    criarJSON(cidades, 'cidades.json');
 }
 
 execute()
