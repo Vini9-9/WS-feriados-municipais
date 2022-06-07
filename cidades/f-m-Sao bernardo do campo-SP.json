@@ -1,0 +1,16 @@
+{
+  "siglaEstado": "SP",
+  "nomeCidade": "Sao bernardo do campo",
+  "feriados": [
+    {
+      "dataFeriado": "20 de agosto de 2022",
+      "tipoFeriado": "Municipal",
+      "nomeFeriado": "Aniversário de São Bernardo do Campo"
+    },
+    {
+      "dataFeriado": "20 de novembro de 2022",
+      "tipoFeriado": "Municipal",
+      "nomeFeriado": "Consciência Negra"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "siglaEstado": "AC",
+    "nomeCidade": "Acrelândia",
+    "feriados": [
+      {
+        "dataFeriado": "25 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Acrelândia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AC",
+    "nomeCidade": "Assis Brasil",
+    "feriados": [
+      {
+        "dataFeriado": "14 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Assis Brasil"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Raimunda do Bonsucesso"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AC",
+    "nomeCidade": "Brasiléia",
+    "feriados": [
+      {
+        "dataFeriado": "03 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Brasiléia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AC",
+    "nomeCidade": "Bujari",
+    "feriados": [
+      {
+        "dataFeriado": "28 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bujari"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AC",
+    "nomeCidade": "Capixaba",
+    "feriados": [
+      {
+        "dataFeriado": "28 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Capixaba"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AC",
+    "nomeCidade": "Cruzeiro do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Glória"
+      },
+      {
+        "dataFeriado": "28 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cruzeiro do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AC",
+    "nomeCidade": "Epitaciolândia",
+    "feriados": [
+      {
+        "dataFeriado": "28 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Epitaciolândia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AC",
+    "nomeCidade": "Feijó",
+    "feriados": [
+      {
+        "dataFeriado": "21 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Feijó"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AC",
+    "nomeCidade": "Jordão",
+    "feriados": [
+      {
+        "dataFeriado": "28 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jordão"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AC",
+    "nomeCidade": "Mâncio Lima",
+    "feriados": [
+      {
+        "dataFeriado": "30 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mâncio Lima"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AC",
+    "nomeCidade": "Manoel Urbano",
+    "feriados": [
+      {
+        "dataFeriado": "14 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Manoel Urbano"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AC",
+    "nomeCidade": "Marechal Thaumaturgo",
+    "feriados": [
+      {
+        "dataFeriado": "05 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Marechal Thaumaturgo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AC",
+    "nomeCidade": "Plácido de Castro",
+    "feriados": [
+      {
+        "dataFeriado": "30 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Plácido de Castro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AC",
+    "nomeCidade": "Porto Walter",
+    "feriados": [
+      {
+        "dataFeriado": "28 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Porto Walter"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AC",
+    "nomeCidade": "Rio Branco",
+    "feriados": [
+      {
+        "dataFeriado": "28 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rio Branco"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AC",
+    "nomeCidade": "Rodrigues Alves",
+    "feriados": [
+      {
+        "dataFeriado": "28 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AC",
+    "nomeCidade": "Santa Rosa do Purus",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AC",
+    "nomeCidade": "Senador Guiomard",
+    "feriados": [
+      {
+        "dataFeriado": "14 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Senador Guiomard"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AC",
+    "nomeCidade": "Sena Madureira",
+    "feriados": [
+      {
+        "dataFeriado": "25 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Sena Madureira"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AC",
+    "nomeCidade": "Tarauacá",
+    "feriados": [
+      {
+        "dataFeriado": "24 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tarauacá"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AC",
+    "nomeCidade": "Xapuri",
+    "feriados": [
+      {
+        "dataFeriado": "22 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Xapuri"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AC",
+    "nomeCidade": "Porto Acre",
+    "feriados": []
+  }
+]

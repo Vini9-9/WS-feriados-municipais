@@ -1,0 +1,549 @@
+[
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Alta Floresta D'Oeste",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Ariquemes",
+    "feriados": [
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Cabixi",
+    "feriados": [
+      {
+        "dataFeriado": "06 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "06 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Cacoal",
+    "feriados": [
+      {
+        "dataFeriado": "26 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cacoal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Cerejeiras",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Colorado do Oeste",
+    "feriados": [
+      {
+        "dataFeriado": "16 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Colorado do Oeste"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Corumbiara",
+    "feriados": [
+      {
+        "dataFeriado": "13 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Corumbiara"
+      },
+      {
+        "dataFeriado": "27 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "09 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Costa Marques",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "01 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Instalação do Poder Legislativo"
+      },
+      {
+        "dataFeriado": "16 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Corpus Christi, Aniversário de Costa Marques"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Espigão D'Oeste",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Guajará-Mirim",
+    "feriados": [
+      {
+        "dataFeriado": "10 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Guajará-Mirim"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Jaru",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "07 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jaru"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Ji-Paraná",
+    "feriados": [
+      {
+        "dataFeriado": "16 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João Bosco"
+      },
+      {
+        "dataFeriado": "22 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ji-Paraná"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Machadinho D'Oeste",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Nova Brasilândia D'Oeste",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Ouro Preto do Oeste",
+    "feriados": [
+      {
+        "dataFeriado": "16 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Corpus Christi, Aniversário de Ouro Preto do Oeste"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Pimenta Bueno",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora de Fátima"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pimenta Bueno"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Porto Velho",
+    "feriados": [
+      {
+        "dataFeriado": "24 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Auxiliadora"
+      },
+      {
+        "dataFeriado": "02 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Porto Velho"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Presidente Médici",
+    "feriados": [
+      {
+        "dataFeriado": "16 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Presidente Médici"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Rio Crespo",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Rolim de Moura",
+    "feriados": [
+      {
+        "dataFeriado": "05 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rolim de Moura"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Santa Luzia D'Oeste",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Vilhena",
+    "feriados": [
+      {
+        "dataFeriado": "23 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Vilhena"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "São Miguel do Guaporé",
+    "feriados": [
+      {
+        "dataFeriado": "29 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Nova Mamoré",
+    "feriados": [
+      {
+        "dataFeriado": "21 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Mamoré"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Alvorada D'Oeste",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Alto Alegre dos Parecis",
+    "feriados": [
+      {
+        "dataFeriado": "11 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Alto Paraíso",
+    "feriados": [
+      {
+        "dataFeriado": "13 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Alto Paraíso"
+      },
+      {
+        "dataFeriado": "24 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Buritis",
+    "feriados": [
+      {
+        "dataFeriado": "29 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Novo Horizonte do Oeste",
+    "feriados": [
+      {
+        "dataFeriado": "13 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Novo Horizonte do Oeste"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Cacaulândia",
+    "feriados": [
+      {
+        "dataFeriado": "13 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "16 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Campo Novo de Rondônia",
+    "feriados": [
+      {
+        "dataFeriado": "13 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Campo Novo de Rondônia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Candeias do Jamari",
+    "feriados": [
+      {
+        "dataFeriado": "13 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Candeias do Jamari"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Castanheiras",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Chupinguaia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Cujubim",
+    "feriados": [
+      {
+        "dataFeriado": "22 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cujubim"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Governador Jorge Teixeira",
+    "feriados": [
+      {
+        "dataFeriado": "13 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Governador Jorge Teixeira"
+      },
+      {
+        "dataFeriado": "22 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Itapuã do Oeste",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Ministro Andreazza",
+    "feriados": [
+      {
+        "dataFeriado": "13 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ministro Andreazza"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Mirante da Serra",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Monte Negro",
+    "feriados": [
+      {
+        "dataFeriado": "14 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Nova União",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Parecis",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Pimenteiras do Oeste",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Primavera de Rondônia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "São Felipe D'Oeste",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "São Francisco do Guaporé",
+    "feriados": [
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Seringueiras",
+    "feriados": [
+      {
+        "dataFeriado": "13 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Seringueiras"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Teixeirópolis",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Theobroma",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Urupá",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Vale do Anari",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RO",
+    "nomeCidade": "Vale do Paraíso",
+    "feriados": []
+  }
+]

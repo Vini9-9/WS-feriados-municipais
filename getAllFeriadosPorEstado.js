@@ -6,10 +6,23 @@ async function getFeriadosPorCidade(nomeCidade, siglaEstado){
     return await webScraping(nomeCidade, siglaEstado)
 }
 
-async function getFeriadosPorCidades(cidades) {
-    for (const cidade of cidades) {
-        await getFeriadosPorCidade(cidade)
+async function getFeriadosPorCidades(estados) {
+    listAllFeriados = []
+    for (const estado of estados) {
+        cidades = estado.cidades
+        for (const cidade of cidades) {
+            console.log('** GERANDO FERIADOS DA CIDADE: ', cidade + '-' + estado.sigla)
+            try {
+                listAllFeriados
+                .push(await getFeriadosPorCidade(cidade, estado.sigla))
+            } catch (error) {
+                console.log(error)
+                return listAllFeriados
+            }
+            
+        } 
     }  
+    return listAllFeriados;
 }
 
 function formatarURL(nomeCidade, siglaEstado, ano) {
@@ -22,7 +35,9 @@ function formatarURL(nomeCidade, siglaEstado, ano) {
 
 function formatarNomeCidade(nomeCidade) {
     cidadeSemAcento = removeAcento(nomeCidade)
-    return cidadeSemAcento.replaceAll(' ','-');
+    cidadeSemEspaco = cidadeSemAcento.replaceAll(' ','-');
+    cidadeFormatada = cidadeSemEspaco.replace(/\'/g, "");
+    return cidadeFormatada
 }
 
 function removeAcento (text)
@@ -38,7 +53,7 @@ function removeAcento (text)
 }
 
 function criarJSON(dados, nomeArquivo) {
-    fs.writeFile(nomeArquivo, JSON.stringify(dados, null, 2), err => {
+    fs.writeFile('./estados/' + nomeArquivo, JSON.stringify(dados, null, 2), err => {
         if(err) throw new Error('Alguma coisa deu errado')
         console.log(`Consegui criar o arquivo ${nomeArquivo}`)
     })
@@ -82,25 +97,48 @@ async function webScraping(nomeCidade, siglaEstado){
     return feriadosObj
 }
 
-async function execute(siglaEstado, cidade){
+async function getFeriadosPorEstado(dadosEstado) {
+    listFeriadosEstado = []
+    sigla = dadosEstado[0].sigla
+    cidades = dadosEstado[0].cidades
+    for (const cidade of cidades) {
+        console.log('** GERANDO FERIADOS DA CIDADE: ', cidade + '-' + sigla)
+        try {
+            let feriadosCidade = await getFeriadosPorCidade(cidade, sigla)
+            listFeriadosEstado.push(feriadosCidade)
+        } catch (error) {
+            console.log(error)
+            return listFeriadosEstado
+        }
+        
+    }  
+    
+    return listFeriadosEstado;
+}
+
+function filtrarDadosEstado(dados, siglaEstado) {
+    return dados.filter((el) => {
+        return el.sigla == siglaEstado; 
+    })
+}
+
+async function execute(siglaEstado){
     try {
-        // siglaEstadoInformado = "SP"; //informe a sigla do estado aqui
-        // cidadeInformada = "São Bernardo do Campo"; //informe a cidade aqui
-        const response = fs.readFileSync('./cidades.json', { encoding: 'utf8' });
-        const feriadosMunicipais = await getFeriadosPorCidade(cidade, siglaEstado)
-        criarJSON(feriadosMunicipais, 'feriado-municipal.json')
+        const cidadesJSON = fs.readFileSync('./cidades.json', { encoding: 'utf8' });
+        const dados = JSON.parse(cidadesJSON);
+        dadosEstado = filtrarDadosEstado(dados, siglaEstado);
+        const feriadosMunicipais = await getFeriadosPorEstado(dadosEstado)
+        criarJSON(feriadosMunicipais, `feriados-municipais-${siglaEstado}.json`)
     } catch (error) {
         console.error(error);
     }
       
 }
 
-console.log("================================================");
-console.log("| 💻 BEM VINDO AO WS DE FERIADOS MUNICIPAIS 💻 |");
-console.log("================================================");
+console.log("============================================================");
+console.log("| 💻 BEM VINDO AO WS DE FERIADOS MUNICIPAIS POR ESTADO💻 |");
+console.log("============================================================");
 
-const siglaEstadoInformado = prompt('Qual a sigla do estado onde fica a cidade? R.:');
+const siglaEstadoInformado = prompt('Qual a sigla do estado? R.:');
 console.log(`LOG: Sigla informada: ${siglaEstadoInformado}`);
-const cidadeInformada = prompt('Qual o nome da cidade? R.:');
-console.log(`LOG: Cidade informada: ${cidadeInformada}`);
-execute(siglaEstadoInformado, cidadeInformada)
+execute(siglaEstadoInformado)
