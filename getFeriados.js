@@ -100,7 +100,7 @@ console.log("| 💻 BEM VINDO AO WS DE FERIADOS MUNICIPAIS 💻 |");
 console.log("================================================");
 
 const siglaEstadoInformado = prompt('Qual a sigla do estado onde fica a cidade? R.:');
-console.log(`Sigla informada: ${siglaEstadoInformado}`);
+console.log(`LOG: Sigla informada: ${siglaEstadoInformado}`);
 const cidadeInformada = prompt('Qual o nome da cidade? R.:');
-console.log(`Cidade informada: ${cidadeInformada}`);
+console.log(`LOG: Cidade informada: ${cidadeInformada}`);
 execute(siglaEstadoInformado, cidadeInformada)
