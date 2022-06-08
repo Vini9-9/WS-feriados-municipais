@@ -1,0 +1,778 @@
+[
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Alvarães",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Amaturá",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Anamã",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Anori",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Apuí",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Apuí"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Atalaia do Norte",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Autazes",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Barcelos",
+    "feriados": [
+      {
+        "dataFeriado": "06 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Barcelos"
+      },
+      {
+        "dataFeriado": "07 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Barreirinha",
+    "feriados": [
+      {
+        "dataFeriado": "09 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Barreirinha"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Benjamin Constant",
+    "feriados": [
+      {
+        "dataFeriado": "29 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Benjamin Constant"
+      },
+      {
+        "dataFeriado": "05 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Presença Capuchina no Amazonas"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Francisco de Assis"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Beruri",
+    "feriados": [
+      {
+        "dataFeriado": "10 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Beruri"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Boa Vista do Ramos",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Boca do Acre",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Boca do Acre"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Borba",
+    "feriados": [
+      {
+        "dataFeriado": "01 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Caapiranga",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Canutama",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "10 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Canutama"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Carauari",
+    "feriados": [
+      {
+        "dataFeriado": "27 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Carauari"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Careiro",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "19 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Careiro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Careiro da Várzea",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Coari",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "02 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Coari"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Codajás",
+    "feriados": [
+      {
+        "dataFeriado": "31 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Codajás"
+      },
+      {
+        "dataFeriado": "31 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Eirunepé",
+    "feriados": [
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Eirunepé"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Envira",
+    "feriados": [
+      {
+        "dataFeriado": "30 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Envira"
+      },
+      {
+        "dataFeriado": "27 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Fonte Boa",
+    "feriados": [
+      {
+        "dataFeriado": "31 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Fonte Boa"
+      },
+      {
+        "dataFeriado": "12 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Guajará",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Humaitá",
+    "feriados": [
+      {
+        "dataFeriado": "15 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Humaitá"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Ipixuna",
+    "feriados": [
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Iranduba",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "10 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Iranduba"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Itacoatiara",
+    "feriados": [
+      {
+        "dataFeriado": "25 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itacoatiara"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Itamarati",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Itapiranga",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Japurá",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Juruá",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Jutaí",
+    "feriados": [
+      {
+        "dataFeriado": "19 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Lábrea",
+    "feriados": [
+      {
+        "dataFeriado": "07 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Lábrea"
+      },
+      {
+        "dataFeriado": "29 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Manacapuru",
+    "feriados": [
+      {
+        "dataFeriado": "16 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Manacapuru"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Manaquiri",
+    "feriados": [
+      {
+        "dataFeriado": "25 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Manaquiri"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Manaus",
+    "feriados": [
+      {
+        "dataFeriado": "24 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Manaus"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Manicoré",
+    "feriados": [
+      {
+        "dataFeriado": "17 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Páscoa, Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Manicoré"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Maraã",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Maués",
+    "feriados": [
+      {
+        "dataFeriado": "25 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Maués"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Nhamundá",
+    "feriados": [
+      {
+        "dataFeriado": "31 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nhamundá"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "10 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Nova Olinda do Norte",
+    "feriados": [
+      {
+        "dataFeriado": "19 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Olinda do Norte"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Novo Airão",
+    "feriados": [
+      {
+        "dataFeriado": "05 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "19 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Novo Airão"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Novo Aripuanã",
+    "feriados": [
+      {
+        "dataFeriado": "19 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Novo Aripuanã"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Parintins",
+    "feriados": [
+      {
+        "dataFeriado": "14 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Sagração do Primeiro Bispo de Parintins"
+      },
+      {
+        "dataFeriado": "16 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Carmo"
+      },
+      {
+        "dataFeriado": "15 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Parintins"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Pauini",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Presidente Figueiredo",
+    "feriados": [
+      {
+        "dataFeriado": "27 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Presidente Figueiredo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Rio Preto da Eva",
+    "feriados": [
+      {
+        "dataFeriado": "31 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rio Preto da Eva"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Santa Isabel do Rio Negro",
+    "feriados": [
+      {
+        "dataFeriado": "05 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Isabel"
+      },
+      {
+        "dataFeriado": "29 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Isabel do Rio Negro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Santo Antônio do Içá",
+    "feriados": [
+      {
+        "dataFeriado": "13 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santo Antônio do Içá"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "São Gabriel da Cachoeira",
+    "feriados": [
+      {
+        "dataFeriado": "03 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Gabriel da Cachoeira"
+      },
+      {
+        "dataFeriado": "29 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "São Paulo de Olivença",
+    "feriados": [
+      {
+        "dataFeriado": "31 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Paulo de Olivença"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "São Sebastião do Uatumã",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Silves",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Tabatinga",
+    "feriados": [
+      {
+        "dataFeriado": "01 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tabatinga"
+      },
+      {
+        "dataFeriado": "29 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santos Anjos"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Tapauá",
+    "feriados": [
+      {
+        "dataFeriado": "22 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "19 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tapauá"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Tefé",
+    "feriados": [
+      {
+        "dataFeriado": "15 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tefé"
+      },
+      {
+        "dataFeriado": "15 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Tonantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Uarini",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Urucará",
+    "feriados": [
+      {
+        "dataFeriado": "12 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Urucará"
+      },
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AM",
+    "nomeCidade": "Urucurituba",
+    "feriados": []
+  }
+]
