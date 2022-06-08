@@ -9,10 +9,11 @@
 - [X] Listar o nome de todas as cidades do Brasil;
 - [X] Listar todos os feriados municipais por cidade;
 - [X] Listar todos os feriados municipais por estado;
+- [X] Atualizar arquivo dos feriados por estado com as cidades restantes (não processadas);
 - [ ] Listar todos os feriados municipais do Brasil;
 
 Estados com feriados listados: 
-* Acre - AC, Distrito Federal - DF, Rondônia - RO, São Paulo - SP;
+* AC, AM, DF, GO, MG, RJ, RO, SP;
 
 Epa! Vimos que você copiou o texto. Sem problemas, desde que cite o link: https://www.migalhas.com.br/coluna/gramatigalhas/127056/siglas-dos-estados-brasileiros
 

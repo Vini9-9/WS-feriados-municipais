@@ -6,25 +6,6 @@ async function getFeriadosPorCidade(nomeCidade, siglaEstado){
     return await webScraping(nomeCidade, siglaEstado)
 }
 
-async function getFeriadosPorCidades(estados) {
-    listAllFeriados = []
-    for (const estado of estados) {
-        cidades = estado.cidades
-        for (const cidade of cidades) {
-            console.log('** GERANDO FERIADOS DA CIDADE: ', cidade + '-' + estado.sigla)
-            try {
-                listAllFeriados
-                .push(await getFeriadosPorCidade(cidade, estado.sigla))
-            } catch (error) {
-                console.log(error)
-                return listAllFeriados
-            }
-            
-        } 
-    }  
-    return listAllFeriados;
-}
-
 function formatarURL(nomeCidade, siglaEstado, ano) {
     const pageDefault = "https://calendario.online/feriados-";
     nomeCidadeFormatado = formatarNomeCidade(nomeCidade);
@@ -99,8 +80,8 @@ async function webScraping(nomeCidade, siglaEstado){
 
 async function getFeriadosPorEstado(dadosEstado) {
     listFeriadosEstado = []
-    sigla = dadosEstado[0].sigla
-    cidades = dadosEstado[0].cidades
+    sigla = dadosEstado.sigla
+    cidades = dadosEstado.cidades
     for (const cidade of cidades) {
         console.log('** GERANDO FERIADOS DA CIDADE: ', cidade + '-' + sigla)
         try {
@@ -122,13 +103,44 @@ function filtrarDadosEstado(dados, siglaEstado) {
     })
 }
 
-async function execute(siglaEstado){
+async function execute(siglaInformada){
+    let siglaEstado = siglaInformada.toUpperCase();
     try {
-        const cidadesJSON = fs.readFileSync('./cidades.json', { encoding: 'utf8' });
+        const path = `./estados/feriados-municipais-${siglaEstado}.json`;
+
+        cidadesJSON = fs.readFileSync('./cidades.json', { encoding: 'utf8' });
         const dados = JSON.parse(cidadesJSON);
-        dadosEstado = filtrarDadosEstado(dados, siglaEstado);
-        const feriadosMunicipais = await getFeriadosPorEstado(dadosEstado)
+        var dadosEstado = filtrarDadosEstado(dados, siglaEstado)[0];
+
+        if (fs.existsSync(path)) {  
+            console.log("Localizei um JSON referente a esse estado, vou atualizá-lo")
+            cidadesEstadoJSON = fs.readFileSync(path, { encoding: 'utf8' });
+            const cidadesRealizadas = JSON.parse(cidadesEstadoJSON);
+            const qtdCidadesRealizadas = cidadesRealizadas.length;
+            var cidadesEstado = dadosEstado.cidades;
+
+            if(qtdCidadesRealizadas == cidadesEstado.length){
+                console.log("O arquivo JSON já está atualizado.")
+                return
+            } 
+
+            var cidadesEstadoRestantes = cidadesEstado.slice(qtdCidadesRealizadas, 
+                cidadesEstado.length);
+
+            dadosEstado = {
+                sigla: siglaEstado, 
+                cidades: cidadesEstadoRestantes
+            }
+            novosferiadosMunicipais = await getFeriadosPorEstado(dadosEstado)
+            feriadosMunicipais = cidadesRealizadas.concat(novosferiadosMunicipais);
+
+            
+        } else {
+            feriadosMunicipais = await getFeriadosPorEstado(dadosEstado)
+        }
+        
         criarJSON(feriadosMunicipais, `feriados-municipais-${siglaEstado}.json`)
+        
     } catch (error) {
         console.error(error);
     }
