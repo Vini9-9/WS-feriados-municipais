@@ -138,11 +138,12 @@ async function execute(siglaInformada){
         } else {
             feriadosMunicipais = await getFeriadosPorEstado(dadosEstado)
         }
-        
+
         criarJSON(feriadosMunicipais, `feriados-municipais-${siglaEstado}.json`)
         
     } catch (error) {
         console.error(error);
+        return
     }
       
 }
