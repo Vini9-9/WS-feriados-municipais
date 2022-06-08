@@ -1,0 +1,7146 @@
+[
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Abaíra",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Abaré",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "19 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Abaré"
+      },
+      {
+        "dataFeriado": "25 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Acajutiba",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Acajutiba"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Adustina",
+    "feriados": [
+      {
+        "dataFeriado": "05 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Água Fria",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Água Fria"
+      },
+      {
+        "dataFeriado": "29 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "23 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Érico Cardoso",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Aiquara",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Alagoinhas",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "22 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Alagoinhas"
+      },
+      {
+        "dataFeriado": "20 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Consciência Negra"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Alcobaça",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Alcobaça"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Almadina",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Amargosa",
+    "feriados": [
+      {
+        "dataFeriado": "26 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Amélia Rodrigues",
+    "feriados": [
+      {
+        "dataFeriado": "26 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "20 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Amélia Rodrigues"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "América Dourada",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "06 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Anagé",
+    "feriados": [
+      {
+        "dataFeriado": "05 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Anagé"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Andaraí",
+    "feriados": [
+      {
+        "dataFeriado": "28 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Andaraí"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Andorinha",
+    "feriados": [
+      {
+        "dataFeriado": "31 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Andorinha"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Angical",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "05 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Angical"
+      },
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Anguera",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Antas",
+    "feriados": [
+      {
+        "dataFeriado": "13 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Antas"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Antônio Cardoso",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Antônio Gonçalves",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Aporá",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Aporá"
+      },
+      {
+        "dataFeriado": "16 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Apuarema",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Aracatu",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Aracatu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Araçás",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Araci",
+    "feriados": [
+      {
+        "dataFeriado": "07 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Araci"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Aramari",
+    "feriados": [
+      {
+        "dataFeriado": "06 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Aramari"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Arataca",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Aratuípe",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Aurelino Leal",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Baianópolis",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "30 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Baianópolis"
+      },
+      {
+        "dataFeriado": "10 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Baixa Grande",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "17 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Baixa Grande"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Banzaê",
+    "feriados": [
+      {
+        "dataFeriado": "24 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Banzaê"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Barra",
+    "feriados": [
+      {
+        "dataFeriado": "16 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Corpus Christi, Aniversário de Barra"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Barra da Estiva",
+    "feriados": [
+      {
+        "dataFeriado": "15 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Barra do Choça",
+    "feriados": [
+      {
+        "dataFeriado": "22 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Barra do Choça"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Barra do Mendes",
+    "feriados": [
+      {
+        "dataFeriado": "23 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "14 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Barra do Mendes"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Barra do Rocha",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Barreiras",
+    "feriados": [
+      {
+        "dataFeriado": "26 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Barreiras"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "02 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Evangélico"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Barro Alto",
+    "feriados": [
+      {
+        "dataFeriado": "09 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Barro Alto"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Barrocas",
+    "feriados": [
+      {
+        "dataFeriado": "30 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Barrocas"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "23 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Barro Preto",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Belmonte",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "16 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Carmo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Belo Campo",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Biritinga",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "05 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "23 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Biritinga"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Boa Nova",
+    "feriados": [
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Boa Nova"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Boa Vista do Tupim",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "19 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Boa Vista do Tupim"
+      },
+      {
+        "dataFeriado": "22 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Bom Jesus da Lapa",
+    "feriados": [
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Bom Jesus da Serra",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Boninal",
+    "feriados": [
+      {
+        "dataFeriado": "23 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Boninal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "20 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Consciência Negra"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Bonito",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bonito"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Boquira",
+    "feriados": [
+      {
+        "dataFeriado": "06 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Boquira"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Botuporã",
+    "feriados": [
+      {
+        "dataFeriado": "22 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Botuporã"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Brejões",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "26 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Brejões"
+      },
+      {
+        "dataFeriado": "21 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Brejolândia",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Brotas de Macaúbas",
+    "feriados": [
+      {
+        "dataFeriado": "30 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "17 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Brumado",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "11 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Brumado"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Senhor Bom Jesus"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Buerarema",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "17 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Buerarema"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Buritirama",
+    "feriados": [
+      {
+        "dataFeriado": "10 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "09 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Buritirama"
+      },
+      {
+        "dataFeriado": "10 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Caatiba",
+    "feriados": [
+      {
+        "dataFeriado": "25 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "01 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Caatiba"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Cabaceiras do Paraguaçu",
+    "feriados": [
+      {
+        "dataFeriado": "14 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cabaceiras do Paraguaçu"
+      },
+      {
+        "dataFeriado": "29 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Cachoeira",
+    "feriados": [
+      {
+        "dataFeriado": "13 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cachoeira"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "25 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Caculé",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "14 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Caculé"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Caém",
+    "feriados": [
+      {
+        "dataFeriado": "10 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Caém"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Caetanos",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Caetité",
+    "feriados": [
+      {
+        "dataFeriado": "05 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Caetité"
+      },
+      {
+        "dataFeriado": "12 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Cafarnaum",
+    "feriados": [
+      {
+        "dataFeriado": "07 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Cairu",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Caldeirão Grande",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Camacan",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "31 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Camacan"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Camaçari",
+    "feriados": [
+      {
+        "dataFeriado": "07 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Tomaz de Cantuária"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festejos Juninos"
+      },
+      {
+        "dataFeriado": "28 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Camaçari"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Camamu",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "27 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Campo Alegre de Lourdes",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Campo Formoso",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      },
+      {
+        "dataFeriado": "28 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Campo Formoso"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Canápolis",
+    "feriados": [
+      {
+        "dataFeriado": "16 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Corpus Christi, Feriado Municipal"
+      },
+      {
+        "dataFeriado": "19 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Canápolis"
+      },
+      {
+        "dataFeriado": "29 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Canarana",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "23 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Canavieiras",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Canavieiras"
+      },
+      {
+        "dataFeriado": "14 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Candeal",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Candeias",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "14 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Candeias"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Candiba",
+    "feriados": [
+      {
+        "dataFeriado": "15 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Cândido Sales",
+    "feriados": [
+      {
+        "dataFeriado": "05 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "05 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cândido Sales"
+      },
+      {
+        "dataFeriado": "27 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Cansanção",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cansanção"
+      },
+      {
+        "dataFeriado": "23 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Canudos",
+    "feriados": [
+      {
+        "dataFeriado": "24 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "05 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Capela do Alto Alegre",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "17 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Páscoa, Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "23 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Capim Grosso",
+    "feriados": [
+      {
+        "dataFeriado": "09 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Capim Grosso"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Caraíbas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Caravelas",
+    "feriados": [
+      {
+        "dataFeriado": "23 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Caravelas"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Cardeal da Silva",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "30 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cardeal da Silva"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Carinhanha",
+    "feriados": [
+      {
+        "dataFeriado": "08 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Casa Nova",
+    "feriados": [
+      {
+        "dataFeriado": "20 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Casa Nova"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Castro Alves",
+    "feriados": [
+      {
+        "dataFeriado": "14 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "26 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Castro Alves"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Catolândia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Catu",
+    "feriados": [
+      {
+        "dataFeriado": "26 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Catu"
+      },
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Caturama",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Central",
+    "feriados": [
+      {
+        "dataFeriado": "06 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Central"
+      },
+      {
+        "dataFeriado": "01 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Chorrochó",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Cícero Dantas",
+    "feriados": [
+      {
+        "dataFeriado": "09 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cícero Dantas"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Cipó",
+    "feriados": [
+      {
+        "dataFeriado": "06 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Reis"
+      },
+      {
+        "dataFeriado": "03 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cipó"
+      },
+      {
+        "dataFeriado": "04 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Coaraci",
+    "feriados": [
+      {
+        "dataFeriado": "11 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Coaraci"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Cocos",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cocos"
+      },
+      {
+        "dataFeriado": "28 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Conceição da Feira",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "23 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Conceição da Feira"
+      },
+      {
+        "dataFeriado": "30 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Conceição do Almeida",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "18 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Conceição do Almeida"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Conceição do Coité",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "07 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Conceição do Coité"
+      },
+      {
+        "dataFeriado": "23 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Conceição do Jacuípe",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "20 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Conceição do Jacuípe"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Conde",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "10 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Condeúba",
+    "feriados": [
+      {
+        "dataFeriado": "14 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Contendas do Sincorá",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Coração de Maria",
+    "feriados": [
+      {
+        "dataFeriado": "01 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Coração de Maria"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Cordeiros",
+    "feriados": [
+      {
+        "dataFeriado": "31 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "25 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Coribe",
+    "feriados": [
+      {
+        "dataFeriado": "23 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "25 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Coribe"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Coronel João Sá",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "28 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Coronel João Sá"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Correntina",
+    "feriados": [
+      {
+        "dataFeriado": "30 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Correntina"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "01 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Cotegipe",
+    "feriados": [
+      {
+        "dataFeriado": "03 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "30 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cotegipe"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Cravolândia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Crisópolis",
+    "feriados": [
+      {
+        "dataFeriado": "12 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Cristópolis",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "19 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cristópolis"
+      },
+      {
+        "dataFeriado": "01 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Cruz das Almas",
+    "feriados": [
+      {
+        "dataFeriado": "20 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Consciência Negra"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Curaçá",
+    "feriados": [
+      {
+        "dataFeriado": "06 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Curaçá"
+      },
+      {
+        "dataFeriado": "01 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Romaria da Gruta de Patamuté"
+      },
+      {
+        "dataFeriado": "30 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Benedito"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Dário Meira",
+    "feriados": [
+      {
+        "dataFeriado": "12 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Dário Meira"
+      },
+      {
+        "dataFeriado": "31 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Consciência Negra"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Dias d'Ávila",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Dom Basílio",
+    "feriados": [
+      {
+        "dataFeriado": "07 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Dom Macedo Costa",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Elísio Medrado",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Encruzilhada",
+    "feriados": [
+      {
+        "dataFeriado": "31 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "12 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Encruzilhada"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Entre Rios",
+    "feriados": [
+      {
+        "dataFeriado": "03 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Entre Rios"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Esplanada",
+    "feriados": [
+      {
+        "dataFeriado": "23 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Esplanada"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Piedade"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Francisco de Assis"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Euclides da Cunha",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "19 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Euclides da Cunha"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Eunápolis",
+    "feriados": [
+      {
+        "dataFeriado": "24 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Auxiliadora"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Fátima",
+    "feriados": [
+      {
+        "dataFeriado": "06 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Reis"
+      },
+      {
+        "dataFeriado": "01 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Fátima"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Feira da Mata",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Feira de Santana",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Santana"
+      },
+      {
+        "dataFeriado": "18 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Feira de Santana"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Filadélfia",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "09 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Filadélfia"
+      },
+      {
+        "dataFeriado": "21 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Firmino Alves",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Floresta Azul",
+    "feriados": [
+      {
+        "dataFeriado": "23 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Floresta Azul"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "01 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Formosa do Rio Preto",
+    "feriados": [
+      {
+        "dataFeriado": "22 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Formosa do Rio Preto"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Gandu",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Gandu"
+      },
+      {
+        "dataFeriado": "16 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Gavião",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Gentio do Ouro",
+    "feriados": [
+      {
+        "dataFeriado": "23 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "09 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Gentio do Ouro"
+      },
+      {
+        "dataFeriado": "14 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Glória",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Gongogi",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Governador Mangabeira",
+    "feriados": [
+      {
+        "dataFeriado": "14 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Governador Mangabeira"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "27 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Guajeru",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Guanambi",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      },
+      {
+        "dataFeriado": "14 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Guanambi"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Guaratinga",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "31 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Guaratinga"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Heliópolis",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Iaçu",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "14 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Iaçu"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ibiassucê",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "18 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ibicaraí",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ibicaraí"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ibicoara",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "11 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ibicoara"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ibicuí",
+    "feriados": [
+      {
+        "dataFeriado": "12 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ibicuí"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ibipeba",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ibipitanga",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ibiquera",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ibirapitanga",
+    "feriados": [
+      {
+        "dataFeriado": "16 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "03 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ibirapitanga"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ibirapuã",
+    "feriados": [
+      {
+        "dataFeriado": "20 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ibirapuã"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ibirataia",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "10 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ibirataia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ibitiara",
+    "feriados": [
+      {
+        "dataFeriado": "02 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Quarta-feira de Cinzas, Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ibititá",
+    "feriados": [
+      {
+        "dataFeriado": "31 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "17 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ibititá"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ibotirama",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "14 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ibotirama"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ichu",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Igaporã",
+    "feriados": [
+      {
+        "dataFeriado": "01 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Igaporã"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "11 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "21 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Igrapiúna",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Iguaí",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "12 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Iguaí"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ilhéus",
+    "feriados": [
+      {
+        "dataFeriado": "23 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Jorge"
+      },
+      {
+        "dataFeriado": "28 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ilhéus"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Vitória"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Inhambupe",
+    "feriados": [
+      {
+        "dataFeriado": "08 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "20 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Consciência Negra"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ipecaetá",
+    "feriados": [
+      {
+        "dataFeriado": "11 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "19 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ipecaetá"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ipiaú",
+    "feriados": [
+      {
+        "dataFeriado": "16 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "02 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ipiaú"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ipirá",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ipupiara",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "09 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ipupiara"
+      },
+      {
+        "dataFeriado": "17 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Irajuba",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Iramaia",
+    "feriados": [
+      {
+        "dataFeriado": "28 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Iramaia"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Iraquara",
+    "feriados": [
+      {
+        "dataFeriado": "05 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Iraquara"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Irará",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Irecê",
+    "feriados": [
+      {
+        "dataFeriado": "31 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Irecê"
+      },
+      {
+        "dataFeriado": "04 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Itabela",
+    "feriados": [
+      {
+        "dataFeriado": "14 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Itaberaba",
+    "feriados": [
+      {
+        "dataFeriado": "26 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itaberaba"
+      },
+      {
+        "dataFeriado": "18 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Itabuna",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "28 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itabuna"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Itacaré",
+    "feriados": [
+      {
+        "dataFeriado": "26 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Itaeté",
+    "feriados": [
+      {
+        "dataFeriado": "25 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itaeté"
+      },
+      {
+        "dataFeriado": "27 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora das Graças"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Itagi",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "10 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itagi"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Itagibá",
+    "feriados": [
+      {
+        "dataFeriado": "06 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itagibá"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Itagimirim",
+    "feriados": [
+      {
+        "dataFeriado": "23 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itagimirim"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Itaguaçu da Bahia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Itaju do Colônia",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "19 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "23 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Itajuípe",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "12 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itajuípe"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Itamaraju",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "27 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "05 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itamaraju"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Itamari",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Itambé",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "12 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itambé"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Itanagra",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Itanhém",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "11 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Brumado"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Bom Jesus"
+      },
+      {
+        "dataFeriado": "14 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itanhém"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora D'Ajuda"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Itaparica",
+    "feriados": [
+      {
+        "dataFeriado": "07 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "10 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itaparica"
+      },
+      {
+        "dataFeriado": "20 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Consciência Negra"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Itapé",
+    "feriados": [
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itapé"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Itapebi",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Itapetinga",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Itapicuru",
+    "feriados": [
+      {
+        "dataFeriado": "28 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itapicuru"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "24 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Itapitanga",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "07 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "21 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itapitanga"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Itaquara",
+    "feriados": [
+      {
+        "dataFeriado": "19 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Itarantim",
+    "feriados": [
+      {
+        "dataFeriado": "20 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "15 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Itatim",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itatim"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "30 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Itiruçu",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "01 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itiruçu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Itiúba",
+    "feriados": [
+      {
+        "dataFeriado": "17 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itiúba"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Itororó",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      },
+      {
+        "dataFeriado": "22 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itororó"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ituaçu",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "03 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ituberá",
+    "feriados": [
+      {
+        "dataFeriado": "14 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ituberá"
+      },
+      {
+        "dataFeriado": "30 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Iuiu",
+    "feriados": [
+      {
+        "dataFeriado": "24 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Iuiu"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Jaborandi",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Jacaraci",
+    "feriados": [
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Jacobina",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Jaguaquara",
+    "feriados": [
+      {
+        "dataFeriado": "18 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jaguaquara"
+      },
+      {
+        "dataFeriado": "24 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Jaguarari",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jaguarari"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Jaguaripe",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Jandaíra",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "14 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Jequié",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João Batista"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Jeremoabo",
+    "feriados": [
+      {
+        "dataFeriado": "23 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "06 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Jiquiriçá",
+    "feriados": [
+      {
+        "dataFeriado": "31 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jiquiriçá"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Jitaúna",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "João Dourado",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "09 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de João Dourado"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Juazeiro",
+    "feriados": [
+      {
+        "dataFeriado": "15 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Juazeiro"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora das Grotas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Jucuruçu",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Jussara",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jussara"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Jussari",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Jussiape",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "09 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jussiape"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Lafaiete Coutinho",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Lagoa Real",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Lagoa Real"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Laje",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "20 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Laje"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Lajedão",
+    "feriados": [
+      {
+        "dataFeriado": "31 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Lajedinho",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Lajedo do Tabocal",
+    "feriados": [
+      {
+        "dataFeriado": "02 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Quarta-feira de Cinzas, Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Lajedo do Tabocal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "29 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Lamarão",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Lapão",
+    "feriados": [
+      {
+        "dataFeriado": "09 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Lapão"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Lauro de Freitas",
+    "feriados": [
+      {
+        "dataFeriado": "15 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Amaro de Ipitanga"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "31 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Lauro de Freitas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Lençóis",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Licínio de Almeida",
+    "feriados": [
+      {
+        "dataFeriado": "12 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Licínio de Almeida"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "20 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Consciência Negra"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Livramento de Nossa Senhora",
+    "feriados": [
+      {
+        "dataFeriado": "28 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "06 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Livramento de Nossa Senhora"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Luís Eduardo Magalhães",
+    "feriados": [
+      {
+        "dataFeriado": "30 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Luís Eduardo Magalhães"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Macajuba",
+    "feriados": [
+      {
+        "dataFeriado": "13 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Macarani",
+    "feriados": [
+      {
+        "dataFeriado": "03 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Macaúbas",
+    "feriados": [
+      {
+        "dataFeriado": "06 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Macaúbas"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Macururé",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "27 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Macururé"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Madre de Deus",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Madre de Deus"
+      },
+      {
+        "dataFeriado": "27 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Maetinga",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Maiquinique",
+    "feriados": [
+      {
+        "dataFeriado": "21 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "16 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Maiquinique"
+      },
+      {
+        "dataFeriado": "24 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Mairi",
+    "feriados": [
+      {
+        "dataFeriado": "05 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Malhada",
+    "feriados": [
+      {
+        "dataFeriado": "07 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "03 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Malhada de Pedras",
+    "feriados": [
+      {
+        "dataFeriado": "12 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Malhada de Pedras"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Manoel Vitorino",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Mansidão",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "29 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Maracás",
+    "feriados": [
+      {
+        "dataFeriado": "19 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Maracás"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "27 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Maragogipe",
+    "feriados": [
+      {
+        "dataFeriado": "08 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Maragogipe"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "24 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Bartolomeu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Maraú",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Marcionílio Souza",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Mascote",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora das Candeias"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "19 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mascote"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora D'Ajuda"
+      },
+      {
+        "dataFeriado": "03 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Penha"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Mata de São João",
+    "feriados": [
+      {
+        "dataFeriado": "15 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Sexta-feira da Paixão, Aniversário de Mata de São João"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Matina",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Medeiros Neto",
+    "feriados": [
+      {
+        "dataFeriado": "14 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Medeiros Neto"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Miguel Calmon",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Miguel Calmon"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Milagres",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Milagres"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Mirangaba",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "24 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mirangaba"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Mirante",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Monte Santo",
+    "feriados": [
+      {
+        "dataFeriado": "21 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Monte Santo"
+      },
+      {
+        "dataFeriado": "14 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Morpará",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Morro do Chapéu",
+    "feriados": [
+      {
+        "dataFeriado": "08 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Morro do Chapéu"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "23 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Mortugaba",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mortugaba"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Mucugê",
+    "feriados": [
+      {
+        "dataFeriado": "17 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Mucuri",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Pedro"
+      },
+      {
+        "dataFeriado": "10 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mucuri"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Mulungu do Morro",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Mundo Novo",
+    "feriados": [
+      {
+        "dataFeriado": "01 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Carnaval, Aniversário de Mundo Novo"
+      },
+      {
+        "dataFeriado": "23 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Muniz Ferreira",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Muquém do São Francisco",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Muritiba",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Muritiba"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Mutuípe",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "16 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Nazaré",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "16 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nazaré"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Nilo Peçanha",
+    "feriados": [
+      {
+        "dataFeriado": "30 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Nordestina",
+    "feriados": [
+      {
+        "dataFeriado": "08 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "09 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nordestina"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "23 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Nova Canaã",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "21 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Nova Fátima",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Fátima"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "23 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Nova Ibiá",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Nova Itarana",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Nova Redenção",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Nova Soure",
+    "feriados": [
+      {
+        "dataFeriado": "03 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "01 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Nova Viçosa",
+    "feriados": [
+      {
+        "dataFeriado": "23 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Viçosa"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Novo Horizonte",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Novo Triunfo",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Olindina",
+    "feriados": [
+      {
+        "dataFeriado": "14 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Olindina"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Oliveira dos Brejinhos",
+    "feriados": [
+      {
+        "dataFeriado": "03 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ouriçangas",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ourolândia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Palmas de Monte Alto",
+    "feriados": [
+      {
+        "dataFeriado": "19 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Palmas de Monte Alto"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Palmeiras",
+    "feriados": [
+      {
+        "dataFeriado": "15 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Paramirim",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "16 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Paramirim"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Paratinga",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "25 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Paratinga"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Paripiranga",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Pau Brasil",
+    "feriados": [
+      {
+        "dataFeriado": "19 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Paulo Afonso",
+    "feriados": [
+      {
+        "dataFeriado": "28 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Paulo Afonso"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Francisco"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Pé de Serra",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Pedrão",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Pedro Alexandre",
+    "feriados": [
+      {
+        "dataFeriado": "28 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pedro Alexandre"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Piatã",
+    "feriados": [
+      {
+        "dataFeriado": "23 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "11 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Piatã"
+      },
+      {
+        "dataFeriado": "07 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Pilão Arcado",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "30 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Pindaí",
+    "feriados": [
+      {
+        "dataFeriado": "07 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "23 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Pindobaçu",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Pintadas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Piraí do Norte",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Piripá",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Piritiba",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "27 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Piritiba"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Planaltino",
+    "feriados": [
+      {
+        "dataFeriado": "08 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "30 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Planaltino"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Planalto",
+    "feriados": [
+      {
+        "dataFeriado": "05 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Planalto"
+      },
+      {
+        "dataFeriado": "29 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Rita"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Poções",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "26 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Poções"
+      },
+      {
+        "dataFeriado": "20 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Consciência Negra"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Pojuca",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "29 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pojuca"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ponto Novo",
+    "feriados": [
+      {
+        "dataFeriado": "24 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ponto Novo"
+      },
+      {
+        "dataFeriado": "13 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Porto Seguro",
+    "feriados": [
+      {
+        "dataFeriado": "30 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Porto Seguro"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora d´Ajuda"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Pena"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Potiraguá",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "01 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Prado",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Navegantes"
+      },
+      {
+        "dataFeriado": "05 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "02 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Prado"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Presidente Dutra",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Presidente Jânio Quadros",
+    "feriados": [
+      {
+        "dataFeriado": "23 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Presidente Jânio Quadros"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Presidente Tancredo Neves",
+    "feriados": [
+      {
+        "dataFeriado": "23 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "16 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Queimadas",
+    "feriados": [
+      {
+        "dataFeriado": "08 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "20 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Quijingue",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Quijingue"
+      },
+      {
+        "dataFeriado": "23 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Quixabeira",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Quixabeira"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Rafael Jambeiro",
+    "feriados": [
+      {
+        "dataFeriado": "09 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rafael Jambeiro"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "03 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Remanso",
+    "feriados": [
+      {
+        "dataFeriado": "09 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Remanso"
+      },
+      {
+        "dataFeriado": "30 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Retirolândia",
+    "feriados": [
+      {
+        "dataFeriado": "08 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "27 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Retirolândia"
+      },
+      {
+        "dataFeriado": "23 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Riachão das Neves",
+    "feriados": [
+      {
+        "dataFeriado": "19 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de Santana"
+      },
+      {
+        "dataFeriado": "20 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Evangélico"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Riachão do Jacuípe",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "16 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Riacho de Santana",
+    "feriados": [
+      {
+        "dataFeriado": "31 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Riacho de Santana"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ribeira do Amparo",
+    "feriados": [
+      {
+        "dataFeriado": "02 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ribeira do Amparo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ribeira do Pombal",
+    "feriados": [
+      {
+        "dataFeriado": "19 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ribeira do Pombal"
+      },
+      {
+        "dataFeriado": "15 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ribeirão do Largo",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Rio de Contas",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "27 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Rio do Antônio",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Rio do Pires",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "17 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rio do Pires"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Rio Real",
+    "feriados": [
+      {
+        "dataFeriado": "06 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Reis"
+      },
+      {
+        "dataFeriado": "01 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rio Real"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Rodelas",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "31 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ruy Barbosa",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ruy Barbosa"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Salinas da Margarida",
+    "feriados": [
+      {
+        "dataFeriado": "02 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "16 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Salinas da Margarida"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Salvador",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Conceição da Praia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Santa Bárbara",
+    "feriados": [
+      {
+        "dataFeriado": "23 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Bárbara"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Santa Brígida",
+    "feriados": [
+      {
+        "dataFeriado": "23 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Brígida"
+      },
+      {
+        "dataFeriado": "08 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "11 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Santa Cruz Cabrália",
+    "feriados": [
+      {
+        "dataFeriado": "19 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Índio"
+      },
+      {
+        "dataFeriado": "26 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Primeira Missa no Brasil"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Pescador"
+      },
+      {
+        "dataFeriado": "23 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Cruz Cabrália"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Santa Cruz da Vitória",
+    "feriados": [
+      {
+        "dataFeriado": "05 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Cruz da Vitória"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "23 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Santa Inês",
+    "feriados": [
+      {
+        "dataFeriado": "21 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "30 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Inês"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Santaluz",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "18 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santaluz"
+      },
+      {
+        "dataFeriado": "23 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Santa Luzia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Santa Maria da Vitória",
+    "feriados": [
+      {
+        "dataFeriado": "26 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Maria da Vitória"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Santana",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "16 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Santanópolis",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santanópolis"
+      },
+      {
+        "dataFeriado": "31 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Santa Rita de Cássia",
+    "feriados": [
+      {
+        "dataFeriado": "26 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Rita de Cássia"
+      },
+      {
+        "dataFeriado": "22 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "02 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Santa Terezinha",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Santo Amaro",
+    "feriados": [
+      {
+        "dataFeriado": "15 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Santo Antônio de Jesus",
+    "feriados": [
+      {
+        "dataFeriado": "29 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santo Antônio de Jesus"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Santo Estêvão",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "21 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santo Estêvão"
+      },
+      {
+        "dataFeriado": "26 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "São Desidério",
+    "feriados": [
+      {
+        "dataFeriado": "22 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Desidério"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "02 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Evangélico"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "São Domingos",
+    "feriados": [
+      {
+        "dataFeriado": "08 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Domingos Gusmão"
+      },
+      {
+        "dataFeriado": "23 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "São Félix",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "25 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Félix"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "São Félix do Coribe",
+    "feriados": [
+      {
+        "dataFeriado": "14 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "09 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "São Felipe",
+    "feriados": [
+      {
+        "dataFeriado": "03 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Felipe"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "São Francisco do Conde",
+    "feriados": [
+      {
+        "dataFeriado": "28 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "São Gabriel",
+    "feriados": [
+      {
+        "dataFeriado": "29 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "São Gonçalo dos Campos",
+    "feriados": [
+      {
+        "dataFeriado": "10 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Gonçalo dos Campos"
+      },
+      {
+        "dataFeriado": "30 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "São José da Vitória",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "São José do Jacuípe",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "São Miguel das Matas",
+    "feriados": [
+      {
+        "dataFeriado": "08 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "29 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "São Sebastião do Passé",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Sapeaçu",
+    "feriados": [
+      {
+        "dataFeriado": "27 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Sapeaçu"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Sátiro Dias",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "14 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Sátiro Dias"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Saubara",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Saúde",
+    "feriados": [
+      {
+        "dataFeriado": "01 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Seabra",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Seabra"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Sebastião Laranjeiras",
+    "feriados": [
+      {
+        "dataFeriado": "07 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Senhor do Bonfim",
+    "feriados": [
+      {
+        "dataFeriado": "17 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Senhor do Bonfim"
+      },
+      {
+        "dataFeriado": "28 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Senhor do Bonfim"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Serra do Ramalho",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Sento Sé",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "06 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Sento Sé"
+      },
+      {
+        "dataFeriado": "16 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Sento Sé"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Serra Dourada",
+    "feriados": [
+      {
+        "dataFeriado": "10 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Serra Dourada"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Serra Preta",
+    "feriados": [
+      {
+        "dataFeriado": "08 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "01 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Serrinha",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Serrinha"
+      },
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Santana"
+      },
+      {
+        "dataFeriado": "23 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Cultura Evangélica"
+      },
+      {
+        "dataFeriado": "20 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Consciência Negra"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Serrolândia",
+    "feriados": [
+      {
+        "dataFeriado": "18 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "23 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Serrolândia"
+      },
+      {
+        "dataFeriado": "16 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Simões Filho",
+    "feriados": [
+      {
+        "dataFeriado": "29 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Miguel"
+      },
+      {
+        "dataFeriado": "07 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Simões Filho"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Sítio do Mato",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Sítio do Quinto",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Sobradinho",
+    "feriados": [
+      {
+        "dataFeriado": "24 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Sobradinho"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Souto Soares",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "05 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Souto Soares"
+      },
+      {
+        "dataFeriado": "20 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Consciência Negra"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Tabocas do Brejo Velho",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Tanhaçu",
+    "feriados": [
+      {
+        "dataFeriado": "30 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tanhaçu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Tanque Novo",
+    "feriados": [
+      {
+        "dataFeriado": "25 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tanque Novo"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Tanquinho",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "14 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tanquinho"
+      },
+      {
+        "dataFeriado": "23 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Taperoá",
+    "feriados": [
+      {
+        "dataFeriado": "03 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Brás"
+      },
+      {
+        "dataFeriado": "04 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Taperoá"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Boa Morte"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Luzia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Tapiramutá",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "27 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tapiramutá"
+      },
+      {
+        "dataFeriado": "18 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Teixeira de Freitas",
+    "feriados": [
+      {
+        "dataFeriado": "12 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Teodoro Sampaio",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Teodoro Sampaio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Teofilândia",
+    "feriados": [
+      {
+        "dataFeriado": "23 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Teofilândia"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "23 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Teolândia",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "19 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Teolândia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Terra Nova",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "16 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Terra Nova"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Tremedal",
+    "feriados": [
+      {
+        "dataFeriado": "15 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Tucano",
+    "feriados": [
+      {
+        "dataFeriado": "21 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tucano"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Uauá",
+    "feriados": [
+      {
+        "dataFeriado": "22 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "09 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Uauá"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ubaíra",
+    "feriados": [
+      {
+        "dataFeriado": "23 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ubaitaba",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "27 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ubaitaba"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Ubatã",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "26 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Uibaí",
+    "feriados": [
+      {
+        "dataFeriado": "22 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Uibaí"
+      },
+      {
+        "dataFeriado": "20 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Consciência Negra"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Umburanas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Una",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "02 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Una"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Urandi",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Uruçuca",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Uruçuca"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Utinga",
+    "feriados": [
+      {
+        "dataFeriado": "27 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Valença",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "08 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Amparo"
+      },
+      {
+        "dataFeriado": "10 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Valente",
+    "feriados": [
+      {
+        "dataFeriado": "08 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "12 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Valente"
+      },
+      {
+        "dataFeriado": "23 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Várzea da Roça",
+    "feriados": [
+      {
+        "dataFeriado": "25 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Várzea da Roça"
+      },
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Várzea do Poço",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Várzea Nova",
+    "feriados": [
+      {
+        "dataFeriado": "25 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Várzea Nova"
+      },
+      {
+        "dataFeriado": "14 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "23 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Varzedo",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Vera Cruz",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "31 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Vera Cruz"
+      },
+      {
+        "dataFeriado": "14 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Consciência Negra"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Vereda",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Vitória da Conquista",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora das Vitórias"
+      },
+      {
+        "dataFeriado": "09 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Vitória da Conquista"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Wagner",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "20 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Wanderley",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Wanderley"
+      },
+      {
+        "dataFeriado": "08 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Wenceslau Guimarães",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "19 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Wenceslau Guimarães"
+      },
+      {
+        "dataFeriado": "27 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "BA",
+    "nomeCidade": "Xique-Xique",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Xique-Xique"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  }
+]

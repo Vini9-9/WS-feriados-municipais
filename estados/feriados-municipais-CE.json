@@ -1,0 +1,2519 @@
+[
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Abaiara",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Acarape",
+    "feriados": [
+      {
+        "dataFeriado": "15 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Sexta-feira da Paixão, Emancipação de Acarape"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João Batista"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Acaraú",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Acopiara",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "28 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Acopiara"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Aiuaba",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Alcântaras",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Altaneira",
+    "feriados": [
+      {
+        "dataFeriado": "15 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Tereza"
+      },
+      {
+        "dataFeriado": "18 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Altaneira"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Alto Santo",
+    "feriados": [
+      {
+        "dataFeriado": "01 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Alto Santo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Amontada",
+    "feriados": [
+      {
+        "dataFeriado": "05 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Amontada"
+      },
+      {
+        "dataFeriado": "11 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Antonina do Norte",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Apuiarés",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Aquiraz",
+    "feriados": [
+      {
+        "dataFeriado": "13 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Aquiraz"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Aracati",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "07 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Rosário"
+      },
+      {
+        "dataFeriado": "25 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Aracati"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Aracoiaba",
+    "feriados": [
+      {
+        "dataFeriado": "16 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Aracoiaba"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Ararendá",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Araripe",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      },
+      {
+        "dataFeriado": "03 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Araripe"
+      },
+      {
+        "dataFeriado": "05 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Frei Damião"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Aratuba",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Arneiroz",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Assaré",
+    "feriados": [
+      {
+        "dataFeriado": "05 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "19 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Assaré"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Aurora",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "10 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Aurora"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Baixio",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Banabuiú",
+    "feriados": [
+      {
+        "dataFeriado": "25 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Banabuiú"
+      },
+      {
+        "dataFeriado": "13 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Barbalha",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "17 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Barbalha"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Barreira",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Barro",
+    "feriados": [
+      {
+        "dataFeriado": "07 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "22 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Barro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Barroquinha",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Baturité",
+    "feriados": [
+      {
+        "dataFeriado": "09 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Beberibe",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Pedro"
+      },
+      {
+        "dataFeriado": "05 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Beberibe"
+      },
+      {
+        "dataFeriado": "16 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Carmo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Bela Cruz",
+    "feriados": [
+      {
+        "dataFeriado": "23 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bela Cruz"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Boa Viagem",
+    "feriados": [
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Brejo Santo",
+    "feriados": [
+      {
+        "dataFeriado": "26 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Brejo Santo"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Camocim",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Pedro"
+      },
+      {
+        "dataFeriado": "29 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Camocim"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Francisco"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Campos Sales",
+    "feriados": [
+      {
+        "dataFeriado": "29 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Campos Sales"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Canindé",
+    "feriados": [
+      {
+        "dataFeriado": "29 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Canindé"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Capistrano",
+    "feriados": [
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Caridade",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Cariré",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "16 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cariré"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Caririaçu",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "18 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Caririaçu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Cariús",
+    "feriados": [
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Carnaubal",
+    "feriados": [
+      {
+        "dataFeriado": "22 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Carnaubal"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Cascavel",
+    "feriados": [
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Francisco"
+      },
+      {
+        "dataFeriado": "17 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cascavel"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Catarina",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Catunda",
+    "feriados": [
+      {
+        "dataFeriado": "27 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Catunda"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Caucaia",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Prazeres"
+      },
+      {
+        "dataFeriado": "15 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Caucaia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Cedro",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "21 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cedro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Chaval",
+    "feriados": [
+      {
+        "dataFeriado": "22 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Chaval"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Choró",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Chorozinho",
+    "feriados": [
+      {
+        "dataFeriado": "13 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Chorozinho"
+      },
+      {
+        "dataFeriado": "01 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Coreaú",
+    "feriados": [
+      {
+        "dataFeriado": "15 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Coreaú"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Crateús",
+    "feriados": [
+      {
+        "dataFeriado": "06 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Crateús"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Crato",
+    "feriados": [
+      {
+        "dataFeriado": "21 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Crato"
+      },
+      {
+        "dataFeriado": "01 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Penha"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Croatá",
+    "feriados": [
+      {
+        "dataFeriado": "03 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Croatá"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Cruz",
+    "feriados": [
+      {
+        "dataFeriado": "06 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Deputado Irapuan Pinheiro",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Ereré",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Eusébio",
+    "feriados": [
+      {
+        "dataFeriado": "23 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Eusébio"
+      },
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Farias Brito",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Forquilha",
+    "feriados": [
+      {
+        "dataFeriado": "05 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Forquilha"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Fortaleza",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de São José, São José"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Assunção (Padroeira da Cidade)"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Fortim",
+    "feriados": [
+      {
+        "dataFeriado": "27 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Fortim"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "21 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Frecheirinha",
+    "feriados": [
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Saúde"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "General Sampaio",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Graça",
+    "feriados": [
+      {
+        "dataFeriado": "15 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Sexta-feira da Paixão, Aniversário de Graça"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Granja",
+    "feriados": [
+      {
+        "dataFeriado": "02 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Granjeiro",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Groaíras",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Guaiúba",
+    "feriados": [
+      {
+        "dataFeriado": "14 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Guaraciaba do Norte",
+    "feriados": [
+      {
+        "dataFeriado": "12 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Guaramiranga",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Hidrolândia",
+    "feriados": [
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Hidrolândia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Horizonte",
+    "feriados": [
+      {
+        "dataFeriado": "06 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Horizonte"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Ibaretama",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Ibiapina",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Ibicuitinga",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Icapuí",
+    "feriados": [
+      {
+        "dataFeriado": "22 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Icapuí"
+      },
+      {
+        "dataFeriado": "22 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Icó",
+    "feriados": [
+      {
+        "dataFeriado": "02 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Icó"
+      },
+      {
+        "dataFeriado": "18 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Iguatu",
+    "feriados": [
+      {
+        "dataFeriado": "25 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Iguatu"
+      },
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Independência",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Independência"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Ipaporanga",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Ipaumirim",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ipaumirim"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Ipu",
+    "feriados": [
+      {
+        "dataFeriado": "26 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ipu"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Ipueiras",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ipueiras"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Iracema",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Irauçuba",
+    "feriados": [
+      {
+        "dataFeriado": "20 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Irauçuba"
+      },
+      {
+        "dataFeriado": "21 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Itaiçaba",
+    "feriados": [
+      {
+        "dataFeriado": "07 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Itaitinga",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Itapajé",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Itapipoca",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "31 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itapipoca"
+      },
+      {
+        "dataFeriado": "24 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora das Mercês"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Itapiúna",
+    "feriados": [
+      {
+        "dataFeriado": "23 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itapiúna"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Itarema",
+    "feriados": [
+      {
+        "dataFeriado": "05 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itarema"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "13 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Itatira",
+    "feriados": [
+      {
+        "dataFeriado": "22 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itatira"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Jaguaretama",
+    "feriados": [
+      {
+        "dataFeriado": "29 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jaguaretama"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Jaguaribara",
+    "feriados": [
+      {
+        "dataFeriado": "10 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Jaguaribe",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Jaguaruana",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "11 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jaguaruana"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Jardim",
+    "feriados": [
+      {
+        "dataFeriado": "03 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jardim"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio de Pádua"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Jati",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Jijoca de Jericoacoara",
+    "feriados": [
+      {
+        "dataFeriado": "06 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jijoca de Jericoacoara"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Juazeiro do Norte",
+    "feriados": [
+      {
+        "dataFeriado": "24 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Juazeiro do Norte"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora das Dores"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Jucás",
+    "feriados": [
+      {
+        "dataFeriado": "16 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Carmo"
+      },
+      {
+        "dataFeriado": "17 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jucás"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Lavras da Mangabeira",
+    "feriados": [
+      {
+        "dataFeriado": "20 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Lavras da Mangabeira"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Limoeiro do Norte",
+    "feriados": [
+      {
+        "dataFeriado": "30 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Limoeiro do Norte"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Madalena",
+    "feriados": [
+      {
+        "dataFeriado": "12 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Madalena"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Maracanaú",
+    "feriados": [
+      {
+        "dataFeriado": "06 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Maracanaú"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Maranguape",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "17 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Maranguape"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Marco",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Martinópole",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Massapê",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Mauriti",
+    "feriados": [
+      {
+        "dataFeriado": "27 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mauriti"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Meruoca",
+    "feriados": [
+      {
+        "dataFeriado": "11 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Meruoca"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Milagres",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Milhã",
+    "feriados": [
+      {
+        "dataFeriado": "05 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Milhã"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Miraíma",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Missão Velha",
+    "feriados": [
+      {
+        "dataFeriado": "11 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Missão Velha"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Mombaça",
+    "feriados": [
+      {
+        "dataFeriado": "27 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Monsenhor Tabosa",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Monsenhor Tabosa"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Morada Nova",
+    "feriados": [
+      {
+        "dataFeriado": "11 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "02 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Morada Nova"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Moraújo",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Morrinhos",
+    "feriados": [
+      {
+        "dataFeriado": "06 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Mucambo",
+    "feriados": [
+      {
+        "dataFeriado": "12 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mucambo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Mulungu",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Nova Olinda",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Nova Russas",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "11 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Russas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Novo Oriente",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Ocara",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "28 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ocara"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Orós",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Pacajus",
+    "feriados": [
+      {
+        "dataFeriado": "23 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Pacatuba",
+    "feriados": [
+      {
+        "dataFeriado": "16 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pacatuba"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Pacoti",
+    "feriados": [
+      {
+        "dataFeriado": "02 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Pacujá",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Palhano",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Palmácia",
+    "feriados": [
+      {
+        "dataFeriado": "23 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "06 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Paracuru",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Paraipaba",
+    "feriados": [
+      {
+        "dataFeriado": "05 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Paraipaba"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Parambu",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Paramoti",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Pedra Branca",
+    "feriados": [
+      {
+        "dataFeriado": "13 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Penaforte",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Pentecoste",
+    "feriados": [
+      {
+        "dataFeriado": "23 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pentecoste"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Pereiro",
+    "feriados": [
+      {
+        "dataFeriado": "30 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pereiro"
+      },
+      {
+        "dataFeriado": "27 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Pindoretama",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Piquet Carneiro",
+    "feriados": [
+      {
+        "dataFeriado": "12 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Pires Ferreira",
+    "feriados": [
+      {
+        "dataFeriado": "22 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pires Ferreira"
+      },
+      {
+        "dataFeriado": "21 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Criação da Paróquia de Nossa Senhora do Perpétuo Socorro"
+      },
+      {
+        "dataFeriado": "31 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Perpétuo Socorro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Poranga",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Porteiras",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Potengi",
+    "feriados": [
+      {
+        "dataFeriado": "05 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Potengi"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Potiretama",
+    "feriados": [
+      {
+        "dataFeriado": "15 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Potiretama"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Perpétuo Socorro"
+      },
+      {
+        "dataFeriado": "10 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Morte de Valmir Diógenes Pinheiro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Quiterianópolis",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Quixadá",
+    "feriados": [
+      {
+        "dataFeriado": "11 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Quixadá"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Quixelô",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Quixeramobim",
+    "feriados": [
+      {
+        "dataFeriado": "15 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Sexta-feira da Paixão, Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "14 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Quixeramobim"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Quixeré",
+    "feriados": [
+      {
+        "dataFeriado": "15 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Quixeré"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Redenção",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Reriutaba",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Reriutaba"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Russas",
+    "feriados": [
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Russas"
+      },
+      {
+        "dataFeriado": "07 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Saboeiro",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "03 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Salitre",
+    "feriados": [
+      {
+        "dataFeriado": "30 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Salitre"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Santana do Acaraú",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Santana do Cariri",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santana do Cariri"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Santa Quitéria",
+    "feriados": [
+      {
+        "dataFeriado": "22 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Quitéria"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "São Benedito",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Benedito"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "São Gonçalo do Amarante",
+    "feriados": [
+      {
+        "dataFeriado": "27 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Gonçalo do Amarante"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "São João do Jaguaribe",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "São Luís do Curu",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Senador Pompeu",
+    "feriados": [
+      {
+        "dataFeriado": "03 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Senador Pompeu"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Senador Sá",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Sobral",
+    "feriados": [
+      {
+        "dataFeriado": "05 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Sobral"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Solonópole",
+    "feriados": [
+      {
+        "dataFeriado": "22 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Solonópole"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Tabuleiro do Norte",
+    "feriados": [
+      {
+        "dataFeriado": "08 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tabuleiro do Norte"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Tamboril",
+    "feriados": [
+      {
+        "dataFeriado": "22 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Tarrafas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Tauá",
+    "feriados": [
+      {
+        "dataFeriado": "03 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tauá"
+      },
+      {
+        "dataFeriado": "07 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Tejuçuoca",
+    "feriados": [
+      {
+        "dataFeriado": "13 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tejuçuoca"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Tianguá",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tianguá"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Trairi",
+    "feriados": [
+      {
+        "dataFeriado": "22 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Trairi"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Tururu",
+    "feriados": [
+      {
+        "dataFeriado": "02 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tururu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Ubajara",
+    "feriados": [
+      {
+        "dataFeriado": "24 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ubajara"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Umari",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Umirim",
+    "feriados": [
+      {
+        "dataFeriado": "05 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Umirim"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Uruburetama",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "01 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Uruburetama"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Uruoca",
+    "feriados": [
+      {
+        "dataFeriado": "26 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Uruoca"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Varjota",
+    "feriados": [
+      {
+        "dataFeriado": "05 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Varjota"
+      },
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Várzea Alegre",
+    "feriados": [
+      {
+        "dataFeriado": "31 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Várzea Alegre"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "CE",
+    "nomeCidade": "Viçosa do Ceará",
+    "feriados": [
+      {
+        "dataFeriado": "14 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Viçosa do Ceará"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  }
+]

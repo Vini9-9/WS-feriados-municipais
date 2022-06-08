@@ -1,0 +1,3157 @@
+[
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Açailândia",
+    "feriados": [
+      {
+        "dataFeriado": "06 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Açailândia"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Afonso Cunha",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Água Doce do Maranhão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Alcântara",
+    "feriados": [
+      {
+        "dataFeriado": "05 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Alcântara"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Aldeias Altas",
+    "feriados": [
+      {
+        "dataFeriado": "11 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Aldeias Altas"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "22 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Altamira do Maranhão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Alto Alegre do Maranhão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Alto Alegre do Pindaré",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Alto Alegre do Pindaré"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Alto Parnaíba",
+    "feriados": [
+      {
+        "dataFeriado": "19 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Alto Parnaíba"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Amapá do Maranhão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Amarante do Maranhão",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "19 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "21 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Amarante do Maranhão"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Anajatuba",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Anapurus",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Apicum-Açu",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Araguanã",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Araioses",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Araioses"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Arame",
+    "feriados": [
+      {
+        "dataFeriado": "17 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Arame"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Arari",
+    "feriados": [
+      {
+        "dataFeriado": "27 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Arari"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Axixá",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Bacabal",
+    "feriados": [
+      {
+        "dataFeriado": "17 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Páscoa, Aniversário de Bacabal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "01 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Bacabeira",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Bacuri",
+    "feriados": [
+      {
+        "dataFeriado": "02 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bacuri"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Bacurituba",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Balsas",
+    "feriados": [
+      {
+        "dataFeriado": "22 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Balsas"
+      },
+      {
+        "dataFeriado": "12 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Barão de Grajaú",
+    "feriados": [
+      {
+        "dataFeriado": "29 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Barão de Grajaú"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Barra do Corda",
+    "feriados": [
+      {
+        "dataFeriado": "03 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Barra do Corda"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Barreirinhas",
+    "feriados": [
+      {
+        "dataFeriado": "30 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Belágua",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Bela Vista do Maranhão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Benedito Leite",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Bequimão",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "19 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bequimão"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Bernardo do Mearim",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Boa Vista do Gurupi",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Bom Jardim",
+    "feriados": [
+      {
+        "dataFeriado": "14 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bom Jardim"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Pedro"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Bom Jesus das Selvas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Bom Lugar",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Brejo",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "11 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Brejo"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Brejo de Areia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Buriti",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "06 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Buriti"
+      },
+      {
+        "dataFeriado": "12 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Buriti Bravo",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "05 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Buriti Bravo"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Buriticupu",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Buriticupu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Buritirana",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Cachoeira Grande",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Cajapió",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Cajari",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Campestre do Maranhão",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Campestre do Maranhão"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Cândido Mendes",
+    "feriados": [
+      {
+        "dataFeriado": "02 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Cantanhede",
+    "feriados": [
+      {
+        "dataFeriado": "22 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cantanhede"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Capinzal do Norte",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Carolina",
+    "feriados": [
+      {
+        "dataFeriado": "08 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Carolina"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "19 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Carutapera",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Caxias",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "01 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Caxias"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Cedral",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Central do Maranhão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Centro do Guilherme",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Centro Novo do Maranhão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Chapadinha",
+    "feriados": [
+      {
+        "dataFeriado": "29 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Chapadinha"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Cidelândia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Codó",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "16 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Codó"
+      },
+      {
+        "dataFeriado": "10 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Coelho Neto",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Colinas",
+    "feriados": [
+      {
+        "dataFeriado": "10 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Colinas"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Conceição do Lago-Açu",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Coroatá",
+    "feriados": [
+      {
+        "dataFeriado": "08 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Coroatá"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "21 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Cururupu",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "03 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cururupu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Davinópolis",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Davinópolis"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "23 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Dom Pedro",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "09 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Dom Pedro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Duque Bacelar",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Esperantinópolis",
+    "feriados": [
+      {
+        "dataFeriado": "27 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Esperantinópolis"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Estreito",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Estreito"
+      },
+      {
+        "dataFeriado": "16 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Feira Nova do Maranhão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Fernando Falcão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Formosa da Serra Negra",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Formosa da Serra Negra"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Fortaleza dos Nogueiras",
+    "feriados": [
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Fortaleza dos Nogueiras"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Fortuna",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Godofredo Viana",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Gonçalves Dias",
+    "feriados": [
+      {
+        "dataFeriado": "31 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Gonçalves Dias"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Governador Archer",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Governador Edison Lobão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Governador Eugênio Barros",
+    "feriados": [
+      {
+        "dataFeriado": "11 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Governador Eugênio Barros"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Governador Luiz Rocha",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Governador Newton Bello",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Governador Nunes Freire",
+    "feriados": [
+      {
+        "dataFeriado": "27 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Governador Nunes Freire"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Graça Aranha",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Grajaú",
+    "feriados": [
+      {
+        "dataFeriado": "29 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Grajaú"
+      },
+      {
+        "dataFeriado": "14 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Senhor do Bonfim"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Guimarães",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Humberto de Campos",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Humberto de Campos"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Icatu",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Icatu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Igarapé do Meio",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Igarapé Grande",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Igarapé Grande"
+      },
+      {
+        "dataFeriado": "02 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "11 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Imperatriz",
+    "feriados": [
+      {
+        "dataFeriado": "16 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Imperatriz"
+      },
+      {
+        "dataFeriado": "15 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Teresa D'Ávila"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Itaipava do Grajaú",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Itapecuru Mirim",
+    "feriados": [
+      {
+        "dataFeriado": "21 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itapecuru Mirim"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Itinga do Maranhão",
+    "feriados": [
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itinga do Maranhão"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Jatobá",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Jenipapo dos Vieiras",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "João Lisboa",
+    "feriados": [
+      {
+        "dataFeriado": "30 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Joselândia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Junco do Maranhão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Lago da Pedra",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Lago do Junco",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Lago Verde",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Lago Verde"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Lagoa do Mato",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Lago dos Rodrigues",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Lagoa Grande do Maranhão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Lajeado Novo",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Lima Campos",
+    "feriados": [
+      {
+        "dataFeriado": "15 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Lima Campos"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Loreto",
+    "feriados": [
+      {
+        "dataFeriado": "29 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Luís Domingues",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Magalhães de Almeida",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Maracaçumé",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "11 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Marajá do Sena",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Maranhãozinho",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Mata Roma",
+    "feriados": [
+      {
+        "dataFeriado": "11 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mata Roma"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Matinha",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Matões",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Matões do Norte",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Milagres do Maranhão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Mirador",
+    "feriados": [
+      {
+        "dataFeriado": "29 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mirador"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Miranda do Norte",
+    "feriados": [
+      {
+        "dataFeriado": "15 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Miranda do Norte"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Mirinzal",
+    "feriados": [
+      {
+        "dataFeriado": "30 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Monção",
+    "feriados": [
+      {
+        "dataFeriado": "16 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Montes Altos",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Montes Altos"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Morros",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Nina Rodrigues",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Nova Colinas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Nova Iorque",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Nova Olinda do Maranhão",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Olinda do Maranhão"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Olho d'Água das Cunhãs",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Olinda Nova do Maranhão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Paço do Lumiar",
+    "feriados": [
+      {
+        "dataFeriado": "14 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Paço do Lumiar"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Palmeirândia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Paraibano",
+    "feriados": [
+      {
+        "dataFeriado": "06 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Reis"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Parnarama",
+    "feriados": [
+      {
+        "dataFeriado": "10 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Parnarama"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Passagem Franca",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Passagem Franca"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Pastos Bons",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Paulino Neves",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Paulo Ramos",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Paulo Ramos"
+      },
+      {
+        "dataFeriado": "21 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Fal. Venâncio G. Rodrigues"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Fal. Francisco T. S. Ferreira"
+      },
+      {
+        "dataFeriado": "21 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Fal. Francisco E. Silva"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Pedreiras",
+    "feriados": [
+      {
+        "dataFeriado": "20 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Consciência Negra"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Pedro do Rosário",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Penalva",
+    "feriados": [
+      {
+        "dataFeriado": "10 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Penalva"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Peri Mirim",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Peritoró",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Pindaré-Mirim",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Pinheiro",
+    "feriados": [
+      {
+        "dataFeriado": "24 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "03 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pinheiro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Pio XII",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "11 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "19 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pio XII"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Pirapemas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Poção de Pedras",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Poção de Pedras"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Porto Franco",
+    "feriados": [
+      {
+        "dataFeriado": "21 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Porto Rico do Maranhão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Presidente Dutra",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Presidente Dutra"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Presidente Juscelino",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Presidente Médici",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Presidente Sarney",
+    "feriados": [
+      {
+        "dataFeriado": "24 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "19 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Presidente Vargas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Primeira Cruz",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Raposa",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Riachão",
+    "feriados": [
+      {
+        "dataFeriado": "29 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Riachão"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Ribamar Fiquene",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Rosário",
+    "feriados": [
+      {
+        "dataFeriado": "06 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rosário"
+      },
+      {
+        "dataFeriado": "31 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Sambaíba",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Santa Filomena do Maranhão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Santa Helena",
+    "feriados": [
+      {
+        "dataFeriado": "18 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Helena"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Santa Inês",
+    "feriados": [
+      {
+        "dataFeriado": "21 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Inês"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Santa Luzia",
+    "feriados": [
+      {
+        "dataFeriado": "26 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Luzia"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Santa Luzia do Paruá",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Santa Quitéria do Maranhão",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Santa Rita",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "02 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Rita"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Santana do Maranhão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Santo Amaro do Maranhão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Santo Antônio dos Lopes",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santo Antônio dos Lopes"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "São Benedito do Rio Preto",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "São Bento",
+    "feriados": [
+      {
+        "dataFeriado": "30 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Bento"
+      },
+      {
+        "dataFeriado": "16 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "São Bernardo",
+    "feriados": [
+      {
+        "dataFeriado": "29 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Bernardo"
+      },
+      {
+        "dataFeriado": "20 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "São Domingos do Azeitão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "São Domingos do Maranhão",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Domingos do Maranhão"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "São Félix de Balsas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "São Francisco do Brejão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "São Francisco do Maranhão",
+    "feriados": [
+      {
+        "dataFeriado": "10 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Francisco do Maranhão"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "São João Batista",
+    "feriados": [
+      {
+        "dataFeriado": "14 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São João Batista"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João Batista"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "São João do Carú",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São João do Carú"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "São João do Paraíso",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "01 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São João do Paraíso"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "São João do Soter",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "São João dos Patos",
+    "feriados": [
+      {
+        "dataFeriado": "12 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São João dos Patos"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "São José de Ribamar",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São José de Ribamar"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "São José dos Basílios",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "São Luís",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Luís"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "São Luís Gonzaga do Maranhão",
+    "feriados": [
+      {
+        "dataFeriado": "12 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "21 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Consciência Negra"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "São Mateus do Maranhão",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "21 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Mateus do Maranhão"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "São Pedro da Água Branca",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "São Pedro dos Crentes",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "São Raimundo das Mangabeiras",
+    "feriados": [
+      {
+        "dataFeriado": "10 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Raimundo das Mangabeiras"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "São Raimundo do Doca Bezerra",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "São Roberto",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "São Vicente Ferrer",
+    "feriados": [
+      {
+        "dataFeriado": "05 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Vicente Ferrer"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Satubinha",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Senador Alexandre Costa",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Senador Alexandre Costa"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Senador La Rocque",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Senador La Rocque"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Serrano do Maranhão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Sítio Novo",
+    "feriados": [
+      {
+        "dataFeriado": "15 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Sítio Novo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Sucupira do Norte",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Sucupira do Riachão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Tasso Fragoso",
+    "feriados": [
+      {
+        "dataFeriado": "16 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "19 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tasso Fragoso"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Timbiras",
+    "feriados": [
+      {
+        "dataFeriado": "05 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Timbiras"
+      },
+      {
+        "dataFeriado": "22 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Timon",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      },
+      {
+        "dataFeriado": "15 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Rosário de Fátima"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Trizidela do Vale",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "11 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Tufilândia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Tuntum",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Turiaçu",
+    "feriados": [
+      {
+        "dataFeriado": "11 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Turiaçu"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "03 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Turilândia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Tutóia",
+    "feriados": [
+      {
+        "dataFeriado": "29 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Urbano Santos",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Vargem Grande",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Vargem Grande"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Viana",
+    "feriados": [
+      {
+        "dataFeriado": "08 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Viana"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Vila Nova dos Martírios",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "01 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Vila Nova dos Martírios"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Vitória do Mearim",
+    "feriados": [
+      {
+        "dataFeriado": "19 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Vitória do Mearim"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Vitorino Freire",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Vitorino Freire"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MA",
+    "nomeCidade": "Zé Doca",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Zé Doca"
+      }
+    ]
+  }
+]
