@@ -1,0 +1,212 @@
+[
+  {
+    "siglaEstado": "RR",
+    "nomeCidade": "Amajari",
+    "feriados": [
+      {
+        "dataFeriado": "17 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Amajari"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RR",
+    "nomeCidade": "Alto Alegre",
+    "feriados": [
+      {
+        "dataFeriado": "15 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "01 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Alto Alegre"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RR",
+    "nomeCidade": "Boa Vista",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Pedro"
+      },
+      {
+        "dataFeriado": "09 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Boa Vista"
+      },
+      {
+        "dataFeriado": "15 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado dos Comerciários"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Carmo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RR",
+    "nomeCidade": "Bonfim",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "01 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bonfim"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RR",
+    "nomeCidade": "Cantá",
+    "feriados": [
+      {
+        "dataFeriado": "17 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cantá"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RR",
+    "nomeCidade": "Caracaraí",
+    "feriados": [
+      {
+        "dataFeriado": "27 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Caracaraí"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RR",
+    "nomeCidade": "Caroebe",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RR",
+    "nomeCidade": "Iracema",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RR",
+    "nomeCidade": "Mucajaí",
+    "feriados": [
+      {
+        "dataFeriado": "14 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "01 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mucajaí"
+      },
+      {
+        "dataFeriado": "28 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RR",
+    "nomeCidade": "Normandia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RR",
+    "nomeCidade": "Pacaraima",
+    "feriados": [
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "17 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pacaraima"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RR",
+    "nomeCidade": "Rorainópolis",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "17 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rorainópolis"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RR",
+    "nomeCidade": "São João da Baliza",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "01 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São João da Baliza"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RR",
+    "nomeCidade": "São Luiz",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RR",
+    "nomeCidade": "Uiramutã",
+    "feriados": []
+  }
+]

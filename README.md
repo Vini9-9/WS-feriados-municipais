@@ -13,7 +13,7 @@
 - [ ] Listar todos os feriados municipais do Brasil;
 
 Estados com feriados listados: 
-* AC, AL, AM, BA, CE, DF, GO, MA, MG, MT, PE, RJ, RO, SE, SP;
+* AC, AL, AM, BA, CE, DF, GO, MA, MG, MT, PE, PI, PR, RJ, RO, RR, RS, SC, SE, SP;
 
 Epa! Vimos que você copiou o texto. Sem problemas, desde que cite o link: https://www.migalhas.com.br/coluna/gramatigalhas/127056/siglas-dos-estados-brasileiros
 

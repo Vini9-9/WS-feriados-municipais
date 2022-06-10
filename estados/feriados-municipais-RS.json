@@ -1,0 +1,6447 @@
+[
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Aceguá",
+    "feriados": [
+      {
+        "dataFeriado": "16 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Aceguá"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Água Santa",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Água Santa"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Agudo",
+    "feriados": [
+      {
+        "dataFeriado": "16 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Agudo"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Colono e Motorista"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Reforma Luterana"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Ajuricaba",
+    "feriados": [
+      {
+        "dataFeriado": "29 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ajuricaba"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Alecrim",
+    "feriados": [
+      {
+        "dataFeriado": "09 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Alecrim"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Alegrete",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Aparecida"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Alegria",
+    "feriados": [
+      {
+        "dataFeriado": "20 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Reforma Luterana"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Almirante Tamandaré do Sul",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Alpestre",
+    "feriados": [
+      {
+        "dataFeriado": "13 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Alpestre"
+      },
+      {
+        "dataFeriado": "16 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Roque"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Francisco de Assis"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Alto Alegre",
+    "feriados": [
+      {
+        "dataFeriado": "02 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Alto Alegre"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Alto Feliz",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Alto Feliz"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Colono"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Alvorada",
+    "feriados": [
+      {
+        "dataFeriado": "17 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Alvorada"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Amaral Ferrador",
+    "feriados": [
+      {
+        "dataFeriado": "12 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Amaral Ferrador"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Ametista do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ametista do Sul"
+      },
+      {
+        "dataFeriado": "29 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Gabriel"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "André da Rocha",
+    "feriados": [
+      {
+        "dataFeriado": "12 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de André da Rocha"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Anta Gorda",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Cristóvão"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Antônio Prado",
+    "feriados": [
+      {
+        "dataFeriado": "11 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Antônio Prado"
+      },
+      {
+        "dataFeriado": "26 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Caravággio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Arambaré",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Navegantes"
+      },
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Arambaré"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Araricá",
+    "feriados": [
+      {
+        "dataFeriado": "25 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Ascensão do Senhor"
+      },
+      {
+        "dataFeriado": "28 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Araricá"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Aratiba",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Tiago"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Aratiba"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Arroio do Meio",
+    "feriados": [
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Reforma Luterana"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Arroio do Sal",
+    "feriados": [
+      {
+        "dataFeriado": "25 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Arroio do Sal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Arroio do Padre",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Arroio dos Ratos",
+    "feriados": [
+      {
+        "dataFeriado": "12 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Arroio dos Ratos"
+      },
+      {
+        "dataFeriado": "04 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Bárbara"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Arroio do Tigre",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Colono"
+      },
+      {
+        "dataFeriado": "06 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Arroio do Tigre"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Arroio Grande",
+    "feriados": [
+      {
+        "dataFeriado": "24 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Arroio Grande"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora das Graças"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Arvorezinha",
+    "feriados": [
+      {
+        "dataFeriado": "16 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Arvorezinha"
+      },
+      {
+        "dataFeriado": "26 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Caravaggio"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João Batista"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Augusto Pestana",
+    "feriados": [
+      {
+        "dataFeriado": "14 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Augusto Pestana"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Áurea",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Monte Claro"
+      },
+      {
+        "dataFeriado": "24 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Áurea"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Bagé",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião e Nossa Senhora Auxiliadora"
+      },
+      {
+        "dataFeriado": "24 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião e Nossa Senhora Auxiliadora"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Balneário Pinhal",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio de Pádua"
+      },
+      {
+        "dataFeriado": "22 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Balneário Pinhal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Barão",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Colono"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Barão de Cotegipe",
+    "feriados": [
+      {
+        "dataFeriado": "23 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Barão de Cotegipe"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Colono e Motorista"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Barão do Triunfo",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Barão do Triunfo"
+      },
+      {
+        "dataFeriado": "07 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Rosário"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Barracão",
+    "feriados": [
+      {
+        "dataFeriado": "30 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Barracão"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora das Dores"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Barra do Guarita",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Navegantes"
+      },
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Barra do Guarita"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Barra do Quaraí",
+    "feriados": [
+      {
+        "dataFeriado": "22 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Barra do Quaraí"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Barra do Ribeiro",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Navegantes"
+      },
+      {
+        "dataFeriado": "17 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Barra do Ribeiro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Barra do Rio Azul",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Barra do Rio Azul"
+      },
+      {
+        "dataFeriado": "31 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Medianeira"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Barra Funda",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Navegantes"
+      },
+      {
+        "dataFeriado": "24 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Barra Funda"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Barros Cassal",
+    "feriados": [
+      {
+        "dataFeriado": "05 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Barros Cassal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Benjamin Constant do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "29 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Benjamin Constant do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Bento Gonçalves",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Boa Vista das Missões",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Boa Vista das Missões"
+      },
+      {
+        "dataFeriado": "06 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Maria Goretti"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Boa Vista do Buricá",
+    "feriados": [
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Reforma Protestante"
+      },
+      {
+        "dataFeriado": "02 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Boa Vista do Buricá"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Boa Vista do Cadeado",
+    "feriados": [
+      {
+        "dataFeriado": "16 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Boa Vista do Cadeado"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Boa Vista do Incra",
+    "feriados": [
+      {
+        "dataFeriado": "17 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Páscoa, Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Boa Vista do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Colono"
+      },
+      {
+        "dataFeriado": "22 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Boa Vista do Sul"
+      },
+      {
+        "dataFeriado": "03 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Francisco Xavier"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Bom Jesus",
+    "feriados": [
+      {
+        "dataFeriado": "15 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nosso Senhor Bom Jesus"
+      },
+      {
+        "dataFeriado": "16 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bom Jesus"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Bom Princípio",
+    "feriados": [
+      {
+        "dataFeriado": "12 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bom Princípio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Bom Progresso",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bom Progresso"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Colono"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Bom Retiro do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bom Retiro do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Boqueirão do Leão",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Colono"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Boqueirão do Leão"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Bossoroca",
+    "feriados": [
+      {
+        "dataFeriado": "04 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Instalação Oficial de Bossoroca"
+      },
+      {
+        "dataFeriado": "12 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bossoroca, Dia de Nossa Senhora Aparecida"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Bozano",
+    "feriados": [
+      {
+        "dataFeriado": "16 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bozano"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Braga",
+    "feriados": [
+      {
+        "dataFeriado": "08 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Braga"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Colono e Motorista"
+      },
+      {
+        "dataFeriado": "25 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Catarina"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Brochier",
+    "feriados": [
+      {
+        "dataFeriado": "11 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Brochier"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Colono"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Butiá",
+    "feriados": [
+      {
+        "dataFeriado": "09 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Butiá"
+      },
+      {
+        "dataFeriado": "04 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Terezinha"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Caçapava do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Assunção"
+      },
+      {
+        "dataFeriado": "25 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Caçapava do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Cacequi",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Cachoeira do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "08 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Cachoeirinha",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhorados Navegantes"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Cacique Doble",
+    "feriados": [
+      {
+        "dataFeriado": "11 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora de Lourdes"
+      },
+      {
+        "dataFeriado": "01 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cacique Doble"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Caibaté",
+    "feriados": [
+      {
+        "dataFeriado": "15 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Caibaté"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Caiçara",
+    "feriados": [
+      {
+        "dataFeriado": "19 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Caiçara"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Camaquã",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Navegantes"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João Batista"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Camargo",
+    "feriados": [
+      {
+        "dataFeriado": "12 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Camargo"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Cambará do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Campestre da Serra",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Campina das Missões",
+    "feriados": [
+      {
+        "dataFeriado": "09 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Campina das Missões"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Campinas do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Navegantes"
+      },
+      {
+        "dataFeriado": "31 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Campinas do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Campo Bom",
+    "feriados": [
+      {
+        "dataFeriado": "31 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação do Município"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Campo Novo",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "03 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Campo Novo"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "N.Sra da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Campos Borges",
+    "feriados": [
+      {
+        "dataFeriado": "13 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Campos Borges"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Candelária",
+    "feriados": [
+      {
+        "dataFeriado": "07 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Candelária"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Reforma Luterana"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Cândido Godói",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "09 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cândido Godói"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Candiota",
+    "feriados": [
+      {
+        "dataFeriado": "24 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Candiota"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Canela",
+    "feriados": [
+      {
+        "dataFeriado": "26 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora de Caravaggio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Canguçu",
+    "feriados": [
+      {
+        "dataFeriado": "27 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Canguçu"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do motorista"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Reforma Luterana"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Canoas",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Navegantes"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Canudos do Vale",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Capão Bonito do Sul",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Capão da Canoa",
+    "feriados": [
+      {
+        "dataFeriado": "11 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Capão da Canoa"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Capão do Cipó",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Capão do Leão",
+    "feriados": [
+      {
+        "dataFeriado": "03 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Capão do Leão"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Capivari do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "23 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Capela de Santana",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Capela de Santana"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Capitão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Carazinho",
+    "feriados": [
+      {
+        "dataFeriado": "24 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Carazinho"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Caraá",
+    "feriados": [
+      {
+        "dataFeriado": "28 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Carnaval, Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Caraá"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Carlos Barbosa",
+    "feriados": [
+      {
+        "dataFeriado": "25 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Carlos Barbosa"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Carlos Gomes",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Casca",
+    "feriados": [
+      {
+        "dataFeriado": "28 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Carnaval, Feriado Municipal"
+      },
+      {
+        "dataFeriado": "21 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Caseiros",
+    "feriados": [
+      {
+        "dataFeriado": "09 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Caseiros"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Catuípe",
+    "feriados": [
+      {
+        "dataFeriado": "16 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Catuípe"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Caxias do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "26 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Caravaggio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Centenário",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Centenário"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Cerrito",
+    "feriados": [
+      {
+        "dataFeriado": "07 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cerrito"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Cerro Branco",
+    "feriados": [
+      {
+        "dataFeriado": "12 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cerro Branco"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Cerro Grande",
+    "feriados": [
+      {
+        "dataFeriado": "13 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cerro Grande"
+      },
+      {
+        "dataFeriado": "27 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora das Graças"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Cerro Grande do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cerro Grande do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Cerro Largo",
+    "feriados": [
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cerro Largo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Chapada",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "03 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Chapada"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Charqueadas",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Charqueadas"
+      },
+      {
+        "dataFeriado": "04 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Charrua",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Chiapetta",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Chuí",
+    "feriados": [
+      {
+        "dataFeriado": "22 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Chuí"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Chuvisca",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Cidreira",
+    "feriados": [
+      {
+        "dataFeriado": "09 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cidreira"
+      },
+      {
+        "dataFeriado": "24 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Saúde"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Ciríaco",
+    "feriados": [
+      {
+        "dataFeriado": "19 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ciríaco"
+      },
+      {
+        "dataFeriado": "01 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Colinas",
+    "feriados": [
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Evangelho"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Colorado",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "13 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Condor",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Constantina",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Constantina"
+      },
+      {
+        "dataFeriado": "16 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Coqueiro Baixo",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Coqueiros do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Coqueiros do Sul"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Coronel Barros",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Coronel Bicaco",
+    "feriados": [
+      {
+        "dataFeriado": "14 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Coronel Bicaco"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Coronel Pilar",
+    "feriados": [
+      {
+        "dataFeriado": "16 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Coronel Pilar"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Cotiporã",
+    "feriados": [
+      {
+        "dataFeriado": "12 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cotiporã"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Coxilha",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Crissiumal",
+    "feriados": [
+      {
+        "dataFeriado": "28 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Carnaval, Aniversário de Crissiumal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Cristal",
+    "feriados": [
+      {
+        "dataFeriado": "29 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cristal"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Cristal do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Conceição"
+      },
+      {
+        "dataFeriado": "28 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cristal do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Cruz Alta",
+    "feriados": [
+      {
+        "dataFeriado": "18 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cruz Alta"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Cruzaltense",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Cruzeiro do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "David Canabarro",
+    "feriados": [
+      {
+        "dataFeriado": "29 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de David Canabarro"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Derrubadas",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Dezesseis de Novembro",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Dilermando de Aguiar",
+    "feriados": [
+      {
+        "dataFeriado": "08 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Dilermando de Aguiar"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Dois Irmãos",
+    "feriados": [
+      {
+        "dataFeriado": "10 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Dois Irmãos"
+      },
+      {
+        "dataFeriado": "29 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Dois Irmãos das Missões",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Dois Irmãos das Missões"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Senhor Bom Jesus"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Dois Lajeados",
+    "feriados": [
+      {
+        "dataFeriado": "16 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Dois Lajeados"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Dom Feliciano",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "09 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Dom Feliciano"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Dom Pedro de Alcântara",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Dom Pedrito",
+    "feriados": [
+      {
+        "dataFeriado": "30 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Dom Pedrito"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Dona Francisca",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "17 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Dona Francisca"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Doutor Maurício Cardoso",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Doutor Maurício Cardoso"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Doutor Ricardo",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Eldorado do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Navegantes"
+      },
+      {
+        "dataFeriado": "08 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Eldorado do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Encantado",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Encruzilhada do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "04 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Engenho Velho",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Entre-Ijuís",
+    "feriados": [
+      {
+        "dataFeriado": "13 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Entre-Ijuís"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Entre Rios do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "09 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Entre Rios do Sul"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Erebango",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "11 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Erebango"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Erechim",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Ernestina",
+    "feriados": [
+      {
+        "dataFeriado": "11 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ernestina"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Herval",
+    "feriados": [
+      {
+        "dataFeriado": "18 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Herval"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Erval Grande",
+    "feriados": [
+      {
+        "dataFeriado": "07 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Erval Grande"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Erval Seco",
+    "feriados": [
+      {
+        "dataFeriado": "12 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Erval Seco"
+      },
+      {
+        "dataFeriado": "01 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Terezinha"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Esmeralda",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Esmeralda"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Esperança do Sul",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Espumoso",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Estação",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Estância Velha",
+    "feriados": [
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação do Município"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Esteio",
+    "feriados": [
+      {
+        "dataFeriado": "28 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Carnaval, Aniversário de Esteio"
+      },
+      {
+        "dataFeriado": "22 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Estrela",
+    "feriados": [
+      {
+        "dataFeriado": "20 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Estrela"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Estrela Velha",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Estrela Velha"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Eugênio de Castro",
+    "feriados": [
+      {
+        "dataFeriado": "29 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Eugênio de Castro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Fagundes Varela",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Fagundes Varela"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Farroupilha",
+    "feriados": [
+      {
+        "dataFeriado": "26 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Padroeira do Município"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Faxinal do Soturno",
+    "feriados": [
+      {
+        "dataFeriado": "12 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "16 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Faxinalzinho",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Fazenda Vilanova",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Fazenda Vilanova"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Feliz",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Flores da Cunha",
+    "feriados": [
+      {
+        "dataFeriado": "26 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Floriano Peixoto",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Fontoura Xavier",
+    "feriados": [
+      {
+        "dataFeriado": "09 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Fontoura Xavier"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Formigueiro",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "09 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Formigueiro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Forquetinha",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Fortaleza dos Valos",
+    "feriados": [
+      {
+        "dataFeriado": "03 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Fortaleza dos Valos"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Frederico Westphalen",
+    "feriados": [
+      {
+        "dataFeriado": "28 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Carnaval, Aniversário de Frederico Westphalen"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Garibaldi",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Garruchos",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Garruchos"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Gaurama",
+    "feriados": [
+      {
+        "dataFeriado": "15 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Gaurama"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "General Câmara",
+    "feriados": [
+      {
+        "dataFeriado": "15 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de General Câmara"
+      },
+      {
+        "dataFeriado": "06 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Gentil",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Gentil"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Getúlio Vargas",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Giruá",
+    "feriados": [
+      {
+        "dataFeriado": "28 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Giruá"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Glorinha",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Gramado",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Ascenção do Senhor"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Gramado dos Loureiros",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Gramado Xavier",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Gravataí",
+    "feriados": [
+      {
+        "dataFeriado": "02 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Anjos"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Guabiju",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Guaíba",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Navegantes"
+      },
+      {
+        "dataFeriado": "14 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Guaíba"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Guaporé",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Guarani das Missões",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Harmonia",
+    "feriados": [
+      {
+        "dataFeriado": "13 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Harmonia"
+      },
+      {
+        "dataFeriado": "20 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Herveiras",
+    "feriados": [
+      {
+        "dataFeriado": "24 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Horizontina",
+    "feriados": [
+      {
+        "dataFeriado": "28 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Carnaval, São Romão"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Cristóvão"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Hulha Negra",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Hulha Negra"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Humaitá",
+    "feriados": [
+      {
+        "dataFeriado": "01 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Carnaval, Aniversário de Humaitá"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Ibarama",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Ibiaçá",
+    "feriados": [
+      {
+        "dataFeriado": "22 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ibiaçá"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Ibiraiaras",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ibiraiaras"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Ibirapuitã",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Ibirubá",
+    "feriados": [
+      {
+        "dataFeriado": "28 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Carnaval, Aniversário de Ibirubá"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Igrejinha",
+    "feriados": [
+      {
+        "dataFeriado": "01 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Igrejinha"
+      },
+      {
+        "dataFeriado": "29 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Imigrante"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Ijuí",
+    "feriados": [
+      {
+        "dataFeriado": "19 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ijuí"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Ilópolis",
+    "feriados": [
+      {
+        "dataFeriado": "16 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Imbé",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "09 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Imbé"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Imigrante",
+    "feriados": [
+      {
+        "dataFeriado": "09 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Imigrante"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Independência",
+    "feriados": [
+      {
+        "dataFeriado": "23 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "05 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Inhacorá",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Ipê",
+    "feriados": [
+      {
+        "dataFeriado": "26 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Ipiranga do Sul",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Iraí",
+    "feriados": [
+      {
+        "dataFeriado": "24 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Auxiliadora"
+      },
+      {
+        "dataFeriado": "01 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Iraí"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Reforma Luterana"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Itaara",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Itacurubi",
+    "feriados": [
+      {
+        "dataFeriado": "09 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itacurubi"
+      },
+      {
+        "dataFeriado": "01 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Itapuca",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itapuca"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Itaqui",
+    "feriados": [
+      {
+        "dataFeriado": "17 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "06 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itaqui"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Itati",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Itatiba do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "10 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itatiba do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Ivorá",
+    "feriados": [
+      {
+        "dataFeriado": "09 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ivorá"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Ivoti",
+    "feriados": [
+      {
+        "dataFeriado": "19 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ivoti"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Jaboticaba",
+    "feriados": [
+      {
+        "dataFeriado": "12 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Medianeira"
+      },
+      {
+        "dataFeriado": "30 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jaboticaba"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Jacuizinho",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Jacutinga",
+    "feriados": [
+      {
+        "dataFeriado": "01 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jacutinga"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Jaguarão",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "23 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jaguarão"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Jaguari",
+    "feriados": [
+      {
+        "dataFeriado": "16 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jaguari"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Jaquirana",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Jari",
+    "feriados": [
+      {
+        "dataFeriado": "03 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jari"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Jóia",
+    "feriados": [
+      {
+        "dataFeriado": "12 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jóia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Júlio de Castilhos",
+    "feriados": [
+      {
+        "dataFeriado": "14 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Júlio de Castilhos"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Lagoa Bonita do Sul",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Lagoão",
+    "feriados": [
+      {
+        "dataFeriado": "20 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Lagoão"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Lagoa dos Três Cantos",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Lagoa Vermelha",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Lajeado",
+    "feriados": [
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Reforma"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Lajeado do Bugre",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Lavras do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "09 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Lavras do Sul"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Liberato Salzano",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "01 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Liberato Salzano"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Lindolfo Collor",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Linha Nova",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Linha Nova"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Colono"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Reforma"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Machadinho",
+    "feriados": [
+      {
+        "dataFeriado": "28 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Machadinho"
+      },
+      {
+        "dataFeriado": "07 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Maçambará",
+    "feriados": [
+      {
+        "dataFeriado": "01 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "06 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "07 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Maçambará"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Mampituba",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Manoel Viana",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Manoel Viana"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Maquiné",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Maquiné"
+      },
+      {
+        "dataFeriado": "10 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Maratá",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Maratá"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Marau",
+    "feriados": [
+      {
+        "dataFeriado": "28 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Carnaval, Aniversário de Marau"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Marcelino Ramos",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Mariana Pimentel",
+    "feriados": [
+      {
+        "dataFeriado": "26 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mariana Pimentel"
+      },
+      {
+        "dataFeriado": "27 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "07 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Mariano Moro",
+    "feriados": [
+      {
+        "dataFeriado": "22 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mariano Moro"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Marques de Souza",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Mata",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mata"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Mato Castelhano",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Mato Leitão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Mato Queimado",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Maximiliano de Almeida",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Maximiliano de Almeida"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Minas do Leão",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Minas do Leão"
+      },
+      {
+        "dataFeriado": "04 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Miraguaí",
+    "feriados": [
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Miraguaí"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Montauri",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Monte Alegre dos Campos",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Monte Belo do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Monte Belo do Sul"
+      },
+      {
+        "dataFeriado": "26 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Montenegro",
+    "feriados": [
+      {
+        "dataFeriado": "05 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Montenegro"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Mormaço",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Morrinhos do Sul",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Morro Redondo",
+    "feriados": [
+      {
+        "dataFeriado": "12 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Morro Redondo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Morro Reuter",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Mostardas",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Muçum",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Muitos Capões",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Muliterno",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Não-Me-Toque",
+    "feriados": [
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Reforma"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Nicolau Vergueiro",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nicolau Vergueiro"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Nonoai",
+    "feriados": [
+      {
+        "dataFeriado": "31 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nonoai"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Nova Alvorada",
+    "feriados": [
+      {
+        "dataFeriado": "11 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Nova Araçá",
+    "feriados": [
+      {
+        "dataFeriado": "12 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Araçá"
+      },
+      {
+        "dataFeriado": "13 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Nova Bassano",
+    "feriados": [
+      {
+        "dataFeriado": "23 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Bassano"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Nova Boa Vista",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Nova Bréscia",
+    "feriados": [
+      {
+        "dataFeriado": "11 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Bréscia"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Nova Candelária",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Nova Esperança do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Esperança do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Nova Hartz",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "01 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Nova Pádua",
+    "feriados": [
+      {
+        "dataFeriado": "26 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Nova Palma",
+    "feriados": [
+      {
+        "dataFeriado": "29 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Palma"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Nova Petrópolis",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Nova Prata",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Nova Ramada",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Nova Roma do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "26 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Nova Santa Rita",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Navegantes"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Novo Cabrais",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Novo Cabrais"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Novo Hamburgo",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Novo Machado",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Novo Tiradentes",
+    "feriados": [
+      {
+        "dataFeriado": "11 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora de Lurdes"
+      },
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Novo Tiradentes"
+      },
+      {
+        "dataFeriado": "21 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Luiz"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Novo Xingu",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Novo Barreiro",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Osório",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Paim Filho",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Paim Filho"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Palmares do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Palmares do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Palmeira das Missões",
+    "feriados": [
+      {
+        "dataFeriado": "06 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Palmeira das Missões"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      },
+      {
+        "dataFeriado": "28 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Funcionário Público"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Palmitinho",
+    "feriados": [
+      {
+        "dataFeriado": "22 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Palmitinho"
+      },
+      {
+        "dataFeriado": "01 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Terezinha"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Panambi",
+    "feriados": [
+      {
+        "dataFeriado": "28 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Carnaval, Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Etnia Alemã / Motorista"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Pantano Grande",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Paraí",
+    "feriados": [
+      {
+        "dataFeriado": "03 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "09 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Paraí"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Paraíso do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "12 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Paraíso do Sul"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Pareci Novo",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Parobé",
+    "feriados": [
+      {
+        "dataFeriado": "28 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Dorotéia"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Cristóvão"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Passa Sete",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Passo do Sobrado",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Passo do Sobrado"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "07 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Passo Fundo",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Paulo Bento",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Paverama",
+    "feriados": [
+      {
+        "dataFeriado": "13 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Paverama"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Pedras Altas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Pedro Osório",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "03 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pedro Osório"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Pejuçara",
+    "feriados": [
+      {
+        "dataFeriado": "15 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pejuçara"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Pelotas",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Navegantes"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Picada Café",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Pinhal",
+    "feriados": [
+      {
+        "dataFeriado": "29 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pinhal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Pinhal da Serra",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Pinhal Grande",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pinhal Grande"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Pinheirinho do Vale",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pinheirinho do Vale"
+      },
+      {
+        "dataFeriado": "28 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Servidor Público"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Pinheiro Machado",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Pinto Bandeira",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Pirapó",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pirapó"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Piratini",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "06 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Piratini"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Planalto",
+    "feriados": [
+      {
+        "dataFeriado": "13 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Planalto"
+      },
+      {
+        "dataFeriado": "16 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Roque"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Poço das Antas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Pontão",
+    "feriados": [
+      {
+        "dataFeriado": "17 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Ponte Preta",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Portão",
+    "feriados": [
+      {
+        "dataFeriado": "09 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Portão"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Porto Alegre",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Navegantes"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Porto Lucena",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Porto Lucena"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Porto Mauá",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Porto Vera Cruz",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Porto Xavier",
+    "feriados": [
+      {
+        "dataFeriado": "15 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Porto Xavier"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "03 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Pouso Novo",
+    "feriados": [
+      {
+        "dataFeriado": "29 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pouso Novo"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Presidente Lucena",
+    "feriados": [
+      {
+        "dataFeriado": "10 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Progresso",
+    "feriados": [
+      {
+        "dataFeriado": "24 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Protásio Alves",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Putinga",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Quaraí",
+    "feriados": [
+      {
+        "dataFeriado": "08 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Quaraí"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Quatro Irmãos",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Quevedos",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Quevedos"
+      },
+      {
+        "dataFeriado": "17 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Quinze de Novembro",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Quinze de Novembro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Redentora",
+    "feriados": [
+      {
+        "dataFeriado": "12 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "19 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Índio"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Motorista"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Relvado",
+    "feriados": [
+      {
+        "dataFeriado": "11 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Restinga Sêca",
+    "feriados": [
+      {
+        "dataFeriado": "25 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Restinga Sêca"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Rio dos Índios",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Rio Grande",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Navegantes"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Pedro e São Paulo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Rio Pardo",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "07 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rio Pardo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Riozinho",
+    "feriados": [
+      {
+        "dataFeriado": "14 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Roca Sales",
+    "feriados": [
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Rodeio Bonito",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Navegantes"
+      },
+      {
+        "dataFeriado": "15 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Sexta-feira da Paixão, Aniversário de Rodeio Bonito"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Rolador",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Rolante",
+    "feriados": [
+      {
+        "dataFeriado": "28 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Carnaval, Aniversário de Rolante"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Ronda Alta",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ronda Alta"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Rondinha",
+    "feriados": [
+      {
+        "dataFeriado": "28 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rondinha"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "21 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Roque Gonzales",
+    "feriados": [
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Rosário do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "19 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rosário do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Sagrada Família",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Saldanha Marinho",
+    "feriados": [
+      {
+        "dataFeriado": "06 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Reis"
+      },
+      {
+        "dataFeriado": "09 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Saldanha Marinho"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Salto do Jacuí",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Salto do Jacuí"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Salvador das Missões",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Salvador do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "09 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Salvador do Sul"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Sananduva",
+    "feriados": [
+      {
+        "dataFeriado": "28 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Carnaval, Aniversário de Sananduva"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João Batista"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Santa Bárbara do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "04 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Santa Cecília do Sul",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Santa Clara do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "11 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Santa Cruz do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Santa Maria",
+    "feriados": [
+      {
+        "dataFeriado": "17 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Maria"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Santa Maria do Herval",
+    "feriados": [
+      {
+        "dataFeriado": "12 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Maria do Herval"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Santa Margarida do Sul",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Santana da Boa Vista",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "17 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santana da Boa Vista"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Sant'Ana do Livramento",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Santa Rosa",
+    "feriados": [
+      {
+        "dataFeriado": "28 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Santa Tereza",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Santa Vitória do Palmar",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Navegantes"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Santiago",
+    "feriados": [
+      {
+        "dataFeriado": "04 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santiago"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Santo Ângelo",
+    "feriados": [
+      {
+        "dataFeriado": "22 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santo Ângelo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Santo Antônio do Palma",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Santo Antônio da Patrulha",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Santo Antônio das Missões",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Santo Antônio do Planalto",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Santo Augusto",
+    "feriados": [
+      {
+        "dataFeriado": "30 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santo Augusto"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Santo Cristo",
+    "feriados": [
+      {
+        "dataFeriado": "28 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santo Cristo"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Santo Expedito do Sul",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São Borja",
+    "feriados": [
+      {
+        "dataFeriado": "10 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Borja"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São Domingos do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "08 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Domingos do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São Francisco de Assis",
+    "feriados": [
+      {
+        "dataFeriado": "04 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Francisco de Assis"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São Francisco de Paula",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São Gabriel",
+    "feriados": [
+      {
+        "dataFeriado": "04 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Gabriel"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São Jerônimo",
+    "feriados": [
+      {
+        "dataFeriado": "30 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Jerônimo"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São João da Urtiga",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São João da Urtiga"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São João do Polêsine",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São João do Polêsine"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São Jorge",
+    "feriados": [
+      {
+        "dataFeriado": "23 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Jorge"
+      },
+      {
+        "dataFeriado": "30 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Jorge"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São José das Missões",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São José do Herval",
+    "feriados": [
+      {
+        "dataFeriado": "09 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São José do Herval"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São José do Hortêncio",
+    "feriados": [
+      {
+        "dataFeriado": "20 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São José do Inhacorá",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São José do Norte",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São José do Norte"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São José do Ouro",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São José do Ouro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São José do Sul",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São José dos Ausentes",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São Leopoldo",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Leopoldo"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São Lourenço do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São Luiz Gonzaga",
+    "feriados": [
+      {
+        "dataFeriado": "03 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Luiz Gonzaga"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São Marcos",
+    "feriados": [
+      {
+        "dataFeriado": "25 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São Martinho",
+    "feriados": [
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "11 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Martinho"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São Martinho da Serra",
+    "feriados": [
+      {
+        "dataFeriado": "11 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São Miguel das Missões",
+    "feriados": [
+      {
+        "dataFeriado": "29 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Miguel das Missões"
+      },
+      {
+        "dataFeriado": "29 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São Nicolau",
+    "feriados": [
+      {
+        "dataFeriado": "03 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Nicolau"
+      },
+      {
+        "dataFeriado": "06 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São Paulo das Missões",
+    "feriados": [
+      {
+        "dataFeriado": "06 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Paulo das Missões"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São Pedro da Serra",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São Pedro das Missões",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São Pedro do Butiá",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São Pedro do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "22 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Pedro do Sul"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São Sebastião do Caí",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São Sepé",
+    "feriados": [
+      {
+        "dataFeriado": "29 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Sepé"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São Valentim",
+    "feriados": [
+      {
+        "dataFeriado": "17 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Valentim"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São Valentim do Sul",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São Valério do Sul",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São Vendelino",
+    "feriados": [
+      {
+        "dataFeriado": "29 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Vendelino"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "São Vicente do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "05 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Vicente do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Sapiranga",
+    "feriados": [
+      {
+        "dataFeriado": "28 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Carnaval, Aniversário de Sapiranga"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Sapucaia do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "20 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Sapucaia do Sul"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Sarandi",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "27 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Sarandi"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Seberi",
+    "feriados": [
+      {
+        "dataFeriado": "24 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Paz"
+      },
+      {
+        "dataFeriado": "04 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Seberi"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Sede Nova",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Segredo",
+    "feriados": [
+      {
+        "dataFeriado": "05 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Segredo"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Selbach",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Selbach"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Senador Salgado Filho",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Sentinela do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "15 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Serafina Corrêa",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Sério",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Sertão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Sertão Santana",
+    "feriados": [
+      {
+        "dataFeriado": "24 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Sertão Santana"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Sete de Setembro",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Severiano de Almeida",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Silveira Martins",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "11 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Silveira Martins"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Sinimbu",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Sobradinho",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "03 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Sobradinho"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Soledade",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Tabaí",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Tapejara",
+    "feriados": [
+      {
+        "dataFeriado": "09 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tapejara"
+      },
+      {
+        "dataFeriado": "31 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Tapera",
+    "feriados": [
+      {
+        "dataFeriado": "28 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Carnaval, Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Tapes",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "16 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Taquara",
+    "feriados": [
+      {
+        "dataFeriado": "17 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Páscoa, Aniversário de Taquara"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Taquari",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Taquari"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Taquaruçu do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "09 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Taquaruçu do Sul"
+      },
+      {
+        "dataFeriado": "16 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Roque"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Tavares",
+    "feriados": [
+      {
+        "dataFeriado": "31 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tavares"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "14 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Tenente Portela",
+    "feriados": [
+      {
+        "dataFeriado": "18 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tenente Portela"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Terra de Areia",
+    "feriados": [
+      {
+        "dataFeriado": "13 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Terra de Areia"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Teutônia",
+    "feriados": [
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Tio Hugo",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Tiradentes do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Toropi",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Torres",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Navegantes"
+      },
+      {
+        "dataFeriado": "21 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Torres"
+      },
+      {
+        "dataFeriado": "08 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Domingos de Gusmão"
+      },
+      {
+        "dataFeriado": "28 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Servidor Público"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Tramandaí",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Travesseiro",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Três Arroios",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Três Arroios"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Três Cachoeiras",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Três Cachoeiras"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Três Coroas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Três de Maio",
+    "feriados": [
+      {
+        "dataFeriado": "03 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Três de Maio"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Três Forquilhas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Três Palmeiras",
+    "feriados": [
+      {
+        "dataFeriado": "12 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Três Palmeiras"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "16 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Três Passos",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Colono"
+      },
+      {
+        "dataFeriado": "28 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Três Passos"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Trindade do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Trindade do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Triunfo",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Tucunduva",
+    "feriados": [
+      {
+        "dataFeriado": "16 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Roque"
+      },
+      {
+        "dataFeriado": "10 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tucunduva"
+      },
+      {
+        "dataFeriado": "21 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa do músico"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Tunas",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tunas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Tupanci do Sul",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Tupanciretã",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Tupandi",
+    "feriados": [
+      {
+        "dataFeriado": "09 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tupandi"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Tuparendi",
+    "feriados": [
+      {
+        "dataFeriado": "10 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tuparendi"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Turuçu",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Ubiretama",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "União da Serra",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Unistalda",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Uruguaiana",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Sant'ana"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Vacaria",
+    "feriados": [
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Vacaria"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Vale Verde",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Vale Verde"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Vale do Sol",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Vale Real",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Vale Real"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Vanini",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Vanini"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Venâncio Aires",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Vera Cruz",
+    "feriados": [
+      {
+        "dataFeriado": "07 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Vera Cruz"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Veranópolis",
+    "feriados": [
+      {
+        "dataFeriado": "11 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Vespasiano Corrêa",
+    "feriados": [
+      {
+        "dataFeriado": "28 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Vespasiano Corrêa"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Viadutos",
+    "feriados": [
+      {
+        "dataFeriado": "28 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Viadutos"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Viamão",
+    "feriados": [
+      {
+        "dataFeriado": "14 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Viamão"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Vicente Dutra",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Navegantes"
+      },
+      {
+        "dataFeriado": "14 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Vicente Dutra"
+      },
+      {
+        "dataFeriado": "28 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Servidor Público"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Victor Graeff",
+    "feriados": [
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Vila Flores",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Vila Lângaro",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Vila Maria",
+    "feriados": [
+      {
+        "dataFeriado": "09 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Vila Maria"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Vila Nova do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Vila Nova do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Vista Alegre",
+    "feriados": [
+      {
+        "dataFeriado": "06 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Sagrado Coração de Jesus"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      },
+      {
+        "dataFeriado": "20 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Vista Alegre"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Vista Alegre do Prata",
+    "feriados": [
+      {
+        "dataFeriado": "09 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Vista Alegre do Prata"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      },
+      {
+        "dataFeriado": "21 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Saúde"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Vista Gaúcha",
+    "feriados": [
+      {
+        "dataFeriado": "09 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Vista Gaúcha"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Vitória das Missões",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Vitória das Missões"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Westfália",
+    "feriados": [
+      {
+        "dataFeriado": "24 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Westfália"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RS",
+    "nomeCidade": "Xangri-lá",
+    "feriados": [
+      {
+        "dataFeriado": "26 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Xangri-lá"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Pedro"
+      }
+    ]
+  }
+]

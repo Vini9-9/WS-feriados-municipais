@@ -1,0 +1,5627 @@
+[
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Abatiá",
+    "feriados": [
+      {
+        "dataFeriado": "17 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Abatiá"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Adrianópolis",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Adrianópolis"
+      },
+      {
+        "dataFeriado": "04 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Agudos do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "18 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Agudos do Sul"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Almirante Tamandaré",
+    "feriados": [
+      {
+        "dataFeriado": "28 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Almirante Tamandaré"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Altamira do Paraná",
+    "feriados": [
+      {
+        "dataFeriado": "27 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Altamira do Paraná"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Altônia",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Altônia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Alto Paraná",
+    "feriados": [
+      {
+        "dataFeriado": "05 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Alto Paraná"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Alto Piquiri",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Alto Piquiri"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Alvorada do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "27 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Alvorada do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Amaporã",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Ampére",
+    "feriados": [
+      {
+        "dataFeriado": "01 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ampére"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Anahy",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Andirá",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Andirá"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Ângulo",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Antonina",
+    "feriados": [
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Antônio Olinto",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Antônio Olinto"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Apucarana",
+    "feriados": [
+      {
+        "dataFeriado": "28 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Apucarana"
+      },
+      {
+        "dataFeriado": "11 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Arapongas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Arapoti",
+    "feriados": [
+      {
+        "dataFeriado": "25 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "18 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Arapoti"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Arapuã",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Araruna",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "29 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Araruna"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Araucária",
+    "feriados": [
+      {
+        "dataFeriado": "11 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Araucária"
+      },
+      {
+        "dataFeriado": "30 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Remédios"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Ariranha do Ivaí",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Assaí",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Assis Chateaubriand",
+    "feriados": [
+      {
+        "dataFeriado": "20 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Assis Chateaubriand"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Astorga",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Atalaia",
+    "feriados": [
+      {
+        "dataFeriado": "28 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Atalaia"
+      },
+      {
+        "dataFeriado": "22 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Balsa Nova",
+    "feriados": [
+      {
+        "dataFeriado": "25 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Balsa Nova"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Bandeirantes",
+    "feriados": [
+      {
+        "dataFeriado": "01 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Terezinha"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Bandeirantes"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Barbosa Ferraz",
+    "feriados": [
+      {
+        "dataFeriado": "22 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Barbosa Ferraz"
+      },
+      {
+        "dataFeriado": "27 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Barracão",
+    "feriados": [
+      {
+        "dataFeriado": "14 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Barracão"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Barra do Jacaré",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Bela Vista da Caroba",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Bela Vista do Paraíso",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "16 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bela Vista do Paraíso"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Bituruna",
+    "feriados": [
+      {
+        "dataFeriado": "04 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Bárbara"
+      },
+      {
+        "dataFeriado": "14 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bituruna"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Boa Esperança",
+    "feriados": [
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Boa Esperança"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Boa Esperança do Iguaçu",
+    "feriados": [
+      {
+        "dataFeriado": "26 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Boa Esperança do Iguaçu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Boa Ventura de São Roque",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Boa Vista da Aparecida",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Boa Vista da Aparecida"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Bocaiúva do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "12 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bocaiúva do Sul"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Bom Jesus do Sul",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Bom Sucesso",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Bom Sucesso do Sul",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Borrazópolis",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Braganey",
+    "feriados": [
+      {
+        "dataFeriado": "03 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Braganey"
+      },
+      {
+        "dataFeriado": "19 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Brasilândia do Sul",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Cafeara",
+    "feriados": [
+      {
+        "dataFeriado": "19 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cafeara"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Cafelândia",
+    "feriados": [
+      {
+        "dataFeriado": "20 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cafelândia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Cafezal do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "20 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cafezal do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Califórnia",
+    "feriados": [
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Califórnia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Cambará",
+    "feriados": [
+      {
+        "dataFeriado": "31 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "21 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cambará"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Cambé",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "11 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cambé"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Cambira",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cambira"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Campina da Lagoa",
+    "feriados": [
+      {
+        "dataFeriado": "01 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Campina do Simão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Campina Grande do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Campina Grande do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Campo Bonito",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "21 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Campo Bonito"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Campo do Tenente",
+    "feriados": [
+      {
+        "dataFeriado": "29 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Campo do Tenente"
+      },
+      {
+        "dataFeriado": "25 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Campo Largo",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Piedade"
+      },
+      {
+        "dataFeriado": "23 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Campo Largo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Campo Magro",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Campo Mourão",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Campo Mourão"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Cândido de Abreu",
+    "feriados": [
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cândido de Abreu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Candói",
+    "feriados": [
+      {
+        "dataFeriado": "11 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Candói"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Cantagalo",
+    "feriados": [
+      {
+        "dataFeriado": "12 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cantagalo"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Capanema",
+    "feriados": [
+      {
+        "dataFeriado": "31 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Capanema"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Capitão Leônidas Marques",
+    "feriados": [
+      {
+        "dataFeriado": "28 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Capitão Leônidas Marques"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Carambeí",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Carambeí"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Carlópolis",
+    "feriados": [
+      {
+        "dataFeriado": "02 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Carlópolis"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Cascavel",
+    "feriados": [
+      {
+        "dataFeriado": "14 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Cascavel"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Castro",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Castro"
+      },
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Catanduvas",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Centenário do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "27 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Cerro Azul",
+    "feriados": [
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cerro Azul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Céu Azul",
+    "feriados": [
+      {
+        "dataFeriado": "08 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Céu Azul"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Chopinzinho",
+    "feriados": [
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Chopinzinho"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Cianorte",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora de Fátima"
+      },
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cianorte"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Cidade Gaúcha",
+    "feriados": [
+      {
+        "dataFeriado": "06 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cidade Gaúcha"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Clevelândia",
+    "feriados": [
+      {
+        "dataFeriado": "28 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Clevelândia"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Colombo",
+    "feriados": [
+      {
+        "dataFeriado": "05 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Colombo"
+      },
+      {
+        "dataFeriado": "26 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora de Caravággio"
+      },
+      {
+        "dataFeriado": "07 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Rosário"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Colorado",
+    "feriados": [
+      {
+        "dataFeriado": "24 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Congonhinhas",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Congonhinhas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Conselheiro Mairinck",
+    "feriados": [
+      {
+        "dataFeriado": "03 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Conselheiro Mairinck"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Contenda",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Contenda"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Corbélia",
+    "feriados": [
+      {
+        "dataFeriado": "28 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Corbélia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Cornélio Procópio",
+    "feriados": [
+      {
+        "dataFeriado": "15 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cornélio Procópio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Coronel Domingos Soares",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Coronel Vivida",
+    "feriados": [
+      {
+        "dataFeriado": "16 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Coronel Vivida"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Corumbataí do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "27 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Corumbataí do Sul"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Cruzeiro do Iguaçu",
+    "feriados": [
+      {
+        "dataFeriado": "26 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cruzeiro do Iguaçu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Cruzeiro do Oeste",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cruzeiro do Oeste"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Cruzeiro do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "28 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Cruz Machado",
+    "feriados": [
+      {
+        "dataFeriado": "14 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cruz Machado"
+      },
+      {
+        "dataFeriado": "26 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Cruzmaltina",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Curitiba",
+    "feriados": [
+      {
+        "dataFeriado": "29 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Curitiba"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Luz dos Pinhais"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Curiúva",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Curiúva"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Diamante do Norte",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Diamante do Sul",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Diamante D'Oeste",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Dois Vizinhos",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "28 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Dois Vizinhos"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Douradina",
+    "feriados": [
+      {
+        "dataFeriado": "17 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Doutor Camargo",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "16 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Doutor Camargo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Enéas Marques",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Enéas Marques"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Engenheiro Beltrão",
+    "feriados": [
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Engenheiro Beltrão"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Esperança Nova",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Entre Rios do Oeste",
+    "feriados": [
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Espigão Alto do Iguaçu",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Farol",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Faxinal",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Fazenda Rio Grande",
+    "feriados": [
+      {
+        "dataFeriado": "26 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Fazenda Rio Grande"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Fênix",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Fênix"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Fernandes Pinheiro",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Fernandes Pinheiro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Figueira",
+    "feriados": [
+      {
+        "dataFeriado": "20 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Figueira"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Floraí",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Flor da Serra do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "22 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Flor da Serra do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Floresta",
+    "feriados": [
+      {
+        "dataFeriado": "07 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "17 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Florestópolis",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Florestópolis"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Flórida",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Formosa do Oeste",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Formosa do Oeste"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Foz do Iguaçu",
+    "feriados": [
+      {
+        "dataFeriado": "10 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Foz do Iguaçu"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Francisco Alves",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Francisco Beltrão",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Francisco Beltrão"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Foz do Jordão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "General Carneiro",
+    "feriados": [
+      {
+        "dataFeriado": "19 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de General Carneiro"
+      },
+      {
+        "dataFeriado": "27 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Godoy Moreira",
+    "feriados": [
+      {
+        "dataFeriado": "05 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Godoy Moreira"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Goioerê",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Goioxim",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Grandes Rios",
+    "feriados": [
+      {
+        "dataFeriado": "14 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Grandes Rios"
+      },
+      {
+        "dataFeriado": "28 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Guaíra",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Guaíra"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Guairaçá",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Guamiranga",
+    "feriados": [
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Reforma Luterana"
+      },
+      {
+        "dataFeriado": "16 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Guamiranga"
+      },
+      {
+        "dataFeriado": "25 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Menino Jesus, Natal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Guapirama",
+    "feriados": [
+      {
+        "dataFeriado": "17 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Guaporema",
+    "feriados": [
+      {
+        "dataFeriado": "25 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Guaporema"
+      },
+      {
+        "dataFeriado": "26 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Guaraci",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "01 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Guaraci"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Guaraniaçu",
+    "feriados": [
+      {
+        "dataFeriado": "14 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Guaraniaçu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Guarapuava",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Consciência Negra"
+      },
+      {
+        "dataFeriado": "09 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Guarapuava"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Guaraqueçaba",
+    "feriados": [
+      {
+        "dataFeriado": "11 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Guaraqueçaba"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Guaratuba",
+    "feriados": [
+      {
+        "dataFeriado": "29 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Guaratuba"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Honório Serpa",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "16 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Ibaiti",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Ibema",
+    "feriados": [
+      {
+        "dataFeriado": "12 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ibema"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Ibiporã",
+    "feriados": [
+      {
+        "dataFeriado": "31 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Paz"
+      },
+      {
+        "dataFeriado": "08 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ibiporã"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Icaraíma",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Icaraíma"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Iguaraçu",
+    "feriados": [
+      {
+        "dataFeriado": "22 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Iguaraçu"
+      },
+      {
+        "dataFeriado": "24 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Iguatu",
+    "feriados": [
+      {
+        "dataFeriado": "10 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Iguatu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Imbaú",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Imbaú"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Imbituva",
+    "feriados": [
+      {
+        "dataFeriado": "03 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Imbituva"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Inácio Martins",
+    "feriados": [
+      {
+        "dataFeriado": "25 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Inácio Martins"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Inajá",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Indianópolis",
+    "feriados": [
+      {
+        "dataFeriado": "14 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Indianópolis"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Ipiranga",
+    "feriados": [
+      {
+        "dataFeriado": "07 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ipiranga"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Iporã",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Iracema do Oeste",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "04 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Iracema do Oeste"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Irati",
+    "feriados": [
+      {
+        "dataFeriado": "15 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Irati"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Iretama",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Iretama"
+      },
+      {
+        "dataFeriado": "23 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Itaguajé",
+    "feriados": [
+      {
+        "dataFeriado": "30 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itaguajé"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Itaipulândia",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itaipulândia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Itambaracá",
+    "feriados": [
+      {
+        "dataFeriado": "30 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itambaracá"
+      },
+      {
+        "dataFeriado": "03 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Itambé",
+    "feriados": [
+      {
+        "dataFeriado": "27 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Itapejara d'Oeste",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Itaperuçu",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itaperuçu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Itaúna do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "19 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itaúna do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Ivaí",
+    "feriados": [
+      {
+        "dataFeriado": "24 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Ivaiporã",
+    "feriados": [
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "17 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Ivaté",
+    "feriados": [
+      {
+        "dataFeriado": "02 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ivaté"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Ivatuba",
+    "feriados": [
+      {
+        "dataFeriado": "18 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ivatuba"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Jaboti",
+    "feriados": [
+      {
+        "dataFeriado": "15 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Jacarezinho",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "02 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jacarezinho"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Jaguapitã",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Jaguariaíva",
+    "feriados": [
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jaguariaíva"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Jandaia do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Janiópolis",
+    "feriados": [
+      {
+        "dataFeriado": "18 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Janiópolis"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Japira",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "14 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Japira"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Japurá",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Japurá"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Jardim Alegre",
+    "feriados": [
+      {
+        "dataFeriado": "28 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jardim Alegre"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Jardim Olinda",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "11 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jardim Olinda"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Jataizinho",
+    "feriados": [
+      {
+        "dataFeriado": "10 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jataizinho"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Jesuítas",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jesuítas"
+      },
+      {
+        "dataFeriado": "31 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Joaquim Távora",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "21 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Joaquim Távora"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Jundiaí do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Juranda",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "16 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Juranda"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Jussara",
+    "feriados": [
+      {
+        "dataFeriado": "13 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Kaloré",
+    "feriados": [
+      {
+        "dataFeriado": "07 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Kaloré"
+      },
+      {
+        "dataFeriado": "05 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Lapa",
+    "feriados": [
+      {
+        "dataFeriado": "09 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Cerco da Lapa"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Lapa"
+      },
+      {
+        "dataFeriado": "26 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Benedito"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Laranjal",
+    "feriados": [
+      {
+        "dataFeriado": "09 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Laranjal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Laranjeiras do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Leópolis",
+    "feriados": [
+      {
+        "dataFeriado": "20 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Bandeira de Leópolis"
+      },
+      {
+        "dataFeriado": "14 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Leópolis"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Lidianópolis",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Lindoeste",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Loanda",
+    "feriados": [
+      {
+        "dataFeriado": "27 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Loanda"
+      },
+      {
+        "dataFeriado": "01 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Lobato",
+    "feriados": [
+      {
+        "dataFeriado": "11 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Lobato"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Londrina",
+    "feriados": [
+      {
+        "dataFeriado": "03 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Sagrado Coração de Jesus"
+      },
+      {
+        "dataFeriado": "11 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Londrina"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Luiziana",
+    "feriados": [
+      {
+        "dataFeriado": "25 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Luiziana"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Lunardelli",
+    "feriados": [
+      {
+        "dataFeriado": "22 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Lupionópolis",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Mallet",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "21 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mallet"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Mamborê",
+    "feriados": [
+      {
+        "dataFeriado": "10 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mamborê"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Mandaguaçu",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Mandaguari",
+    "feriados": [
+      {
+        "dataFeriado": "06 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mandaguari"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Mandirituba",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mandirituba"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Manfrinópolis",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "21 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Manfrinópolis"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Mangueirinha",
+    "feriados": [
+      {
+        "dataFeriado": "21 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mangueirinha"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Manoel Ribas",
+    "feriados": [
+      {
+        "dataFeriado": "08 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Manoel Ribas"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "19 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Marechal Cândido Rondon",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Marechal Cândido Rondon"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Maria Helena",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Maria Helena"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Marialva",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora de Fátima'"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Marialva"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Marilândia do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "15 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Marilândia do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Marilena",
+    "feriados": [
+      {
+        "dataFeriado": "16 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "19 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Marilena"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Mariluz",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Maringá",
+    "feriados": [
+      {
+        "dataFeriado": "09 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Mariópolis",
+    "feriados": [
+      {
+        "dataFeriado": "24 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mariópolis"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Maripá",
+    "feriados": [
+      {
+        "dataFeriado": "17 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Páscoa, Aniversário de Maripá"
+      },
+      {
+        "dataFeriado": "13 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Marmeleiro",
+    "feriados": [
+      {
+        "dataFeriado": "22 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Marquinho",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Marumbi",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Marumbi"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Matelândia",
+    "feriados": [
+      {
+        "dataFeriado": "26 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Matelândia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Matinhos",
+    "feriados": [
+      {
+        "dataFeriado": "12 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Matinhos"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Mato Rico",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Mauá da Serra",
+    "feriados": [
+      {
+        "dataFeriado": "02 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mauá da Serra"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Medianeira",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Medianeira"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Mercedes",
+    "feriados": [
+      {
+        "dataFeriado": "13 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mercedes"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Mirador",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "13 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mirador"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Miraselva",
+    "feriados": [
+      {
+        "dataFeriado": "30 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "11 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Miraselva"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Missal",
+    "feriados": [
+      {
+        "dataFeriado": "01 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Missal"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Moreira Sales",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Moreira Sales"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Morretes",
+    "feriados": [
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Morretes"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Munhoz de Melo",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Nossa Senhora das Graças",
+    "feriados": [
+      {
+        "dataFeriado": "31 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Nova Aliança do Ivaí",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Nova América da Colina",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova América da Colina"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Nova Aurora",
+    "feriados": [
+      {
+        "dataFeriado": "16 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Aurora"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Nova Cantu",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Nova Esperança",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Nova Esperança do Sudoeste",
+    "feriados": [
+      {
+        "dataFeriado": "31 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Nova Fátima",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Nova Laranjeiras",
+    "feriados": [
+      {
+        "dataFeriado": "16 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Laranjeiras"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Nova Londrina",
+    "feriados": [
+      {
+        "dataFeriado": "15 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Londrina"
+      },
+      {
+        "dataFeriado": "21 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Nova Olímpia",
+    "feriados": [
+      {
+        "dataFeriado": "17 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Nova Santa Bárbara",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Nova Santa Rosa",
+    "feriados": [
+      {
+        "dataFeriado": "29 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Santa Rosa"
+      },
+      {
+        "dataFeriado": "23 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Nova Prata do Iguaçu",
+    "feriados": [
+      {
+        "dataFeriado": "01 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Prata do Iguaçu"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "18 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Nova Tebas",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Tebas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Novo Itacolomi",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Ortigueira",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ortigueira"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Ourizona",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ourizona"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "19 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Ouro Verde do Oeste",
+    "feriados": [
+      {
+        "dataFeriado": "12 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ouro Verde do Oeste"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Paiçandu",
+    "feriados": [
+      {
+        "dataFeriado": "04 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "19 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Paiçandu"
+      },
+      {
+        "dataFeriado": "21 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Palmas",
+    "feriados": [
+      {
+        "dataFeriado": "14 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Palmas"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Palmeira",
+    "feriados": [
+      {
+        "dataFeriado": "07 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Palmital",
+    "feriados": [
+      {
+        "dataFeriado": "21 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Palotina",
+    "feriados": [
+      {
+        "dataFeriado": "22 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Palotina"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Paraíso do Norte",
+    "feriados": [
+      {
+        "dataFeriado": "01 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Paranacity",
+    "feriados": [
+      {
+        "dataFeriado": "11 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Paranacity"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Paranaguá",
+    "feriados": [
+      {
+        "dataFeriado": "29 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Paranaguá"
+      },
+      {
+        "dataFeriado": "07 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Rosário"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Paranapoema",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Paranavaí",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Pato Bragado",
+    "feriados": [
+      {
+        "dataFeriado": "18 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pato Bragado"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Pato Branco",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Paula Freitas",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Paula Freitas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Paulo Frontin",
+    "feriados": [
+      {
+        "dataFeriado": "14 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Paulo Frontin"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Peabiru",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "14 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Peabiru"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Perobal",
+    "feriados": [
+      {
+        "dataFeriado": "29 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Perobal"
+      },
+      {
+        "dataFeriado": "26 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Pérola",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Pérola d'Oeste",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Piên",
+    "feriados": [
+      {
+        "dataFeriado": "27 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Pinhais",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pinhais"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Pinhalão",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pinhalão"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Pinhal de São Bento",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Pinhão",
+    "feriados": [
+      {
+        "dataFeriado": "15 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pinhão"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Piraí do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "23 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Piraí do Sul"
+      },
+      {
+        "dataFeriado": "27 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Piraquara",
+    "feriados": [
+      {
+        "dataFeriado": "29 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Piraquara"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Pitanga",
+    "feriados": [
+      {
+        "dataFeriado": "28 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pitanga"
+      },
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Pitangueiras",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "15 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pitangueiras"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Planaltina do Paraná",
+    "feriados": [
+      {
+        "dataFeriado": "01 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "17 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Planalto",
+    "feriados": [
+      {
+        "dataFeriado": "11 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "11 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Planalto"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Ponta Grossa",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora de Santana"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ponta Grossa"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Pontal do Paraná",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pontal do Paraná"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Porecatu",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Porto Amazonas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Porto Barreiro",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Porto Rico",
+    "feriados": [
+      {
+        "dataFeriado": "08 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Porto Vitória",
+    "feriados": [
+      {
+        "dataFeriado": "29 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Porto Vitória"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Prado Ferreira",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Pranchita",
+    "feriados": [
+      {
+        "dataFeriado": "11 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pranchita"
+      },
+      {
+        "dataFeriado": "16 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Presidente Castelo Branco",
+    "feriados": [
+      {
+        "dataFeriado": "31 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Presidente Castelo Branco"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Primeiro de Maio",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Prudentópolis",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "12 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Prudentópolis"
+      },
+      {
+        "dataFeriado": "12 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Quarto Centenário",
+    "feriados": [
+      {
+        "dataFeriado": "29 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Quarto Centenário"
+      },
+      {
+        "dataFeriado": "13 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Quatiguá",
+    "feriados": [
+      {
+        "dataFeriado": "26 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Quatiguá"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Quatro Barras",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Quatro Pontes",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Quatro Pontes"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Quedas do Iguaçu",
+    "feriados": [
+      {
+        "dataFeriado": "18 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Querência do Norte",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "05 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Querência do Norte"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Quinta do Sol",
+    "feriados": [
+      {
+        "dataFeriado": "28 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Quinta do Sol"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Quitandinha",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Quitandinha"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Ramilândia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Rancho Alegre",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "19 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rancho Alegre"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Rancho Alegre D'Oeste",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Realeza",
+    "feriados": [
+      {
+        "dataFeriado": "12 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Realeza"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Rebouças",
+    "feriados": [
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "21 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rebouças"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Renascença",
+    "feriados": [
+      {
+        "dataFeriado": "19 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Renascença"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Reserva",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Reserva do Iguaçu",
+    "feriados": [
+      {
+        "dataFeriado": "04 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Reserva do Iguaçu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Ribeirão Claro",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ribeirão Claro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Ribeirão do Pinhal",
+    "feriados": [
+      {
+        "dataFeriado": "09 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "09 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ribeirão do Pinhal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Rio Azul",
+    "feriados": [
+      {
+        "dataFeriado": "14 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rio Azul"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Rio Bom",
+    "feriados": [
+      {
+        "dataFeriado": "28 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rio Bom"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Rio Bonito do Iguaçu",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rio Bonito do Iguaçu"
+      },
+      {
+        "dataFeriado": "17 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Páscoa, Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Rio Branco do Ivaí",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Rio Branco do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "16 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "11 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rio Branco do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Rio Negro",
+    "feriados": [
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Rolândia",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Roncador",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "06 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Rondon",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Rosário do Ivaí",
+    "feriados": [
+      {
+        "dataFeriado": "07 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rosário do Ivaí"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Sabáudia",
+    "feriados": [
+      {
+        "dataFeriado": "01 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Sabáudia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Salgado Filho",
+    "feriados": [
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Salgado Filho"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Salto do Itararé",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "25 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Salto do Lontra",
+    "feriados": [
+      {
+        "dataFeriado": "18 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Salto do Lontra"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Santa Amélia",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Amélia"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Santa Cecília do Pavão",
+    "feriados": [
+      {
+        "dataFeriado": "28 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Cecília do Pavão"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Santa Cruz de Monte Castelo",
+    "feriados": [
+      {
+        "dataFeriado": "14 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Santa Fé",
+    "feriados": [
+      {
+        "dataFeriado": "27 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "09 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Fé"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Santa Helena",
+    "feriados": [
+      {
+        "dataFeriado": "26 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Helena"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Motorista"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Reforma Protestante"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Santa Inês",
+    "feriados": [
+      {
+        "dataFeriado": "21 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "03 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Inês"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Santa Isabel do Ivaí",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Santa Izabel do Oeste",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Santa Lúcia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Santa Maria do Oeste",
+    "feriados": [
+      {
+        "dataFeriado": "11 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Maria do Oeste"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Santa Mariana",
+    "feriados": [
+      {
+        "dataFeriado": "11 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Mariana"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Santa Mônica",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Santana do Itararé",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santana do Itararé"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Santa Tereza do Oeste",
+    "feriados": [
+      {
+        "dataFeriado": "12 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Tereza do Oeste"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Santa Terezinha de Itaipu",
+    "feriados": [
+      {
+        "dataFeriado": "03 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Terezinha de Itaipu"
+      },
+      {
+        "dataFeriado": "01 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Santo Antônio da Platina",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      },
+      {
+        "dataFeriado": "20 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Santo Antônio do Caiuá",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Santo Antônio do Paraíso",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santo Antônio do Paraíso"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Santo Antônio do Sudoeste",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santo Antônio do Sudoeste"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Santo Inácio",
+    "feriados": [
+      {
+        "dataFeriado": "31 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santo Inácio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "São Carlos do Ivaí",
+    "feriados": [
+      {
+        "dataFeriado": "15 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "São Jerônimo da Serra",
+    "feriados": [
+      {
+        "dataFeriado": "30 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Jerônimo da Serra"
+      },
+      {
+        "dataFeriado": "11 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Consciência Negra"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "São João",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João Batista"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São João"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "São João do Caiuá",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "24 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "São João do Ivaí",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "São João do Triunfo",
+    "feriados": [
+      {
+        "dataFeriado": "15 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São João do Triunfo"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "São Jorge d'Oeste",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "São Jorge do Ivaí",
+    "feriados": [
+      {
+        "dataFeriado": "23 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Jorge do Ivaí"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "São Jorge do Patrocínio",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "São José da Boa Vista",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "21 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São José da Boa Vista"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "São José das Palmeiras",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "17 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Páscoa, Aniversário de São José das Palmeiras"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "São José dos Pinhais",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São José dos Pinhais"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "São Manoel do Paraná",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "São Mateus do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Assunção"
+      },
+      {
+        "dataFeriado": "21 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Mateus do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "São Miguel do Iguaçu",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Miguel do Iguaçu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "São Pedro do Iguaçu",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "São Pedro do Ivaí",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Pedro do Ivaí"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "São Pedro do Paraná",
+    "feriados": [
+      {
+        "dataFeriado": "30 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Pedro do Paraná"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "São Sebastião da Amoreira",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Sebastião da Amoreira"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "São Tomé",
+    "feriados": [
+      {
+        "dataFeriado": "03 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Tomé"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Sapopema",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "16 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Sapopema"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Sarandi",
+    "feriados": [
+      {
+        "dataFeriado": "14 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Saudade do Iguaçu",
+    "feriados": [
+      {
+        "dataFeriado": "21 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Sengés",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "01 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Carnaval, Aniversário de Sengés"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Serranópolis do Iguaçu",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Sertaneja",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "14 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Sertaneja"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Sertanópolis",
+    "feriados": [
+      {
+        "dataFeriado": "06 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Sertanópolis"
+      },
+      {
+        "dataFeriado": "01 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Siqueira Campos",
+    "feriados": [
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "23 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Siqueira Campos"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Sulina",
+    "feriados": [
+      {
+        "dataFeriado": "21 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Sulina"
+      },
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Tamarana",
+    "feriados": [
+      {
+        "dataFeriado": "16 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tamarana"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Tamboara",
+    "feriados": [
+      {
+        "dataFeriado": "15 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "26 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tamboara"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Tapejara",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Tapira",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Teixeira Soares",
+    "feriados": [
+      {
+        "dataFeriado": "14 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Teixeira Soares"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Telêmaco Borba",
+    "feriados": [
+      {
+        "dataFeriado": "21 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Telêmaco Borba"
+      },
+      {
+        "dataFeriado": "27 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Perpétuo Socorro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Terra Boa",
+    "feriados": [
+      {
+        "dataFeriado": "13 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Terra Boa"
+      },
+      {
+        "dataFeriado": "28 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Terra Rica",
+    "feriados": [
+      {
+        "dataFeriado": "02 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "04 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Terra Rica"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Terra Roxa",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Terra Roxa"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Tibagi",
+    "feriados": [
+      {
+        "dataFeriado": "18 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tibagi"
+      },
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Tijucas do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "15 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tijucas do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Toledo",
+    "feriados": [
+      {
+        "dataFeriado": "14 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Toledo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Tomazina",
+    "feriados": [
+      {
+        "dataFeriado": "02 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tomazina"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Três Barras do Paraná",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Três Barras do Paraná"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Tunas do Paraná",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Tuneiras do Oeste",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Tupãssi",
+    "feriados": [
+      {
+        "dataFeriado": "11 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tupãssi"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Turvo",
+    "feriados": [
+      {
+        "dataFeriado": "12 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Turvo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Ubiratã",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Umuarama",
+    "feriados": [
+      {
+        "dataFeriado": "26 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Umuarama"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Francisco de Assis"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "União da Vitória",
+    "feriados": [
+      {
+        "dataFeriado": "27 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de União da Vitória"
+      },
+      {
+        "dataFeriado": "15 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Sagrado Coração de Jesus"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Uniflor",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Uraí",
+    "feriados": [
+      {
+        "dataFeriado": "05 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Uraí"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Wenceslau Braz",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Wenceslau Braz"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Ventania",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Vera Cruz do Oeste",
+    "feriados": [
+      {
+        "dataFeriado": "24 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Verê",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Verê"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Alto Paraíso",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora de Fátima"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Doutor Ulysses",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Virmond",
+    "feriados": [
+      {
+        "dataFeriado": "17 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Virmond"
+      },
+      {
+        "dataFeriado": "26 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Vitorino",
+    "feriados": [
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Vitorino"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PR",
+    "nomeCidade": "Xambrê",
+    "feriados": [
+      {
+        "dataFeriado": "16 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  }
+]
