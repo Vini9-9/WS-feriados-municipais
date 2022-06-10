@@ -1,7 +1,10 @@
 # Web scraping para coletar feriados municipais
 
-* Sites de referência: https://www.feriados.com.br/ e https://calendario.online/;
 * Tecnologia utilizada: NodeJS com o módulo puppeteer;
+* Sites de referência: 
+- https://calendario.online/ para WS;
+- https://www.feriados.com.br/ para validação;
+
 
 ## Tasks 
 
@@ -10,12 +13,7 @@
 - [X] Listar todos os feriados municipais por cidade;
 - [X] Listar todos os feriados municipais por estado;
 - [X] Atualizar arquivo dos feriados por estado com as cidades restantes (não processadas);
-- [ ] Listar todos os feriados municipais do Brasil;
-
-Estados com feriados listados: 
-* AC, AL, AM, BA, CE, DF, GO, MA, MG, MT, PE, PI, PR, RJ, RO, RR, RS, SC, SE, SP;
-
-Epa! Vimos que você copiou o texto. Sem problemas, desde que cite o link: https://www.migalhas.com.br/coluna/gramatigalhas/127056/siglas-dos-estados-brasileiros
+- [X] Listar todos os feriados municipais do Brasil;
 
 # Pré requisitos
 

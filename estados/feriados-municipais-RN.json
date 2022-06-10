@@ -1,0 +1,1617 @@
+[
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Acari",
+    "feriados": [
+      {
+        "dataFeriado": "11 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Acari"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Açu",
+    "feriados": [
+      {
+        "dataFeriado": "07 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Irmã Lindalva - Ponto facultativo"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "16 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Açu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Afonso Bezerra",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora das Graças"
+      },
+      {
+        "dataFeriado": "27 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Afonso Bezerra"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Água Nova",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Alexandria",
+    "feriados": [
+      {
+        "dataFeriado": "28 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Morte do Cel. Manoel Souza"
+      },
+      {
+        "dataFeriado": "07 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Alexandria"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Almino Afonso",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Alto do Rodrigues",
+    "feriados": [
+      {
+        "dataFeriado": "25 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Alto do Rodrigues"
+      },
+      {
+        "dataFeriado": "07 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Angicos",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      },
+      {
+        "dataFeriado": "24 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Angicos"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Antônio Martins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Apodi",
+    "feriados": [
+      {
+        "dataFeriado": "23 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Apodi"
+      },
+      {
+        "dataFeriado": "02 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Morte de Francisco Pinto"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Areia Branca",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Navegantes"
+      },
+      {
+        "dataFeriado": "22 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Areia Branca"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Arês",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Campo Grande",
+    "feriados": [
+      {
+        "dataFeriado": "05 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação Política"
+      },
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de Sant'ana"
+      },
+      {
+        "dataFeriado": "05 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Bandeira do Município"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Baía Formosa",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Baraúna",
+    "feriados": [
+      {
+        "dataFeriado": "27 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora das Graças"
+      },
+      {
+        "dataFeriado": "15 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Baraúna"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Barcelona",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Bento Fernandes",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Bodó",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Bom Jesus",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Brejinho",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Caiçara do Norte",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Caiçara do Rio do Vento",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Caicó",
+    "feriados": [
+      {
+        "dataFeriado": "16 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Caicó"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Campo Redondo",
+    "feriados": [
+      {
+        "dataFeriado": "26 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Campo Redondo"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "22 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Canguaretama",
+    "feriados": [
+      {
+        "dataFeriado": "06 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Reis"
+      },
+      {
+        "dataFeriado": "16 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Canguaretama"
+      },
+      {
+        "dataFeriado": "16 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Caraúbas",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "05 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Caraúbas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Carnaúba dos Dantas",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Carnaubais",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Ceará-Mirim",
+    "feriados": [
+      {
+        "dataFeriado": "30 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ceará-Mirim"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Cerro Corá",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Coronel Ezequiel",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Coronel João Pessoa",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Cruzeta",
+    "feriados": [
+      {
+        "dataFeriado": "25 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Cruzeta"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Currais Novos",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Currais Novos"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Doutor Severiano",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Parnamirim",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora de Fátima"
+      },
+      {
+        "dataFeriado": "17 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Parnamirim"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Encanto",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Equador",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Espírito Santo",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Extremoz",
+    "feriados": [
+      {
+        "dataFeriado": "04 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Extremoz"
+      },
+      {
+        "dataFeriado": "29 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Miguel"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Felipe Guerra",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Fernando Pedroza",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Florânia",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Florânia"
+      },
+      {
+        "dataFeriado": "27 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Francisco Dantas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Frutuoso Gomes",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Galinhos",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Goianinha",
+    "feriados": [
+      {
+        "dataFeriado": "09 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Goianinha"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Governador Dix-Sept Rosado",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "04 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Governador Dix-Sept Rosado"
+      },
+      {
+        "dataFeriado": "12 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Homenatem Governador Dix-Sept Rosado"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Grossos",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Guamaré",
+    "feriados": [
+      {
+        "dataFeriado": "20 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Povoação de Guamaré"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Ielmo Marinho",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Ipanguaçu",
+    "feriados": [
+      {
+        "dataFeriado": "11 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "23 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ipanguaçu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Ipueira",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Itajá",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Itaú",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Jaçanã",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Jandaíra",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Janduís",
+    "feriados": [
+      {
+        "dataFeriado": "12 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Janduís"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Januário Cicco",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Japi",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Jardim de Angicos",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Jardim de Piranhas",
+    "feriados": [
+      {
+        "dataFeriado": "25 de abril de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "23 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jardim de Piranhas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Jardim do Seridó",
+    "feriados": [
+      {
+        "dataFeriado": "01 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jardim do Seridó"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "João Câmara",
+    "feriados": [
+      {
+        "dataFeriado": "29 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de João Câmara"
+      },
+      {
+        "dataFeriado": "12 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Falecimento de João Câmara"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "João Dias",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "José da Penha",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Jucurutu",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "11 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jucurutu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Jundiá",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Lagoa d'Anta",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Lagoa de Pedras",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Lagoa de Velhos",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Lagoa Nova",
+    "feriados": [
+      {
+        "dataFeriado": "02 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Lagoa Nova"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Lagoa Salgada",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Lajes",
+    "feriados": [
+      {
+        "dataFeriado": "03 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "03 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Lajes Pintadas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Lucrécia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Luís Gomes",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Macaíba",
+    "feriados": [
+      {
+        "dataFeriado": "27 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Macaíba"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Macau",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "09 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Major Sales",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Marcelino Vieira",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Martins",
+    "feriados": [
+      {
+        "dataFeriado": "06 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santos Reis"
+      },
+      {
+        "dataFeriado": "10 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Martins"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Maxaranguape",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Messias Targino",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Montanhas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Monte Alegre",
+    "feriados": [
+      {
+        "dataFeriado": "31 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Monte das Gameleiras",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Mossoró",
+    "feriados": [
+      {
+        "dataFeriado": "30 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Libertação dos Escravos"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Luzia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Natal",
+    "feriados": [
+      {
+        "dataFeriado": "06 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Reis Magos"
+      },
+      {
+        "dataFeriado": "21 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Apresentação"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Nísia Floresta",
+    "feriados": [
+      {
+        "dataFeriado": "18 de fevereiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nísia Floresta"
+      },
+      {
+        "dataFeriado": "18 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Nova Cruz",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "03 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Cruz"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Olho d'Água do Borges",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Ouro Branco",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Paraná",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Paraú",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Parazinho",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Parelhas",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Rio do Fogo",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Passa e Fica",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Passagem",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Patu",
+    "feriados": [
+      {
+        "dataFeriado": "15 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Patu"
+      },
+      {
+        "dataFeriado": "21 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Santa Maria",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Pau dos Ferros",
+    "feriados": [
+      {
+        "dataFeriado": "04 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pau dos Ferros"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Pedra Grande",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Pedra Preta",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Pedro Avelino",
+    "feriados": [
+      {
+        "dataFeriado": "05 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "23 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pedro Avelino"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Pedro Velho",
+    "feriados": [
+      {
+        "dataFeriado": "10 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pedro Velho"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Pendências",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Pilões",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Poço Branco",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Portalegre",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Porto do Mangue",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Serra Caiada",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Pureza",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Rafael Fernandes",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Rafael Godeiro",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Riacho da Cruz",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Riacho de Santana",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Riachuelo",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Rodolfo Fernandes",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Tibau",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Ruy Barbosa",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Santa Cruz",
+    "feriados": [
+      {
+        "dataFeriado": "22 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "30 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Cruz"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Santana do Matos",
+    "feriados": [
+      {
+        "dataFeriado": "10 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Santana do Seridó",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Santo Antônio",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "05 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santo Antônio"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "São Bento do Norte",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "São Bento do Trairí",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "São Fernando",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "São Francisco do Oeste",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "São Gonçalo do Amarante",
+    "feriados": [
+      {
+        "dataFeriado": "28 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Gonçalo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "São João do Sabugi",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "São José de Mipibu",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "16 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "São José do Campestre",
+    "feriados": [
+      {
+        "dataFeriado": "06 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Reis"
+      },
+      {
+        "dataFeriado": "19 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "23 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São José do Campestre"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "São José do Seridó",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "São Miguel",
+    "feriados": [
+      {
+        "dataFeriado": "29 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "11 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Miguel"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "São Miguel do Gostoso",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "São Paulo do Potengi",
+    "feriados": [
+      {
+        "dataFeriado": "25 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Paulo do Potengi"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "São Pedro",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "São Rafael",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "São Tomé",
+    "feriados": [
+      {
+        "dataFeriado": "29 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Tomé"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "São Vicente",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Senador Elói de Souza",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Senador Georgino Avelino",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Serra de São Bento",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Serra do Mel",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Serra do Mel"
+      },
+      {
+        "dataFeriado": "14 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Serra Negra do Norte",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Serrinha",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Serrinha dos Pintos",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Severiano Melo",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Sítio Novo",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Taboleiro Grande",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Taipu",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Tangará",
+    "feriados": [
+      {
+        "dataFeriado": "01 de outubro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tangará"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Tenente Ananias",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Tenente Laurentino Cruz",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Tibau do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Timbaúba dos Batistas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Touros",
+    "feriados": [
+      {
+        "dataFeriado": "02 de janeiro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de março de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "05 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Triunfo Potiguar",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Umarizal",
+    "feriados": [
+      {
+        "dataFeriado": "27 de novembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Umarizal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Upanema",
+    "feriados": [
+      {
+        "dataFeriado": "16 de setembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Upanema"
+      },
+      {
+        "dataFeriado": "03 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Bandeira Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2022",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Várzea",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Venha-Ver",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Vera Cruz",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Viçosa",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RN",
+    "nomeCidade": "Vila Flor",
+    "feriados": []
+  }
+]
