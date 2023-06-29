@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "update": "node dist/updateYearHoliday.js"
+    "build": "tsc --watch",
+    "update": "node dist/controller/updateYearHoliday.js",
+    "list-state": "node dist/controller/listMunicipalHolidaysByState.js"
   },
   "author": "Vinicius Pessoa da Silva",
   "license": "ISC",

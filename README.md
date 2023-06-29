@@ -55,7 +55,7 @@ Consegui criar o arquivo f-m-Taubate-SP.json //localizado na pasta 'cidades'
 
 * Para listar os feriados municipais de todas as cidades de um Estado
 ```
-node listMunicipalHolidaysByState.js 
+npm run list-state 
 ```
 Deve-se informar os dados solicitados:
 ```

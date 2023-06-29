@@ -54,7 +54,7 @@ function execute(siglaEstado: string) {
         console.log(`Atualizado feriados de "${yearFolder}" para "${currentYear}"`);
     } else {
         console.log(`O arquivo JSON  "${filename}" não foi encontrado no diretorio especificado.`);
-        console.log("Listando os feriados municicipais ...")
+        console.log(`Operação listar os feriados municipais do "${siglaEstado}" ...`)
         // getAllMunHolidaysByState(siglaEstado)
     }
     
@@ -69,4 +69,4 @@ console.log("============================================================");
 const promptSync = prompt();
 const siglaEstadoInformado: string = promptSync('Qual a sigla do estado? R.:');
 console.log(`LOG: Sigla informada: ${siglaEstadoInformado}`);
-execute(siglaEstadoInformado)
+execute(siglaEstadoInformado.toUpperCase())

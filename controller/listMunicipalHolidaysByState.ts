@@ -2,6 +2,9 @@ import puppeteer from 'puppeteer';
 import fs from 'fs';
 import prompt from 'prompt-sync';
 import moment from 'moment';
+import { Holiday } from '../model/Holiday';
+import { State } from '../model/State';
+import { MunicipalHoliday } from '../model/MunicipalHoliday';
 
 const currentYear: number = moment().get('year');
 
@@ -18,11 +21,13 @@ function formatURL(nomeCidade: string, siglaEstado: string) {
 }
 
 function formatarNomeCidade(nomeCidade: string) {
-    var cidadeSemAcento: string = removeAcento(nomeCidade)
-    var cidadeSemEspaco: any = cidadeSemAcento.replaceAll(' ','-');
-    var cidadeFormatada: string = cidadeSemEspaco.replace(/\'/g, "");
-    return cidadeFormatada
-}
+    const cidadeSemAcento: string = removeAcento(nomeCidade);
+    const cidadeSemEspaco: string = cidadeSemAcento.replace(/ /g, '-');
+    const cidadeFormatada: string = cidadeSemEspaco.replace(/'/g, '');
+    return cidadeFormatada;
+  }
+  
+
 
 function removeAcento (text: string)
 {       
@@ -36,55 +41,60 @@ function removeAcento (text: string)
     return text;                 
 }
 
-function criarJSON(dados: string, nomeArquivo: string) {
-    fs.writeFile('./estados/' + nomeArquivo, JSON.stringify(dados, null, 2), err => {
+function criarJSON(dados: MunicipalHoliday[], nomeArquivo: string) {
+    console.log("currentYear", currentYear)
+    fs.writeFile(`./estados/${currentYear}/${nomeArquivo}`, JSON.stringify(dados, null, 2), err => {
         if(err) throw new Error('Alguma coisa deu errado')
         console.log(`Consegui criar o arquivo ${nomeArquivo}`)
     })
 }
 
-async function webScraping(nomeCidade: string, siglaEstado: string){
-    const url: string = formatURL(nomeCidade, siglaEstado)
+async function webScraping(nomeCidade: string, siglaEstado: string) {
+    const url: string = formatURL(nomeCidade, siglaEstado);
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
     await page.goto(url);
-    var feriadosList = await page.evaluate(() => {
-        const nodeList = document.querySelectorAll('#Feriados table tbody:nth-child(3) tr');
-        const arrList = [...nodeList];
-        const list: any = [];
-        arrList.forEach( el => {
-            dados = [...el.childNodes];
-            if(dados[1] != undefined && dados[1].childElementCount &&
-                dados[1].children[0].outerText == 'Municipal'){
-
-                dataFeriado = dados[0].outerText;
-                tipoFeriado = 'Municipal';
-                nomeFeriado = dados[3].outerText;
-    
-                list.push({
-                    dataFeriado,
-                    tipoFeriado,
-                    nomeFeriado
-                })
-            }
-        })
-
-        return list
+    const feriadosList = await page.evaluate(() => {
+      const nodeList = document.querySelectorAll('#Feriados table tbody:nth-child(3) tr');
+      const arrList = Array.from(nodeList);
+      const list: Holiday[] = [];
+      arrList.forEach(el => {
+        const dados = Array.from(el.childNodes);
+        if (
+          dados[1] != undefined &&
+          dados[1] instanceof Element && // Check if it's an Element node
+          dados[1].childElementCount &&
+          dados[1].children[0].textContent === 'Municipal'
+        ) {
+          const dataFeriado: string = dados[0].textContent || "";
+          const tipoFeriado: string = 'Municipal';
+          const nomeFeriado: string  = dados[3].textContent || "";
+  
+          list.push({
+            dataFeriado,
+            tipoFeriado,
+            nomeFeriado,
+          });
+        }
+      });
+  
+      return list;
     });
-
+  
     await browser.close();
-    const feriadosObj = {
-        siglaEstado,
-        nomeCidade,
-        "feriados": feriadosList
-    } 
-    return feriadosObj
-}
+    const feriadosObj: MunicipalHoliday = {
+      siglaEstado,
+      nomeCidade,
+      feriados: feriadosList,
+    };
+    return feriadosObj;
+  }
+  
 
-async function getFeriadosPorEstado(dadosEstado) {
-    listFeriadosEstado = []
-    sigla = dadosEstado.sigla
-    cidades = dadosEstado.cidades
+async function getFeriadosPorEstado(dadosEstado: State) {
+    var listFeriadosEstado: MunicipalHoliday[] = []
+    const sigla: string = dadosEstado.sigla
+    const cidades: string[] = dadosEstado.cidades
     for (const cidade of cidades) {
         console.log('** GERANDO FERIADOS DA CIDADE: ', cidade + '-' + sigla)
         try {
@@ -100,27 +110,28 @@ async function getFeriadosPorEstado(dadosEstado) {
     return listFeriadosEstado;
 }
 
-function filtrarDadosEstado(dados, siglaEstado) {
+function filtrarDadosEstado(dados: State[], siglaEstado: string) {
     return dados.filter((el) => {
         return el.sigla == siglaEstado; 
     })
 }
 
-async function listMunicipalHolidaysByState(siglaInformada){
+async function listMunicipalHolidaysByState(siglaInformada: string){
     let siglaEstado = siglaInformada.toUpperCase();
     try {
         const path = `./estados/${currentYear}/feriados-municipais-${siglaEstado}.json`;
 
-        cidadesJSON = fs.readFileSync('./cidades.json', { encoding: 'utf8' });
-        const dados = JSON.parse(cidadesJSON);
-        var dadosEstado = filtrarDadosEstado(dados, siglaEstado)[0];
+        var cidadesJSON: string = fs.readFileSync('./cidades.json', { encoding: 'utf8' });
+        const dados: State[] = JSON.parse(cidadesJSON);
+        var dadosEstado: State = filtrarDadosEstado(dados, siglaEstado)[0];
 
         if (fs.existsSync(path)) {  
             console.log("Localizei um JSON referente a esse estado, vou atualizá-lo")
-            cidadesEstadoJSON = fs.readFileSync(path, { encoding: 'utf8' });
-            const cidadesRealizadas = JSON.parse(cidadesEstadoJSON);
+            var cidadesEstadoJSON: string = fs.readFileSync(path, { encoding: 'utf8' });
+            const cidadesRealizadas: MunicipalHoliday[] = JSON.parse(cidadesEstadoJSON);
             const qtdCidadesRealizadas = cidadesRealizadas.length;
             var cidadesEstado = dadosEstado.cidades;
+            var feriadosMunicipais: MunicipalHoliday[] = [];
 
             if(qtdCidadesRealizadas == cidadesEstado.length){
                 console.log("O arquivo JSON já tem todas as cidades.")
@@ -135,7 +146,7 @@ async function listMunicipalHolidaysByState(siglaInformada){
                 sigla: siglaEstado, 
                 cidades: cidadesEstadoRestantes
             }
-            novosferiadosMunicipais = await getFeriadosPorEstado(dadosEstado)
+            var novosferiadosMunicipais: MunicipalHoliday[] = await getFeriadosPorEstado(dadosEstado)
             feriadosMunicipais = cidadesRealizadas.concat(novosferiadosMunicipais);
 
             
@@ -161,4 +172,4 @@ console.log("============================================================");
 const promptSync = prompt();
 const siglaEstadoInformado: string = promptSync('Qual a sigla do estado? R.: ');
 console.log(`LOG: Sigla informada: ${siglaEstadoInformado}`);
-listMunicipalHolidaysByState(siglaEstadoInformado)
+listMunicipalHolidaysByState(siglaEstadoInformado.toUpperCase())
