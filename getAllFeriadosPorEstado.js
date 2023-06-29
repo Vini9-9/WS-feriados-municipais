@@ -120,7 +120,7 @@ async function execute(siglaInformada){
             var cidadesEstado = dadosEstado.cidades;
 
             if(qtdCidadesRealizadas == cidadesEstado.length){
-                console.log("O arquivo JSON já está atualizado.")
+                console.log("O arquivo JSON já tem todas as cidades.")
                 return
             } 
 
