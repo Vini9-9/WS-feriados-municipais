@@ -1,0 +1,198 @@
+[
+  {
+    "siglaEstado": "AP",
+    "nomeCidade": "Serra do Navio",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AP",
+    "nomeCidade": "Amapá",
+    "feriados": [
+      {
+        "dataFeriado": "15 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AP",
+    "nomeCidade": "Pedra Branca do Amapari",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AP",
+    "nomeCidade": "Calçoene",
+    "feriados": [
+      {
+        "dataFeriado": "13 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AP",
+    "nomeCidade": "Cutias",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AP",
+    "nomeCidade": "Ferreira Gomes",
+    "feriados": [
+      {
+        "dataFeriado": "13 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AP",
+    "nomeCidade": "Itaubal",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AP",
+    "nomeCidade": "Laranjal do Jari",
+    "feriados": [
+      {
+        "dataFeriado": "08 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "13 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "17 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Laranjal do Jari"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AP",
+    "nomeCidade": "Macapá",
+    "feriados": [
+      {
+        "dataFeriado": "04 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Macapá"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AP",
+    "nomeCidade": "Mazagão",
+    "feriados": [
+      {
+        "dataFeriado": "23 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mazagão"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AP",
+    "nomeCidade": "Oiapoque",
+    "feriados": [
+      {
+        "dataFeriado": "23 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Oiapoque"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora das Graças"
+      },
+      {
+        "dataFeriado": "01 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Laudo Suíço"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AP",
+    "nomeCidade": "Porto Grande",
+    "feriados": [
+      {
+        "dataFeriado": "08 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AP",
+    "nomeCidade": "Pracuúba",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AP",
+    "nomeCidade": "Santana",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "17 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santana"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AP",
+    "nomeCidade": "Tartarugalzinho",
+    "feriados": [
+      {
+        "dataFeriado": "13 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AP",
+    "nomeCidade": "Vitória do Jari",
+    "feriados": []
+  }
+]
