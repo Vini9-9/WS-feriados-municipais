@@ -1,4 +1,5 @@
 const fs = require("fs");
+const moment = require("moment/moment");
 const path = require('path');
 const prompt = require('prompt-sync')();
 
@@ -23,10 +24,32 @@ function searchForFile(directory, fileName) {
   return null;
 }
 
+function replaceTextInJSONFile(filePath, searchText, replacementText) {
+    const fileData = fs.readFileSync(filePath, 'utf8');
+    const updatedData = fileData.replace(new RegExp(searchText, 'g'), replacementText);
+    fs.writeFileSync(filePath, updatedData, 'utf8');
+}
+
+function getYearFolder (dir, filePath) {
+    const pureDir = dir.replace(/[./]/g, '');
+    return filePath.slice(pureDir.length + 1, pureDir.length + 5);
+}
+
 function execute(siglaEstado) {
-    const filePath = searchForFile("./estados/", `feriados-municipais-${siglaEstado}.json`)
-    console.log(filePath)
-    cidadesEstadoJSON = fs.readFileSync(filepath, { encoding: 'utf8' });
+    const dir = "./estados/";
+    const filename = `feriados-municipais-${siglaEstado}.json`;
+    const filePath = searchForFile(dir, filename)
+    const yearFolder = getYearFolder(dir, filePath);
+    const currentYear = moment().get('year');
+
+    if(filePath){
+        replaceTextInJSONFile(filePath, yearFolder, currentYear);
+        console.log(`Atualizado feriados de "${yearFolder}" para "${currentYear}"`);
+    } else {
+        // criarArquivo current Year
+        console.log("Criando novo arquivo...")
+    }
+    
 }
 
 console.log("============================================================");
