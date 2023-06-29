@@ -6,7 +6,7 @@ async function getFeriadosPorCidade(nomeCidade, siglaEstado){
     return await webScraping(nomeCidade, siglaEstado)
 }
 
-function formatarURL(nomeCidade, siglaEstado, ano) {
+function formatarURL(nomeCidade, siglaEstado) {
     const pageDefault = "https://calendario.online/feriados-";
     nomeCidadeFormatado = formatarNomeCidade(nomeCidade);
     const response = `${pageDefault + nomeCidadeFormatado}-${siglaEstado}.html`;
@@ -39,7 +39,7 @@ function criarJSON(dados, nomeArquivo) {
 }
 
 async function webScraping(nomeCidade, siglaEstado){
-    url = formatarURL(nomeCidade, siglaEstado, 2022)
+    url = formatarURL(nomeCidade, siglaEstado)
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
     await page.goto(url);
