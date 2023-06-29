@@ -1,6 +1,8 @@
 const puppeteer = require('puppeteer');
 const fs = require("fs");
 const prompt = require('prompt-sync')();
+const moment = require("moment/moment");
+const currentYear = moment().get('year');
 
 async function getFeriadosPorCidade(nomeCidade, siglaEstado){
     return await webScraping(nomeCidade, siglaEstado)
@@ -103,10 +105,10 @@ function filtrarDadosEstado(dados, siglaEstado) {
     })
 }
 
-async function execute(siglaInformada){
+async function listMunicipalHolidaysByState(siglaInformada){
     let siglaEstado = siglaInformada.toUpperCase();
     try {
-        const path = `./estados/feriados-municipais-${siglaEstado}.json`;
+        const path = `./estados/${currentYear}/feriados-municipais-${siglaEstado}.json`;
 
         cidadesJSON = fs.readFileSync('./cidades.json', { encoding: 'utf8' });
         const dados = JSON.parse(cidadesJSON);
@@ -121,6 +123,7 @@ async function execute(siglaInformada){
 
             if(qtdCidadesRealizadas == cidadesEstado.length){
                 console.log("O arquivo JSON já tem todas as cidades.")
+                // atualizarData
                 return
             } 
 
@@ -151,7 +154,9 @@ async function execute(siglaInformada){
 console.log("============================================================");
 console.log("| 💻 BEM VINDO AO WS DE FERIADOS MUNICIPAIS POR ESTADO💻 |");
 console.log("============================================================");
+console.log("|   Operação listar os feriados municipais de um estado   |");
+console.log("============================================================");
 
-const siglaEstadoInformado = prompt('Qual a sigla do estado? R.:');
+const siglaEstadoInformado = prompt('Qual a sigla do estado? R.: ');
 console.log(`LOG: Sigla informada: ${siglaEstadoInformado}`);
-execute(siglaEstadoInformado)
+listMunicipalHolidaysByState(siglaEstadoInformado)

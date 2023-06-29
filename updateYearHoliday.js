@@ -52,16 +52,16 @@ function execute(siglaEstado) {
         console.log(`Atualizado feriados de "${yearFolder}" para "${currentYear}"`);
     } else {
         console.log(`O arquivo JSON  "${filename}" não foi encontrado no diretorio especificado.`);
-        // criarArquivo current Year
-        console.log("Criando novo arquivo...")
+        console.log("Listando os feriados municicipais ...")
+        // getAllMunHolidaysByState(siglaEstado)
     }
     
 }
 
 console.log("============================================================");
-console.log("| 💻 BEM VINDO AO WS DE FERIADOS MUNICIPAIS POR ESTADO💻  |");
+console.log(" 💻 BEM VINDO AO WS DE FERIADOS MUNICIPAIS POR ESTADO 💻   ");
 console.log("============================================================");
-console.log("|         Operação Atualizar o ano dos feriados            |");
+console.log("         Operação Atualizar o ano dos feriados              ");
 console.log("============================================================");
 
 const siglaEstadoInformado = prompt('Qual a sigla do estado? R.: ');
