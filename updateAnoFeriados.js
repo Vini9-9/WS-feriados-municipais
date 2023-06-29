@@ -9,7 +9,6 @@ function searchForFile(directory, fileName) {
   for (const file of files) {
     const filePath = path.join(directory, file);
     const stats = fs.statSync(filePath);
-
     if (stats.isDirectory()) {
       const foundFilePath = searchForFile(filePath, fileName);
       if (foundFilePath) {
@@ -20,7 +19,6 @@ function searchForFile(directory, fileName) {
     }
   }
 
-  console.log(`The JSON file "${fileName}" was not found in any child folder of the specified directory.`);
   return null;
 }
 
@@ -44,15 +42,16 @@ function execute(siglaEstado) {
     const dir = "./estados/";
     const filename = `feriados-municipais-${siglaEstado}.json`;
     const filePath = searchForFile(dir, filename)
-    const yearFolder = getYearFolder(dir, filePath);
-    const currentYear = moment().get('year');
 
     if(filePath){
+        const yearFolder = getYearFolder(dir, filePath);
+        const currentYear = moment().get('year');
         const updatedData = replaceTextInJSONFile(filePath, yearFolder, currentYear);
         const dirToSave = path.join(dir, `${currentYear}`, filename);
         saveOnCorrectFolder(dirToSave, updatedData)
         console.log(`Atualizado feriados de "${yearFolder}" para "${currentYear}"`);
     } else {
+        console.log(`O arquivo JSON  "${filename}" não foi encontrado no diretorio especificado.`);
         // criarArquivo current Year
         console.log("Criando novo arquivo...")
     }
