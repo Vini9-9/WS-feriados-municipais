@@ -1,0 +1,3206 @@
+[
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Abadia de Goiás",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Abadiânia",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Abadiânia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Acreúna",
+    "feriados": [
+      {
+        "dataFeriado": "14 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Acreúna"
+      },
+      {
+        "dataFeriado": "24 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Adelândia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Água Fria de Goiás",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Água Limpa",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Águas Lindas de Goiás",
+    "feriados": [
+      {
+        "dataFeriado": "30 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Alexânia",
+    "feriados": [
+      {
+        "dataFeriado": "15 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Aloândia",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "17 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Aloândia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Alto Horizonte",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Alto Paraíso de Goiás",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Abadia"
+      },
+      {
+        "dataFeriado": "27 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora das Graças"
+      },
+      {
+        "dataFeriado": "15 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Alto Paraíso"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Alvorada do Norte",
+    "feriados": [
+      {
+        "dataFeriado": "08 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "23 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Alvorada do Norte"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Amaralina",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Americano do Brasil",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Amorinópolis",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Anápolis",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Sant'ana"
+      },
+      {
+        "dataFeriado": "31 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Anápolis"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Anhanguera",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Anicuns",
+    "feriados": [
+      {
+        "dataFeriado": "07 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Anicuns"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Aparecida de Goiânia",
+    "feriados": [
+      {
+        "dataFeriado": "11 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Aparecida de Goiânia"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emacipação de Aparecida de Goiânia"
+      },
+      {
+        "dataFeriado": "20 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Consciência Negra"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Aparecida do Rio Doce",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Aporé",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Aporé"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Araçu",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Aragarças",
+    "feriados": [
+      {
+        "dataFeriado": "06 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "02 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Aragarças"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Aragoiânia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Araguapaz",
+    "feriados": [
+      {
+        "dataFeriado": "14 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Araguapaz"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Arenópolis",
+    "feriados": [
+      {
+        "dataFeriado": "14 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Arenópolis"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Aruanã",
+    "feriados": [
+      {
+        "dataFeriado": "07 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "18 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Aruanã"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Aurilândia",
+    "feriados": [
+      {
+        "dataFeriado": "17 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa da Guariroba"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Avelinópolis",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Baliza",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Barro Alto",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Barro Alto"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Bela Vista de Goiás",
+    "feriados": [
+      {
+        "dataFeriado": "05 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bela Vista de Goiás"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Bom Jardim de Goiás",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "18 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bom Jardim de Goiás"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Bom Jesus de Goiás",
+    "feriados": [
+      {
+        "dataFeriado": "06 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Bonfinópolis",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Bonópolis",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Brazabrantes",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Britânia",
+    "feriados": [
+      {
+        "dataFeriado": "25 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Britânia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Buriti Alegre",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Buriti Alegre"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Buriti de Goiás",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Buritinópolis",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Cabeceiras",
+    "feriados": [
+      {
+        "dataFeriado": "23 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Rosa de Lima"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Cabeceiras"
+      },
+      {
+        "dataFeriado": "30 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Evangélico"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Cachoeira Alta",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cachoeira Alta"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Cachoeira de Goiás",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Cachoeira Dourada",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cachoeira Dourada"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Caçu",
+    "feriados": [
+      {
+        "dataFeriado": "16 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Caçu"
+      },
+      {
+        "dataFeriado": "20 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Caiapônia",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "29 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Caiapônia"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora de Montserrat"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Caldas Novas",
+    "feriados": [
+      {
+        "dataFeriado": "15 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "21 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Caldas Novas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Caldazinha",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Caldazinha"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Campestre de Goiás",
+    "feriados": [
+      {
+        "dataFeriado": "31 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Campestre de Goiás"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Campinaçu",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Campinorte",
+    "feriados": [
+      {
+        "dataFeriado": "08 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Campinorte"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Campo Alegre de Goiás",
+    "feriados": [
+      {
+        "dataFeriado": "22 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Campo Alegre de Goiás"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Campo Limpo de Goiás",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Campos Belos",
+    "feriados": [
+      {
+        "dataFeriado": "01 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Campos Belos"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Campos Verdes",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Carmo do Rio Verde",
+    "feriados": [
+      {
+        "dataFeriado": "11 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Carmo do Rio Verde"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Castelândia",
+    "feriados": [
+      {
+        "dataFeriado": "16 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Castelândia"
+      },
+      {
+        "dataFeriado": "16 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Corpus Christi, Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Catalão",
+    "feriados": [
+      {
+        "dataFeriado": "20 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Catalão"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Caturaí",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Cavalcante",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "16 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Ceres",
+    "feriados": [
+      {
+        "dataFeriado": "17 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Patrício"
+      },
+      {
+        "dataFeriado": "04 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ceres"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Cezarina",
+    "feriados": [
+      {
+        "dataFeriado": "14 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cezarina"
+      },
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Chapadão do Céu",
+    "feriados": [
+      {
+        "dataFeriado": "21 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Chapadão do Céu"
+      },
+      {
+        "dataFeriado": "22 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Consciência Negra"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Cidade Ocidental",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "09 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cidade Ocidental"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Cocalzinho de Goiás",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "03 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cocalzinho de Goiás"
+      },
+      {
+        "dataFeriado": "15 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Colinas do Sul",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Córrego do Ouro",
+    "feriados": [
+      {
+        "dataFeriado": "24 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Corumbá de Goiás",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "09 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Corumbá de Goiás"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Penha de França"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Corumbaíba",
+    "feriados": [
+      {
+        "dataFeriado": "28 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Corumbaíba"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Cristalina",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Cristianópolis",
+    "feriados": [
+      {
+        "dataFeriado": "23 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cristianópolis"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Crixás",
+    "feriados": [
+      {
+        "dataFeriado": "30 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Crixás"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Cromínia",
+    "feriados": [
+      {
+        "dataFeriado": "12 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cromínia"
+      },
+      {
+        "dataFeriado": "04 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Cumari",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cumari"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Damianópolis",
+    "feriados": [
+      {
+        "dataFeriado": "30 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Damianópolis"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Damolândia",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Damolândia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Davinópolis",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Diorama",
+    "feriados": [
+      {
+        "dataFeriado": "17 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Diorama"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Doverlândia",
+    "feriados": [
+      {
+        "dataFeriado": "14 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Doverlândia"
+      },
+      {
+        "dataFeriado": "29 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Edealina",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Edéia",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "08 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Edéia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Estrela do Norte",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Faina",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Fazenda Nova",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Fazenda Nova"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Firminópolis",
+    "feriados": [
+      {
+        "dataFeriado": "08 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "07 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Firminópolis"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Flores de Goiás",
+    "feriados": [
+      {
+        "dataFeriado": "30 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Bíblia"
+      },
+      {
+        "dataFeriado": "07 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Rosário"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Flores de Goiás"
+      },
+      {
+        "dataFeriado": "20 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Consciência Negra"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Formosa",
+    "feriados": [
+      {
+        "dataFeriado": "01 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Formosa"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Formoso",
+    "feriados": [
+      {
+        "dataFeriado": "04 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Formoso"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Gameleira de Goiás",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Divinópolis de Goiás",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "10 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Divinópolis de Goiás"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Goianápolis",
+    "feriados": [
+      {
+        "dataFeriado": "23 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Goianápolis"
+      },
+      {
+        "dataFeriado": "24 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Goiandira",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "06 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Goiandira"
+      },
+      {
+        "dataFeriado": "30 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Goianésia",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Goianésia"
+      },
+      {
+        "dataFeriado": "14 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Goiânia",
+    "feriados": [
+      {
+        "dataFeriado": "24 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Auxiliadora"
+      },
+      {
+        "dataFeriado": "24 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Goiânia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Goianira",
+    "feriados": [
+      {
+        "dataFeriado": "04 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Goianira"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Goiás",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Lançamento da pedra fundamental de Goiânia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Goiatuba",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "21 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Goiatuba"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Gouvelândia",
+    "feriados": [
+      {
+        "dataFeriado": "01 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Gouvelândia"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Guapó",
+    "feriados": [
+      {
+        "dataFeriado": "08 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Guapó"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Guaraíta",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Guarani de Goiás",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Guarinos",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Heitoraí",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Hidrolândia",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      },
+      {
+        "dataFeriado": "05 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Hidrolândia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Hidrolina",
+    "feriados": [
+      {
+        "dataFeriado": "24 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Hidrolina"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Iaciara",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Iaciara"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Inaciolândia",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Inaciolândia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Indiara",
+    "feriados": [
+      {
+        "dataFeriado": "01 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Indiara"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Inhumas",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Inhumas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Ipameri",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Abadia"
+      },
+      {
+        "dataFeriado": "12 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ipameri"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Ipiranga de Goiás",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Iporá",
+    "feriados": [
+      {
+        "dataFeriado": "24 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "19 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Iporá"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Israelândia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Itaberaí",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Abadia"
+      },
+      {
+        "dataFeriado": "09 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itaberaí"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Itaguari",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Itaguaru",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itaguaru"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Itajá",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itajá"
+      },
+      {
+        "dataFeriado": "20 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Consciência Negra"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Itapaci",
+    "feriados": [
+      {
+        "dataFeriado": "11 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itapaci"
+      },
+      {
+        "dataFeriado": "01 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Itapirapuã",
+    "feriados": [
+      {
+        "dataFeriado": "08 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itapirapuã"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Itapuranga",
+    "feriados": [
+      {
+        "dataFeriado": "06 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itapuranga"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Itarumã",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "21 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itarumã"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Itauçu",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "11 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itauçu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Itumbiara",
+    "feriados": [
+      {
+        "dataFeriado": "22 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Rita de Cássia"
+      },
+      {
+        "dataFeriado": "12 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itumbiara, Dia de Nossa Senhora Aparecida"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Ivolândia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Jandaia",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "05 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jandaia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Jaraguá",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "23 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Jataí",
+    "feriados": [
+      {
+        "dataFeriado": "31 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jataí"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Jaupaci",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Jesúpolis",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Joviânia",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Joviânia"
+      },
+      {
+        "dataFeriado": "30 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Jussara",
+    "feriados": [
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jussara"
+      },
+      {
+        "dataFeriado": "27 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Lagoa Santa",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Leopoldo de Bulhões",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "02 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Leopoldo de Bulhões"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Luziânia",
+    "feriados": [
+      {
+        "dataFeriado": "21 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Evangélico"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Luziânia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Mairipotaba",
+    "feriados": [
+      {
+        "dataFeriado": "13 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Mambaí",
+    "feriados": [
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mambaí"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Mara Rosa",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "02 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mara Rosa"
+      },
+      {
+        "dataFeriado": "30 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Marzagão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Matrinchã",
+    "feriados": [
+      {
+        "dataFeriado": "01 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Maurilândia",
+    "feriados": [
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Maurilândia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Mimoso de Goiás",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Minaçu",
+    "feriados": [
+      {
+        "dataFeriado": "14 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Minaçu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Mineiros",
+    "feriados": [
+      {
+        "dataFeriado": "31 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mineiros"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Moiporá",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Monte Alegre de Goiás",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Montes Claros de Goiás",
+    "feriados": [
+      {
+        "dataFeriado": "23 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Montes Claros de Goiás"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Montividiu",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Montividiu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Montividiu do Norte",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Morrinhos",
+    "feriados": [
+      {
+        "dataFeriado": "16 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Morrinhos"
+      },
+      {
+        "dataFeriado": "29 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Morro Agudo de Goiás",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Mossâmedes",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mossâmedes"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Mozarlândia",
+    "feriados": [
+      {
+        "dataFeriado": "27 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "23 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mozarlândia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Mundo Novo",
+    "feriados": [
+      {
+        "dataFeriado": "10 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mundo Novo"
+      },
+      {
+        "dataFeriado": "22 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Mutunópolis",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Nazário",
+    "feriados": [
+      {
+        "dataFeriado": "25 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nazário"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Nerópolis",
+    "feriados": [
+      {
+        "dataFeriado": "03 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nerópolis"
+      },
+      {
+        "dataFeriado": "05 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Niquelândia",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Niquelândia"
+      },
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Nova América",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Nova Aurora",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Aurora"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Nova Crixás",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Nova Glória",
+    "feriados": [
+      {
+        "dataFeriado": "10 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Glória"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Nova Iguaçu de Goiás",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Nova Roma",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Nova Veneza",
+    "feriados": [
+      {
+        "dataFeriado": "16 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Veneza"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Novo Brasil",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Novo Gama",
+    "feriados": [
+      {
+        "dataFeriado": "15 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Novo Planalto",
+    "feriados": [
+      {
+        "dataFeriado": "01 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Novo Planalto"
+      },
+      {
+        "dataFeriado": "02 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "02 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Orizona",
+    "feriados": [
+      {
+        "dataFeriado": "15 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Orizona"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Ouro Verde de Goiás",
+    "feriados": [
+      {
+        "dataFeriado": "01 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ouro Verde de Goiás"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Ouvidor",
+    "feriados": [
+      {
+        "dataFeriado": "19 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ouvidor"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Padre Bernardo",
+    "feriados": [
+      {
+        "dataFeriado": "09 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Padre Bernardo"
+      },
+      {
+        "dataFeriado": "16 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Palestina de Goiás",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Palmeiras de Goiás",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "06 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Palmeiras de Goiás"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Palmelo",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Palminópolis",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Panamá",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Paranaiguara",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Paraúna",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Paraúna"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Perolândia",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "07 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Perolândia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Petrolina de Goiás",
+    "feriados": [
+      {
+        "dataFeriado": "08 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Petrolina de Goiás"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Pilar de Goiás",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Piracanjuba",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Abadia"
+      },
+      {
+        "dataFeriado": "01 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Todos os Santos"
+      },
+      {
+        "dataFeriado": "22 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Piracanjuba"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Piranhas",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "14 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Piranhas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Pirenópolis",
+    "feriados": [
+      {
+        "dataFeriado": "07 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pirenópolis"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Pires do Rio",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Planaltina",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Planaltina"
+      },
+      {
+        "dataFeriado": "30 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Pontalina",
+    "feriados": [
+      {
+        "dataFeriado": "22 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pontalina"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Porangatu",
+    "feriados": [
+      {
+        "dataFeriado": "25 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Porangatu"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Porteirão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Portelândia",
+    "feriados": [
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Portelândia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Posse",
+    "feriados": [
+      {
+        "dataFeriado": "30 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "19 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Posse"
+      },
+      {
+        "dataFeriado": "26 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora de Sant'ana"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Professor Jamil",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Quirinópolis",
+    "feriados": [
+      {
+        "dataFeriado": "22 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Quirinópolis"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Rialma",
+    "feriados": [
+      {
+        "dataFeriado": "17 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "16 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rialma"
+      },
+      {
+        "dataFeriado": "04 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Rianápolis",
+    "feriados": [
+      {
+        "dataFeriado": "18 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rianápolis"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Rio Quente",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "11 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rio Quente"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Rio Verde",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "05 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rio Verde"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Rubiataba",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Sanclerlândia",
+    "feriados": [
+      {
+        "dataFeriado": "05 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Sanclerlândia"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Santa Bárbara de Goiás",
+    "feriados": [
+      {
+        "dataFeriado": "23 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Bárbara de Goiás"
+      },
+      {
+        "dataFeriado": "04 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Santa Cruz de Goiás",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Santa Fé de Goiás",
+    "feriados": [
+      {
+        "dataFeriado": "01 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Fé de Goiás"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Santa Helena de Goiás",
+    "feriados": [
+      {
+        "dataFeriado": "18 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "18 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Helena de Goiás"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Santa Isabel",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Santa Rita do Araguaia",
+    "feriados": [
+      {
+        "dataFeriado": "20 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Consciência Negra"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Santa Rita do Novo Destino",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Santa Rosa de Goiás",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Rosa de Goiás"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Santa Tereza de Goiás",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Santa Terezinha de Goiás",
+    "feriados": [
+      {
+        "dataFeriado": "01 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "23 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Terezinha de Goiás"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Santo Antônio da Barra",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Santo Antônio de Goiás",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Santo Antônio do Descoberto",
+    "feriados": [
+      {
+        "dataFeriado": "08 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santo Antônio do Descoberto"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "15 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "São Domingos",
+    "feriados": [
+      {
+        "dataFeriado": "04 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Domingos"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "São Francisco de Goiás",
+    "feriados": [
+      {
+        "dataFeriado": "08 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Francisco de Goiás"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "São João d'Aliança",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "São João da Paraúna",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "São Luís de Montes Belos",
+    "feriados": [
+      {
+        "dataFeriado": "21 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "São Luiz do Norte",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "São Miguel do Araguaia",
+    "feriados": [
+      {
+        "dataFeriado": "29 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Miguel do Araguaia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "São Miguel do Passa Quatro",
+    "feriados": [
+      {
+        "dataFeriado": "09 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Miguel do Passa Quatro"
+      },
+      {
+        "dataFeriado": "29 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "São Patrício",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "São Simão",
+    "feriados": [
+      {
+        "dataFeriado": "03 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de São Simão"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Senador Canedo",
+    "feriados": [
+      {
+        "dataFeriado": "24 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Auxiliadora"
+      },
+      {
+        "dataFeriado": "01 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Senador Canedo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Serranópolis",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Serranópolis"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Silvânia",
+    "feriados": [
+      {
+        "dataFeriado": "14 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "05 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Silvânia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Simolândia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Sítio d'Abadia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Taquaral de Goiás",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Teresina de Goiás",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Terezópolis de Goiás",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Três Ranchos",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "19 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Três Ranchos"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Trindade",
+    "feriados": [
+      {
+        "dataFeriado": "31 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Trindade"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Trombas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Turvânia",
+    "feriados": [
+      {
+        "dataFeriado": "14 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Turvânia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Turvelândia",
+    "feriados": [
+      {
+        "dataFeriado": "01 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Turvelândia"
+      },
+      {
+        "dataFeriado": "05 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Uirapuru",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Uruaçu",
+    "feriados": [
+      {
+        "dataFeriado": "04 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Uruaçu"
+      },
+      {
+        "dataFeriado": "26 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Sant'Ana"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Uruana",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Urutaí",
+    "feriados": [
+      {
+        "dataFeriado": "06 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Valparaíso de Goiás",
+    "feriados": [
+      {
+        "dataFeriado": "15 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Valparaíso de Goiás"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Varjão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Vianópolis",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "19 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Vianópolis"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Vicentinópolis",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Vicentinópolis"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Vila Boa",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "GO",
+    "nomeCidade": "Vila Propício",
+    "feriados": []
+  }
+]

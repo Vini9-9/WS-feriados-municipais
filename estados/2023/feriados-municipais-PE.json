@@ -1,0 +1,2985 @@
+[
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Abreu e Lima",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      },
+      {
+        "dataFeriado": "14 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Abreu e Lima"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Consciência Evangélica"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Afogados da Ingazeira",
+    "feriados": [
+      {
+        "dataFeriado": "01 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Afogados da Ingazeira"
+      },
+      {
+        "dataFeriado": "22 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Madalena"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Afrânio",
+    "feriados": [
+      {
+        "dataFeriado": "31 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Afrânio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Agrestina",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Desterro"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      },
+      {
+        "dataFeriado": "11 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Agrestina"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Água Preta",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José da Agonia"
+      },
+      {
+        "dataFeriado": "03 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Água Preta"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Águas Belas",
+    "feriados": [
+      {
+        "dataFeriado": "24 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Águas Belas"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Águas Belas"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Alagoinha",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      },
+      {
+        "dataFeriado": "31 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Alagoinha"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Aliança",
+    "feriados": [
+      {
+        "dataFeriado": "11 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Aliança"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora das Dores"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Altinho",
+    "feriados": [
+      {
+        "dataFeriado": "28 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Altinho"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Nossa Senhora da Conceição"
+      },
+      {
+        "dataFeriado": "18 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Ó"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Amaraji",
+    "feriados": [
+      {
+        "dataFeriado": "15 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Amaro"
+      },
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      },
+      {
+        "dataFeriado": "23 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Angelim"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Angelim",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Araçoiaba",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Araripina",
+    "feriados": [
+      {
+        "dataFeriado": "11 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Araripina"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Evangélico"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Arcoverde",
+    "feriados": [
+      {
+        "dataFeriado": "11 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Arcoverde"
+      },
+      {
+        "dataFeriado": "23 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Livramento"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Barra de Guabiraba",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Barreiros",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Saúde"
+      },
+      {
+        "dataFeriado": "19 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Barreiros"
+      },
+      {
+        "dataFeriado": "29 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Miguel"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Belém de Maria",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa do Comércio"
+      },
+      {
+        "dataFeriado": "03 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Belém de Maria"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora das Dores"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Belém do São Francisco",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Belo Jardim",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de São Sebastião"
+      },
+      {
+        "dataFeriado": "11 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Belo Jardim"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Betânia",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Betânia"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Bezerros",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      },
+      {
+        "dataFeriado": "18 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bezerros"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Bodocó",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      },
+      {
+        "dataFeriado": "12 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bodocó"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Bom Conselho",
+    "feriados": [
+      {
+        "dataFeriado": "26 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Bom Conselho"
+      },
+      {
+        "dataFeriado": "03 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Bom Conselho"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Bom Jardim",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São Sebastião"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Pedro"
+      },
+      {
+        "dataFeriado": "19 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Bom Jardim"
+      },
+      {
+        "dataFeriado": "26 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora de Santana"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Bonito",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "20 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bonito"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Brejão",
+    "feriados": [
+      {
+        "dataFeriado": "06 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santos Reis"
+      },
+      {
+        "dataFeriado": "01 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Carnaval, Aniversário de Brejão"
+      },
+      {
+        "dataFeriado": "20 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Padre Cícero"
+      },
+      {
+        "dataFeriado": "14 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Cruz"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Brejinho",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Brejo da Madre de Deus",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      },
+      {
+        "dataFeriado": "20 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Brejo da Madre de Deus"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Buenos Aires",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Bom Parto"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João - Corrida da Fogueira"
+      },
+      {
+        "dataFeriado": "20 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Buenos Aires"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Buíque",
+    "feriados": [
+      {
+        "dataFeriado": "12 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Buíque"
+      },
+      {
+        "dataFeriado": "18 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Félix de Cantalice"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Cabo de Santo Agostinho",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      },
+      {
+        "dataFeriado": "09 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cabo de Santo Agostinho"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Reforma Protestante e Ação de Graças"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Cabrobó",
+    "feriados": [
+      {
+        "dataFeriado": "11 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cabrobó"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Cachoeirinha",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      },
+      {
+        "dataFeriado": "17 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Cachoeirinha"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Caetés",
+    "feriados": [
+      {
+        "dataFeriado": "08 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Caetano"
+      },
+      {
+        "dataFeriado": "13 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Caetés"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Calçado",
+    "feriados": [
+      {
+        "dataFeriado": "01 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Calçado, Confraternização Universal"
+      },
+      {
+        "dataFeriado": "11 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora de Lourdes"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Calumbi",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Camaragibe",
+    "feriados": [
+      {
+        "dataFeriado": "10 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Consagrado Coração de Jesus"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Camocim de São Félix",
+    "feriados": [
+      {
+        "dataFeriado": "18 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Camocim de São Félix"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Camutanga",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Canhotinho",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "02 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Canhotinho"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Capoeiras",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      },
+      {
+        "dataFeriado": "21 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Capoeiras"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Carnaíba",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      },
+      {
+        "dataFeriado": "04 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João Maria Vianey"
+      },
+      {
+        "dataFeriado": "30 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Carnaíba"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Carnaubeira da Penha",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Carpina",
+    "feriados": [
+      {
+        "dataFeriado": "06 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Reis"
+      },
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      },
+      {
+        "dataFeriado": "11 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Carpina"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Caruaru",
+    "feriados": [
+      {
+        "dataFeriado": "18 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Caruaru"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Pedro"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora das Dores"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Casinhas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Catende",
+    "feriados": [
+      {
+        "dataFeriado": "06 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santana"
+      },
+      {
+        "dataFeriado": "11 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Catende"
+      },
+      {
+        "dataFeriado": "19 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Comerciário"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Cedro",
+    "feriados": [
+      {
+        "dataFeriado": "11 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "09 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cedro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Chã de Alegria",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Chã Grande",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "15 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Chã Grande"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Condado",
+    "feriados": [
+      {
+        "dataFeriado": "15 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora das Dores"
+      },
+      {
+        "dataFeriado": "11 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Condado"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Correntes",
+    "feriados": [
+      {
+        "dataFeriado": "27 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Correntes"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Cortês",
+    "feriados": [
+      {
+        "dataFeriado": "04 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Francisco de Assis"
+      },
+      {
+        "dataFeriado": "29 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cortês"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Cumaru",
+    "feriados": [
+      {
+        "dataFeriado": "01 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Terezinha"
+      },
+      {
+        "dataFeriado": "20 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cumaru"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Cupira",
+    "feriados": [
+      {
+        "dataFeriado": "06 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de Reis"
+      },
+      {
+        "dataFeriado": "29 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cupira"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Custódia",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      },
+      {
+        "dataFeriado": "01 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Custódia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Dormentes",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "01 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Dormentes"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Escada",
+    "feriados": [
+      {
+        "dataFeriado": "24 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Escada"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Exu",
+    "feriados": [
+      {
+        "dataFeriado": "23 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "02 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Morte de Luiz Gonzaga"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Exu"
+      },
+      {
+        "dataFeriado": "01 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Todos os Santos"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nascimento de Luiz Gonzaga"
+      },
+      {
+        "dataFeriado": "31 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Bom Jesus dos Aflitos"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Feira Nova",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Feira Nova"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Fernando de Noronha",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Pedro"
+      },
+      {
+        "dataFeriado": "10 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Fernando de Noronha"
+      },
+      {
+        "dataFeriado": "29 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Remédios"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Ferreiros",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      },
+      {
+        "dataFeriado": "20 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ferreiros"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Flores",
+    "feriados": [
+      {
+        "dataFeriado": "11 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Flores"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Floresta",
+    "feriados": [
+      {
+        "dataFeriado": "20 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Flores"
+      },
+      {
+        "dataFeriado": "20 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Bom Jesus dos Aflitos"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Frei Miguelinho",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Frei Miguelinho"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Gameleira",
+    "feriados": [
+      {
+        "dataFeriado": "10 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Garanhuns",
+    "feriados": [
+      {
+        "dataFeriado": "04 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Garanhuns"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Glória do Goitá",
+    "feriados": [
+      {
+        "dataFeriado": "09 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Glória do Goitá"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Glória"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Goiana",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Granito",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Gravatá",
+    "feriados": [
+      {
+        "dataFeriado": "13 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Semana de Reis"
+      },
+      {
+        "dataFeriado": "26 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora de Sant'Ana"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Iati",
+    "feriados": [
+      {
+        "dataFeriado": "25 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Paulo"
+      },
+      {
+        "dataFeriado": "14 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Iati"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Ibimirim",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      },
+      {
+        "dataFeriado": "20 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ibimirim"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Ibirajuba",
+    "feriados": [
+      {
+        "dataFeriado": "05 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Izídio"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Francisco de Assis"
+      },
+      {
+        "dataFeriado": "20 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ibirajuba"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Igarassu",
+    "feriados": [
+      {
+        "dataFeriado": "27 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Igarassu"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Iguaracy",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Inajá",
+    "feriados": [
+      {
+        "dataFeriado": "02 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Igarassu"
+      },
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "do Distrito de Caraibeiro São José"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Ingazeira",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Ipojuca",
+    "feriados": [
+      {
+        "dataFeriado": "30 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ipojuca"
+      },
+      {
+        "dataFeriado": "29 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Miguel"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Ipubi",
+    "feriados": [
+      {
+        "dataFeriado": "02 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Quarta-feira de Cinzas, Aniversário de Ipubi"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Perpétuo Socorro"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Evangelho"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Itacuruba",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Itaíba",
+    "feriados": [
+      {
+        "dataFeriado": "28 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itaíba"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Ilha de Itamaracá",
+    "feriados": [
+      {
+        "dataFeriado": "01 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ilha de Itamaracá, Confraternização Universal"
+      },
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Pilar"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Pedro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Itambé",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Desterro"
+      },
+      {
+        "dataFeriado": "04 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itambé"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Itapetim",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Pedro"
+      },
+      {
+        "dataFeriado": "29 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itapetim"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Itapissuma",
+    "feriados": [
+      {
+        "dataFeriado": "10 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Gonçalo do Amarante"
+      },
+      {
+        "dataFeriado": "15 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Itapissuma"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Itaquitinga",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa do São Sebastião"
+      },
+      {
+        "dataFeriado": "20 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itaquitinga"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Jaboatão dos Guararapes",
+    "feriados": [
+      {
+        "dataFeriado": "15 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Amaro"
+      },
+      {
+        "dataFeriado": "04 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jaboatão dos Guararapes"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Jaqueira",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Jataúba",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "02 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Quarta-feira de Cinzas, Aniversário de Jataúba"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Jatobá",
+    "feriados": [
+      {
+        "dataFeriado": "28 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jatobá"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "João Alfredo",
+    "feriados": [
+      {
+        "dataFeriado": "10 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de João Alfredo"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Joaquim Nabuco",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Jucati",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Jupi",
+    "feriados": [
+      {
+        "dataFeriado": "11 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jupi"
+      },
+      {
+        "dataFeriado": "07 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Rosário"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Jurema",
+    "feriados": [
+      {
+        "dataFeriado": "11 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jurema"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Lagoa do Carro",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "03 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "01 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Lagoa do Carro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Lagoa de Itaenga",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "20 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Lagoa de Itaenga"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Lagoa do Ouro",
+    "feriados": [
+      {
+        "dataFeriado": "25 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Lagoa do Ouro"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Pedro"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Lagoa dos Gatos",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "11 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Lagoa dos Gatos"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Lagoa Grande",
+    "feriados": [
+      {
+        "dataFeriado": "24 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Auxiliadora"
+      },
+      {
+        "dataFeriado": "16 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Corpus Christi, Aniversário de Lagoa Grande"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Lajedo",
+    "feriados": [
+      {
+        "dataFeriado": "19 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Lajedo"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Limoeiro",
+    "feriados": [
+      {
+        "dataFeriado": "21 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Pedro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Macaparana",
+    "feriados": [
+      {
+        "dataFeriado": "06 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Reis"
+      },
+      {
+        "dataFeriado": "17 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Machados",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Machados"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Manari",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Maraial",
+    "feriados": [
+      {
+        "dataFeriado": "11 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Maraial"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora das Dores"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Mirandiba",
+    "feriados": [
+      {
+        "dataFeriado": "11 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mirandiba"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Moreno",
+    "feriados": [
+      {
+        "dataFeriado": "11 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Moreno"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Nazaré da Mata",
+    "feriados": [
+      {
+        "dataFeriado": "17 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Nazaré da Mata"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Olinda",
+    "feriados": [
+      {
+        "dataFeriado": "12 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Olinda"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Salvador do Mundo"
+      },
+      {
+        "dataFeriado": "10 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Grito pela Emancipação de por Bernardo V"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Orobó",
+    "feriados": [
+      {
+        "dataFeriado": "11 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Orobó"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Orocó",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Orocó"
+      },
+      {
+        "dataFeriado": "20 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Ouricuri",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "03 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Braz"
+      },
+      {
+        "dataFeriado": "14 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ouricuri"
+      },
+      {
+        "dataFeriado": "16 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Carmo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Palmares",
+    "feriados": [
+      {
+        "dataFeriado": "09 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Palmares"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Palmeirina",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      },
+      {
+        "dataFeriado": "31 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Palmeirina"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Panelas",
+    "feriados": [
+      {
+        "dataFeriado": "02 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festival de Jericos"
+      },
+      {
+        "dataFeriado": "18 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Panelas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Paranatama",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Parnamirim",
+    "feriados": [
+      {
+        "dataFeriado": "01 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Parnamirim"
+      },
+      {
+        "dataFeriado": "26 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "do Município Sant'Ana"
+      },
+      {
+        "dataFeriado": "08 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Passira",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      },
+      {
+        "dataFeriado": "20 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Passira"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Paudalho",
+    "feriados": [
+      {
+        "dataFeriado": "27 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Paulista",
+    "feriados": [
+      {
+        "dataFeriado": "28 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Carnaval, Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Paulista"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Pedra",
+    "feriados": [
+      {
+        "dataFeriado": "06 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santos Reis"
+      },
+      {
+        "dataFeriado": "13 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Instalação da Câmara Municipal"
+      },
+      {
+        "dataFeriado": "17 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Pedra"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Pesqueira",
+    "feriados": [
+      {
+        "dataFeriado": "05 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Águeda"
+      },
+      {
+        "dataFeriado": "20 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pesqueira"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Petrolândia",
+    "feriados": [
+      {
+        "dataFeriado": "06 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Mudança da Sede de Petrolândia, Revolução Pernambucana (Data Magna)"
+      },
+      {
+        "dataFeriado": "01 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Petrolândia"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Francisco de Assis"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Petrolina",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Rainha dos Anjos"
+      },
+      {
+        "dataFeriado": "21 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Petrolina"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Poção",
+    "feriados": [
+      {
+        "dataFeriado": "15 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora das Dores"
+      },
+      {
+        "dataFeriado": "13 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Homenagem ao Frei Henrique Broker"
+      },
+      {
+        "dataFeriado": "29 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Poção"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Pombos",
+    "feriados": [
+      {
+        "dataFeriado": "18 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Impossíveis"
+      },
+      {
+        "dataFeriado": "11 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pombos"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Primavera",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Quipapá",
+    "feriados": [
+      {
+        "dataFeriado": "19 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Quipapá"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Quixaba",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Recife",
+    "feriados": [
+      {
+        "dataFeriado": "16 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Carmo"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Riacho das Almas",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      },
+      {
+        "dataFeriado": "29 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Riacho das Almas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Ribeirão",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Ana"
+      },
+      {
+        "dataFeriado": "11 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ribeirão"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Rio Formoso",
+    "feriados": [
+      {
+        "dataFeriado": "07 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Batalha do Reduto"
+      },
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      },
+      {
+        "dataFeriado": "11 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rio Formoso"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Sairé",
+    "feriados": [
+      {
+        "dataFeriado": "06 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "17 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "23 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Sairé"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Salgadinho",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Salgueiro",
+    "feriados": [
+      {
+        "dataFeriado": "30 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Salgueiro"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      },
+      {
+        "dataFeriado": "23 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Salgueiro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Saloá",
+    "feriados": [
+      {
+        "dataFeriado": "27 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Vicente"
+      },
+      {
+        "dataFeriado": "20 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Saloá"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Sanharó",
+    "feriados": [
+      {
+        "dataFeriado": "24 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Sanharó"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Santa Cruz",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Santa Cruz da Baixa Verde",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Santa Cruz do Capibaribe",
+    "feriados": [
+      {
+        "dataFeriado": "29 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Miguel"
+      },
+      {
+        "dataFeriado": "05 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Morte do Padre Zuzinha"
+      },
+      {
+        "dataFeriado": "29 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Cruz do Capibaribe"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Santa Filomena",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Santa Maria da Boa Vista",
+    "feriados": [
+      {
+        "dataFeriado": "07 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Maria da Boa Vista"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Santa Maria do Cambucá",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Santa Terezinha",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "01 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "São Benedito do Sul",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "São Bento do Una",
+    "feriados": [
+      {
+        "dataFeriado": "07 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Bom Jesus dos Pobres Aflitos"
+      },
+      {
+        "dataFeriado": "30 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Bento do Una"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "São Caitano",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "São João",
+    "feriados": [
+      {
+        "dataFeriado": "25 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "São Joaquim do Monte",
+    "feriados": [
+      {
+        "dataFeriado": "06 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Reis"
+      },
+      {
+        "dataFeriado": "06 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Joaquim"
+      },
+      {
+        "dataFeriado": "11 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Joaquim do Monte"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "São José da Coroa Grande",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      },
+      {
+        "dataFeriado": "11 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São José da Coroa Grande"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "São José do Belmonte",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      },
+      {
+        "dataFeriado": "26 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São José do Belmonte"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "São José do Egito",
+    "feriados": [
+      {
+        "dataFeriado": "06 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Reis"
+      },
+      {
+        "dataFeriado": "09 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São José do Egito"
+      },
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "São Lourenço da Mata",
+    "feriados": [
+      {
+        "dataFeriado": "10 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Lourenço da Mata"
+      },
+      {
+        "dataFeriado": "10 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Lourenço"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "São Vicente Férrer",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "05 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Vicente Férrer"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Serra Talhada",
+    "feriados": [
+      {
+        "dataFeriado": "06 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Serra Talhada"
+      },
+      {
+        "dataFeriado": "01 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Serra Talhada"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Penha"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Serrita",
+    "feriados": [
+      {
+        "dataFeriado": "11 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Serrita"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Sertânia",
+    "feriados": [
+      {
+        "dataFeriado": "24 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Sertânia"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Sirinhaém",
+    "feriados": [
+      {
+        "dataFeriado": "15 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Amaro"
+      },
+      {
+        "dataFeriado": "12 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Sirinhaém"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Roque"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Moreilândia",
+    "feriados": [
+      {
+        "dataFeriado": "19 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Moreilândia"
+      },
+      {
+        "dataFeriado": "17 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Terezinha"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Solidão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Surubim",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      },
+      {
+        "dataFeriado": "11 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Surubim"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Tabira",
+    "feriados": [
+      {
+        "dataFeriado": "27 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tabira"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Remédios"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Tacaimbó",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      },
+      {
+        "dataFeriado": "20 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tacaimbó"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Tacaratu",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Saúde"
+      },
+      {
+        "dataFeriado": "13 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tacaratu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Tamandaré",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Pedro"
+      },
+      {
+        "dataFeriado": "31 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Ignácio de Loyola"
+      },
+      {
+        "dataFeriado": "28 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Tamandaré"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Taquaritinga do Norte",
+    "feriados": [
+      {
+        "dataFeriado": "15 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Amaro"
+      },
+      {
+        "dataFeriado": "10 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Taquaritinga do Norte"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Terezinha",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Terra Nova",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "01 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Carnaval, Aniversário de Terra Nova"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Perpétuo Socorro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Timbaúba",
+    "feriados": [
+      {
+        "dataFeriado": "08 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Timbaúba"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora das Dores"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Toritama",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Perpétuo Socorro"
+      },
+      {
+        "dataFeriado": "17 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Retratação Política de José Manoel da Si"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      },
+      {
+        "dataFeriado": "29 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Toritama"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Tracunhaém",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Artesão"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa do Santo Antônio"
+      },
+      {
+        "dataFeriado": "20 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tracunhaém"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Trindade",
+    "feriados": [
+      {
+        "dataFeriado": "29 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santíssima Trindade"
+      },
+      {
+        "dataFeriado": "20 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Trindade"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Triunfo",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Triunfo"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora das Dores"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Tupanatinga",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "16 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tupanatinga"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Tuparetama",
+    "feriados": [
+      {
+        "dataFeriado": "11 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tuparetama"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Venturosa",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      },
+      {
+        "dataFeriado": "30 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Venturosa"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Verdejante",
+    "feriados": [
+      {
+        "dataFeriado": "25 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Verdejante"
+      },
+      {
+        "dataFeriado": "27 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Perpétuo Socorro"
+      },
+      {
+        "dataFeriado": "04 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Morte de Joaquim Tavares de Sá"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Vertente do Lério",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Vertentes",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa do São José"
+      },
+      {
+        "dataFeriado": "01 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Ascensão de Nossa Senhora"
+      },
+      {
+        "dataFeriado": "11 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Vertentes"
+      },
+      {
+        "dataFeriado": "01 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Todos os Santos"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Vicência",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Ana"
+      },
+      {
+        "dataFeriado": "11 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Vicência"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Vitória de Santo Antão",
+    "feriados": [
+      {
+        "dataFeriado": "17 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antão, padroeiro da cidade"
+      },
+      {
+        "dataFeriado": "03 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Batalha das Tabocas"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PE",
+    "nomeCidade": "Xexéu",
+    "feriados": []
+  }
+]

@@ -1,0 +1,2907 @@
+[
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Água Branca",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Aguiar",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Alagoa Grande",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Boa Viagem"
+      },
+      {
+        "dataFeriado": "26 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Alagoa Grande"
+      },
+      {
+        "dataFeriado": "01 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Todos os Santos"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Alagoa Nova",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "05 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Alagoa Nova"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Alagoinha",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Alcantil",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Algodão de Jandaíra",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Alhandra",
+    "feriados": [
+      {
+        "dataFeriado": "24 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Alhandra"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "São João do Rio do Peixe",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Amparo",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Aparecida",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Araçagi",
+    "feriados": [
+      {
+        "dataFeriado": "08 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "22 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Araçagi"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Arara",
+    "feriados": [
+      {
+        "dataFeriado": "19 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "19 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Arara"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Araruna",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "10 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Araruna"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Areia",
+    "feriados": [
+      {
+        "dataFeriado": "18 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Areia"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Areia de Baraúnas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Areial",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Aroeiras",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "07 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "02 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Aroeiras"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Assunção",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Baía da Traição",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Bananeiras",
+    "feriados": [
+      {
+        "dataFeriado": "06 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Reis"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "16 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bananeiras"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Baraúna",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Barra de Santana",
+    "feriados": [
+      {
+        "dataFeriado": "29 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Barra de Santana"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "26 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Barra de Santa Rosa",
+    "feriados": [
+      {
+        "dataFeriado": "08 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Barra de Santa Rosa"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Barra de São Miguel",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Bayeux",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bayeux"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Belém",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Pedro"
+      },
+      {
+        "dataFeriado": "06 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Belém"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Belém do Brejo do Cruz",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Bernardino Batista",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Boa Ventura",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Boa Vista",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Bom Jesus",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Bom Sucesso",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Bonito de Santa Fé",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Boqueirão",
+    "feriados": [
+      {
+        "dataFeriado": "30 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Boqueirão"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Igaracy",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Borborema",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Brejo do Cruz",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Brejo dos Santos",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Caaporã",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "27 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Caaporã"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Cabaceiras",
+    "feriados": [
+      {
+        "dataFeriado": "04 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cabaceiras"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Cabedelo",
+    "feriados": [
+      {
+        "dataFeriado": "10 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Sagrado Coração de Jesus"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "12 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cabedelo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Cachoeira dos Índios",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Cacimba de Areia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Cacimba de Dentro",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cacimba de Dentro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Cacimbas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Caiçara",
+    "feriados": [
+      {
+        "dataFeriado": "06 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Reis"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Cajazeiras",
+    "feriados": [
+      {
+        "dataFeriado": "22 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cajazeiras"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Cajazeirinhas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Caldas Brandão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Camalaú",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Campina Grande",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Padroeira, Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Capim",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Caraúbas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Carrapateira",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Casserengue",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Catingueira",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Catolé do Rocha",
+    "feriados": [
+      {
+        "dataFeriado": "26 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Caturité",
+    "feriados": [
+      {
+        "dataFeriado": "29 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Conceição",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Condado",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Conde",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Congo",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Coremas",
+    "feriados": [
+      {
+        "dataFeriado": "04 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Coremas"
+      },
+      {
+        "dataFeriado": "22 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Coxixola",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Cruz do Espírito Santo",
+    "feriados": [
+      {
+        "dataFeriado": "07 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cruz do Espírito Santo"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Cubati",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Cuité",
+    "feriados": [
+      {
+        "dataFeriado": "25 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "17 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cuité"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Cuitegi",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Cuité de Mamanguape",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Curral de Cima",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Curral Velho",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Damião",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Desterro",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Vista Serrana",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Diamante",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Dona Inês",
+    "feriados": [
+      {
+        "dataFeriado": "17 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Dona Inês"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Duas Estradas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Emas",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Esperança",
+    "feriados": [
+      {
+        "dataFeriado": "26 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "01 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Esperança"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Fagundes",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "29 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Fagundes"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Frei Martinho",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Gado Bravo",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Guarabira",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Luz"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "26 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Guarabira"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Gurinhém",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "19 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Gurinhém"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Gurjão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Ibiara",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Imaculada",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Ingá",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Itabaiana",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itabaiana"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Itabaiana"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Itaporanga",
+    "feriados": [
+      {
+        "dataFeriado": "09 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itaporanga"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Pedro"
+      },
+      {
+        "dataFeriado": "19 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Padre Zé"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Itapororoca",
+    "feriados": [
+      {
+        "dataFeriado": "06 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Reis"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "29 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itapororoca"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Itatuba",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Jacaraú",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "19 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Jericó",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "João Pessoa",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "20 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Consciência Negra"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Juarez Távora",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Juazeirinho",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Junco do Seridó",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Juripiranga",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Juru",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Lagoa",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Lagoa de Dentro",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Lagoa de Dentro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Lagoa Seca",
+    "feriados": [
+      {
+        "dataFeriado": "04 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Lagoa Seca"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Lastro",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Livramento",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Logradouro",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Lucena",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Pedro"
+      },
+      {
+        "dataFeriado": "22 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Lucena"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Mãe d'Água",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Malta",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Mamanguape",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Manaíra",
+    "feriados": [
+      {
+        "dataFeriado": "21 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "21 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Manaíra"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Marcação",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Mari",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "19 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mari"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Marizópolis",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Massaranduba",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Mataraca",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Matinhas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Mato Grosso",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Maturéia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Mogeiro",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "25 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mogeiro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Montadas",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Imigrante"
+      },
+      {
+        "dataFeriado": "19 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Montadas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Monte Horebe",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Monteiro",
+    "feriados": [
+      {
+        "dataFeriado": "28 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Monteiro"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora das Dores"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Mulungu",
+    "feriados": [
+      {
+        "dataFeriado": "12 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "21 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mulungu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Natuba",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Natuba"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Nazarezinho",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Nova Floresta",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Nova Olinda",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Nova Palmeira",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Olho d'Água",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Olivedos",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Ouro Velho",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Parari",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Passagem",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Patos",
+    "feriados": [
+      {
+        "dataFeriado": "24 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Guia"
+      },
+      {
+        "dataFeriado": "24 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Patos"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Paulista",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Paulista"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Pedra Branca",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Pedra Lavrada",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Pedras de Fogo",
+    "feriados": [
+      {
+        "dataFeriado": "05 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pedras de Fogo"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Piancó",
+    "feriados": [
+      {
+        "dataFeriado": "09 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "07 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Picuí",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "18 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Pilar",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Pilões",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Pilõezinhos",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "21 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Arte e Cultura"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "25 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Pilõezinhos, Natal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Pirpirituba",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "07 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pirpirituba"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Pitimbu",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Pocinhos",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pocinhos"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Poço Dantas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Poço de José de Moura",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Pombal",
+    "feriados": [
+      {
+        "dataFeriado": "31 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Bom Sucesso"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Pedro"
+      },
+      {
+        "dataFeriado": "21 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pombal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Prata",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Princesa Isabel",
+    "feriados": [
+      {
+        "dataFeriado": "26 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "18 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Princesa Isabel"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Puxinanã",
+    "feriados": [
+      {
+        "dataFeriado": "28 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Puxinanã"
+      },
+      {
+        "dataFeriado": "16 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Queimadas",
+    "feriados": [
+      {
+        "dataFeriado": "06 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Reis"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Queimadas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Quixaba",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Remígio",
+    "feriados": [
+      {
+        "dataFeriado": "31 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Pedro Régis",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Riachão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Riachão do Bacamarte",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Riachão do Poço",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Riacho de Santo Antônio",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Riacho dos Cavalos",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Rio Tinto",
+    "feriados": [
+      {
+        "dataFeriado": "22 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "06 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rio Tinto"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Salgadinho",
+    "feriados": [
+      {
+        "dataFeriado": "16 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Carmo"
+      },
+      {
+        "dataFeriado": "22 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Salgadinho"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Salgado de São Félix",
+    "feriados": [
+      {
+        "dataFeriado": "18 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "05 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Salgado de São Félix"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Santa Cecília",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Santa Cruz",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Santa Helena",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Santa Inês",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Santa Luzia",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Luzia"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Santana de Mangueira",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Santana dos Garrotes",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Joca Claudino",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Santa Rita",
+    "feriados": [
+      {
+        "dataFeriado": "09 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Santa Rita"
+      },
+      {
+        "dataFeriado": "22 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Rita"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Santa Teresinha",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Santo André",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "São Bento",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Bento"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "São Bentinho",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "São Domingos do Cariri",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "São Domingos",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "São Francisco",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "São João do Cariri",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "São João do Tigre",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "São José da Lagoa Tapada",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "São José de Caiana",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "São José de Espinharas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "São José dos Ramos",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "São José de Piranhas",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São José de Piranhas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "São José de Princesa",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "São José do Bonfim",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "São José do Brejo do Cruz",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "São José do Sabugi",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "São José dos Cordeiros",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "São Mamede",
+    "feriados": [
+      {
+        "dataFeriado": "10 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "17 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "São Miguel de Taipu",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "São Sebastião de Lagoa de Roça",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "São Sebastião do Umbuzeiro",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Sapé",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "01 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Sapé"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "São Vicente do Seridó",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Serra Branca",
+    "feriados": [
+      {
+        "dataFeriado": "27 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Serra Branca"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Serra da Raiz",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Serra Grande",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Serra Redonda",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Serraria",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Sertãozinho",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Sobrado",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Solânea",
+    "feriados": [
+      {
+        "dataFeriado": "19 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Solânea"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Soledade",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "26 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Sossêgo",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Sousa",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Sumé",
+    "feriados": [
+      {
+        "dataFeriado": "01 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Tacima",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Taperoá",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Tavares",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "17 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tavares"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Teixeira",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Tenório",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Triunfo",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Uiraúna",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "02 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Uiraúna"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Umbuzeiro",
+    "feriados": [
+      {
+        "dataFeriado": "06 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Reis"
+      },
+      {
+        "dataFeriado": "02 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Umbuzeiro"
+      },
+      {
+        "dataFeriado": "29 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Várzea",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Vieirópolis",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PB",
+    "nomeCidade": "Zabelê",
+    "feriados": []
+  }
+]

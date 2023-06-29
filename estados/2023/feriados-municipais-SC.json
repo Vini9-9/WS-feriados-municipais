@@ -1,0 +1,3788 @@
+[
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Abdon Batista",
+    "feriados": [
+      {
+        "dataFeriado": "26 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Abdon Batista"
+      },
+      {
+        "dataFeriado": "21 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Abelardo Luz",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Abelardo Luz"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Agrolândia",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Agrolândia"
+      },
+      {
+        "dataFeriado": "26 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Agronômica",
+    "feriados": [
+      {
+        "dataFeriado": "26 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Água Doce",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Água Doce"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Águas de Chapecó",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Águas de Chapecó"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Águas Frias",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Águas Mornas",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Águas Mornas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Alfredo Wagner",
+    "feriados": [
+      {
+        "dataFeriado": "06 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Alto Bela Vista",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Anchieta",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Anchieta"
+      },
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Motorista"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Angelina",
+    "feriados": [
+      {
+        "dataFeriado": "11 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "07 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Angelina"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Anita Garibaldi",
+    "feriados": [
+      {
+        "dataFeriado": "04 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Anita Garibaldi"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Anitápolis",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Anitápolis"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Antônio Carlos",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Apiúna",
+    "feriados": [
+      {
+        "dataFeriado": "01 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Apiúna"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Arabutã",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Araquari",
+    "feriados": [
+      {
+        "dataFeriado": "05 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Araquari"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Bom Jesus de Araquari"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Araranguá",
+    "feriados": [
+      {
+        "dataFeriado": "03 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Araranguá"
+      },
+      {
+        "dataFeriado": "04 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "N. S. Mãe dos Homens"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Armazém",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Pedro"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Ass. Nossa Senhora"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      },
+      {
+        "dataFeriado": "19 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Armazém"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Arroio Trinta",
+    "feriados": [
+      {
+        "dataFeriado": "12 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Arroio Trinta"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Arvoredo",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Ascurra",
+    "feriados": [
+      {
+        "dataFeriado": "07 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ascurra"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Atalanta",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Atalanta"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Aurora",
+    "feriados": [
+      {
+        "dataFeriado": "06 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Aurora"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Balneário Arroio do Silva",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Balneário Camboriú",
+    "feriados": [
+      {
+        "dataFeriado": "20 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Balneário Camboriú"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Balneário Barra do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "09 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Balneário Barra do Sul"
+      },
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Balneário Gaivota",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "18 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Balneário Gaivota"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Bandeirante",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Barra Bonita",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Barra Velha",
+    "feriados": [
+      {
+        "dataFeriado": "01 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Divino Espírito Santo"
+      },
+      {
+        "dataFeriado": "07 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Barra Velha"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Bela Vista do Toldo",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Belmonte",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Benedito Novo",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Biguaçu",
+    "feriados": [
+      {
+        "dataFeriado": "17 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Biguaçu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Blumenau",
+    "feriados": [
+      {
+        "dataFeriado": "02 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Blumenau"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Bocaina do Sul",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Bombinhas",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bombinhas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Bom Jardim da Serra",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "05 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bom Jardim da Serra"
+      },
+      {
+        "dataFeriado": "27 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Bom Jesus",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Bom Jesus do Oeste",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Bom Retiro",
+    "feriados": [
+      {
+        "dataFeriado": "14 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bom Retiro"
+      },
+      {
+        "dataFeriado": "27 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Perpétuo Socorro"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Reforma"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Botuverá",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      },
+      {
+        "dataFeriado": "04 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Braço do Norte",
+    "feriados": [
+      {
+        "dataFeriado": "22 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Braço do Norte"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Braço do Trombudo",
+    "feriados": [
+      {
+        "dataFeriado": "26 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Braço do Trombudo"
+      },
+      {
+        "dataFeriado": "26 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Brunópolis",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Brusque",
+    "feriados": [
+      {
+        "dataFeriado": "04 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Brusque"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Caçador",
+    "feriados": [
+      {
+        "dataFeriado": "25 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Caçador"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Caibi",
+    "feriados": [
+      {
+        "dataFeriado": "06 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Caibi"
+      },
+      {
+        "dataFeriado": "08 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Calmon",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Camboriú",
+    "feriados": [
+      {
+        "dataFeriado": "05 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Camboriú"
+      },
+      {
+        "dataFeriado": "28 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Padroeiro da cidade"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Capão Alto",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Campo Alegre",
+    "feriados": [
+      {
+        "dataFeriado": "18 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Campo Alegre"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Campo Belo do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "08 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Patrocínio"
+      },
+      {
+        "dataFeriado": "03 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Campo Belo do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Campo Erê",
+    "feriados": [
+      {
+        "dataFeriado": "27 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Campo Erê"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Campos Novos",
+    "feriados": [
+      {
+        "dataFeriado": "30 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Campos Novos"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João Batista"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Canelinha",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Canoinhas",
+    "feriados": [
+      {
+        "dataFeriado": "03 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Cruz"
+      },
+      {
+        "dataFeriado": "12 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Canoinhas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Capinzal",
+    "feriados": [
+      {
+        "dataFeriado": "25 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Paulo"
+      },
+      {
+        "dataFeriado": "17 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Capinzal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Capivari de Baixo",
+    "feriados": [
+      {
+        "dataFeriado": "30 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Capivari de Baixo"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Catanduvas",
+    "feriados": [
+      {
+        "dataFeriado": "16 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Catanduvas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Caxambu do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "30 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Caxambu do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Celso Ramos",
+    "feriados": [
+      {
+        "dataFeriado": "25 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Cerro Negro",
+    "feriados": [
+      {
+        "dataFeriado": "26 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cerro Negro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Chapadão do Lageado",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Chapecó",
+    "feriados": [
+      {
+        "dataFeriado": "25 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Chapecó"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Cocal do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "08 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cocal do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Concórdia",
+    "feriados": [
+      {
+        "dataFeriado": "29 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Concórdia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Cordilheira Alta",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Coronel Freitas",
+    "feriados": [
+      {
+        "dataFeriado": "06 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Coronel Freitas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Coronel Martins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Corupá",
+    "feriados": [
+      {
+        "dataFeriado": "07 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Corupá"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Correia Pinto",
+    "feriados": [
+      {
+        "dataFeriado": "10 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Correia Pinto"
+      },
+      {
+        "dataFeriado": "12 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Criciúma",
+    "feriados": [
+      {
+        "dataFeriado": "06 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Criciúma"
+      },
+      {
+        "dataFeriado": "04 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Bárbara"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Cunha Porã",
+    "feriados": [
+      {
+        "dataFeriado": "20 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cunha Porã"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Reforma"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Cunhataí",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Curitibanos",
+    "feriados": [
+      {
+        "dataFeriado": "11 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Curitibanos"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Descanso",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Ass. Nossa Senhora"
+      },
+      {
+        "dataFeriado": "16 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Descanso"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Dionísio Cerqueira",
+    "feriados": [
+      {
+        "dataFeriado": "14 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Dionísio Cerqueira"
+      },
+      {
+        "dataFeriado": "12 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Aparecida, Dia de Nossa Senhora Aparecida"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Dona Emma",
+    "feriados": [
+      {
+        "dataFeriado": "17 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Dona Emma"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Doutor Pedrinho",
+    "feriados": [
+      {
+        "dataFeriado": "01 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Doutor Pedrinho"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Entre Rios",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Ermo",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Erval Velho",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "18 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Erval Velho"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Faxinal dos Guedes",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Faxinal dos Guedes"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Flor do Sertão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Florianópolis",
+    "feriados": [
+      {
+        "dataFeriado": "23 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Florianópolis"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Formosa do Sul",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Forquilhinha",
+    "feriados": [
+      {
+        "dataFeriado": "26 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Forquilhinha"
+      },
+      {
+        "dataFeriado": "04 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Bárbara"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Fraiburgo",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      },
+      {
+        "dataFeriado": "31 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Fraiburgo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Frei Rogério",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Galvão",
+    "feriados": [
+      {
+        "dataFeriado": "07 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Galvão"
+      },
+      {
+        "dataFeriado": "29 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Garopaba",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Joaquim"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Garuva",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João Batista"
+      },
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Colono"
+      },
+      {
+        "dataFeriado": "20 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Garuva"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Gaspar",
+    "feriados": [
+      {
+        "dataFeriado": "18 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Gaspar"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Governador Celso Ramos",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Grão-Pará",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Gravatal",
+    "feriados": [
+      {
+        "dataFeriado": "29 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Guabiruba",
+    "feriados": [
+      {
+        "dataFeriado": "10 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Guabiruba"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Guaraciaba",
+    "feriados": [
+      {
+        "dataFeriado": "26 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "01 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Guaraciaba"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Guaramirim",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Guaramirim"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Guarujá do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Guatambú",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Herval d'Oeste",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Ibiam",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Ibicaré",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Ibirama",
+    "feriados": [
+      {
+        "dataFeriado": "11 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ibirama"
+      },
+      {
+        "dataFeriado": "26 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "2º dia do Natal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Içara",
+    "feriados": [
+      {
+        "dataFeriado": "07 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Donato"
+      },
+      {
+        "dataFeriado": "26 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Ilhota",
+    "feriados": [
+      {
+        "dataFeriado": "21 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ilhota"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Imaruí",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João Batista"
+      },
+      {
+        "dataFeriado": "27 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Imaruí"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Imbituba",
+    "feriados": [
+      {
+        "dataFeriado": "21 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Imbituba"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Imbuia",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "10 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Imbuia"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Indaial",
+    "feriados": [
+      {
+        "dataFeriado": "21 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Indaial"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Iomerê",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Ipira",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ipira"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Iporã do Oeste",
+    "feriados": [
+      {
+        "dataFeriado": "01 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Iporã do Oeste"
+      },
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Ipuaçu",
+    "feriados": [
+      {
+        "dataFeriado": "31 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ipuaçu"
+      },
+      {
+        "dataFeriado": "13 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Ipumirim",
+    "feriados": [
+      {
+        "dataFeriado": "07 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ipumirim"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Iraceminha",
+    "feriados": [
+      {
+        "dataFeriado": "26 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Iraceminha"
+      },
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Irani",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "11 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Irani"
+      },
+      {
+        "dataFeriado": "22 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Caboclo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Irati",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Irineópolis",
+    "feriados": [
+      {
+        "dataFeriado": "28 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Itá",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Pedro"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itá"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Itaiópolis",
+    "feriados": [
+      {
+        "dataFeriado": "27 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Itajaí",
+    "feriados": [
+      {
+        "dataFeriado": "15 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itajaí"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Itapema",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Navegantes"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antonio"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Itapiranga",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Motorista"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Itapoá",
+    "feriados": [
+      {
+        "dataFeriado": "26 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itapoá"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Ituporanga",
+    "feriados": [
+      {
+        "dataFeriado": "14 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ituporanga"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Jaborá",
+    "feriados": [
+      {
+        "dataFeriado": "16 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "11 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jaborá"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Jacinto Machado",
+    "feriados": [
+      {
+        "dataFeriado": "23 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jacinto Machado"
+      },
+      {
+        "dataFeriado": "03 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Jaguaruna",
+    "feriados": [
+      {
+        "dataFeriado": "15 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora das Dores"
+      },
+      {
+        "dataFeriado": "20 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jaguaruna"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Jaraguá do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jaraguá do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Jardinópolis",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Joaçaba",
+    "feriados": [
+      {
+        "dataFeriado": "25 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Joaçaba"
+      },
+      {
+        "dataFeriado": "01 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Terezinha"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Joinville",
+    "feriados": [
+      {
+        "dataFeriado": "09 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Joinville"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "José Boiteux",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de José Boiteux"
+      },
+      {
+        "dataFeriado": "26 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Jupiá",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Lacerdópolis",
+    "feriados": [
+      {
+        "dataFeriado": "04 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "11 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Lacerdópolis"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Lages",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Laguna",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Navegantes"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Lajeado Grande",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Laurentino",
+    "feriados": [
+      {
+        "dataFeriado": "12 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Lauro Müller",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Lebon Régis",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      },
+      {
+        "dataFeriado": "19 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Lebon Régis"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Leoberto Leal",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Leoberto Leal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Lindóia do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "26 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Lindóia do Sul"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Lontras",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Lontras"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Luiz Alves",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Luzerna",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Macieira",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Mafra",
+    "feriados": [
+      {
+        "dataFeriado": "08 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mafra"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Major Gercino",
+    "feriados": [
+      {
+        "dataFeriado": "05 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "11 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Major Gercino"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Major Vieira",
+    "feriados": [
+      {
+        "dataFeriado": "19 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Maracajá",
+    "feriados": [
+      {
+        "dataFeriado": "12 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Maracajá"
+      },
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Maravilha",
+    "feriados": [
+      {
+        "dataFeriado": "27 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Maravilha"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Reforma"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Marema",
+    "feriados": [
+      {
+        "dataFeriado": "26 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "11 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Marema"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Massaranduba",
+    "feriados": [
+      {
+        "dataFeriado": "11 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Massaranduba"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Matos Costa",
+    "feriados": [
+      {
+        "dataFeriado": "23 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Matos Costa"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "06 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Meleiro",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Mirim Doce",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Modelo",
+    "feriados": [
+      {
+        "dataFeriado": "31 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Reforma"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      },
+      {
+        "dataFeriado": "30 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Modelo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Mondaí",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Navegantes"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Reforma"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Monte Carlo",
+    "feriados": [
+      {
+        "dataFeriado": "26 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Monte Carlo"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Monte Castelo",
+    "feriados": [
+      {
+        "dataFeriado": "15 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Monte Castelo"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Morro da Fumaça",
+    "feriados": [
+      {
+        "dataFeriado": "20 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Morro da Fumaça"
+      },
+      {
+        "dataFeriado": "16 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Morro Grande",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Navegantes",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Navegantes"
+      },
+      {
+        "dataFeriado": "26 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Navegantes"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Nova Erechim",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Erechim"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Nova Itaberaba",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Itaberaba"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Nova Trento",
+    "feriados": [
+      {
+        "dataFeriado": "09 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Trento"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Nova Veneza",
+    "feriados": [
+      {
+        "dataFeriado": "21 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Veneza"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Novo Horizonte",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Orleans",
+    "feriados": [
+      {
+        "dataFeriado": "30 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Orleans"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Otacílio Costa",
+    "feriados": [
+      {
+        "dataFeriado": "12 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Otacílio Costa"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Ouro",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "07 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ouro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Ouro Verde",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Paial",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Painel",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Palhoça",
+    "feriados": [
+      {
+        "dataFeriado": "24 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Palhoça"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Senhor Bom Jesus de Nazaré"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Palma Sola",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Palma Sola"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Palmeira",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Palmitos",
+    "feriados": [
+      {
+        "dataFeriado": "02 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Quarta-feira de Cinzas, Aniversário de Palmitos"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Reforma"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Papanduva",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "11 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Papanduva"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Paraíso",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Passo de Torres",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Passos Maia",
+    "feriados": [
+      {
+        "dataFeriado": "12 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Passos Maia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Paulo Lopes",
+    "feriados": [
+      {
+        "dataFeriado": "30 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Paulo Lopes"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Pedras Grandes",
+    "feriados": [
+      {
+        "dataFeriado": "29 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pedras Grandes"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Penha",
+    "feriados": [
+      {
+        "dataFeriado": "19 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Penha"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Peritiba",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Peritiba"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Pescaria Brava",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Petrolândia",
+    "feriados": [
+      {
+        "dataFeriado": "06 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "16 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Petrolândia"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Balneário Piçarras",
+    "feriados": [
+      {
+        "dataFeriado": "24 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Paz"
+      },
+      {
+        "dataFeriado": "14 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Balneário Piçarras"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Pinhalzinho",
+    "feriados": [
+      {
+        "dataFeriado": "30 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Pinhalzino"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Pinheiro Preto",
+    "feriados": [
+      {
+        "dataFeriado": "19 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pinheiro Preto"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Piratuba",
+    "feriados": [
+      {
+        "dataFeriado": "18 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Piratuba"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Planalto Alegre",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Pomerode",
+    "feriados": [
+      {
+        "dataFeriado": "05 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Ponte Alta",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ponte Alta"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Ponte Alta do Norte",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Ponte Serrada",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      },
+      {
+        "dataFeriado": "27 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ponte Serrada"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Porto Belo",
+    "feriados": [
+      {
+        "dataFeriado": "06 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Bom Jesus dos Aflitos"
+      },
+      {
+        "dataFeriado": "13 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Porto Belo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Porto União",
+    "feriados": [
+      {
+        "dataFeriado": "05 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Porto União"
+      },
+      {
+        "dataFeriado": "07 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora das Vitórias"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Pouso Redondo",
+    "feriados": [
+      {
+        "dataFeriado": "23 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pouso Redondo"
+      },
+      {
+        "dataFeriado": "26 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Praia Grande",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal - São Sebastião"
+      },
+      {
+        "dataFeriado": "19 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Praia Grande"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Presidente Castello Branco",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Presidente Getúlio",
+    "feriados": [
+      {
+        "dataFeriado": "01 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Presidente Getúlio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Presidente Nereu",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Princesa",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Quilombo",
+    "feriados": [
+      {
+        "dataFeriado": "06 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Quilombo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Rancho Queimado",
+    "feriados": [
+      {
+        "dataFeriado": "22 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Rio das Antas",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "27 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rio das Antas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Rio do Campo",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Colono"
+      },
+      {
+        "dataFeriado": "22 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rio do Campo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Rio do Oeste",
+    "feriados": [
+      {
+        "dataFeriado": "23 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rio do Oeste"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Rio dos Cedros",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Rio do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "15 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Sexta-feira da Paixão, Aniversário de Rio do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Rio Fortuna",
+    "feriados": [
+      {
+        "dataFeriado": "25 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "21 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rio Fortuna"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Rio Negrinho",
+    "feriados": [
+      {
+        "dataFeriado": "24 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rio Negrinho"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Rio Rufino",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Riqueza",
+    "feriados": [
+      {
+        "dataFeriado": "31 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Riqueza"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Rodeio",
+    "feriados": [
+      {
+        "dataFeriado": "14 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rodeio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Romelândia",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "23 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Romelândia"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Salete",
+    "feriados": [
+      {
+        "dataFeriado": "19 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Salete"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Saltinho",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Salto Veloso",
+    "feriados": [
+      {
+        "dataFeriado": "15 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Salto Veloso"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Sangão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Santa Cecília",
+    "feriados": [
+      {
+        "dataFeriado": "21 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Cecília"
+      },
+      {
+        "dataFeriado": "22 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Cecília"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Santa Helena",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Santa Rosa de Lima",
+    "feriados": [
+      {
+        "dataFeriado": "10 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Rosa de Lima"
+      },
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Santa Rosa do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "04 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Rosa do Sul"
+      },
+      {
+        "dataFeriado": "23 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Rosa de Lima"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Santa Terezinha",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Santa Terezinha do Progresso",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Santiago do Sul",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Santo Amaro da Imperatriz",
+    "feriados": [
+      {
+        "dataFeriado": "15 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Amaro"
+      },
+      {
+        "dataFeriado": "10 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santo Amaro da Imperatriz"
+      },
+      {
+        "dataFeriado": "26 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Segundo Natal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "São Bernardino",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "São Bento do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "23 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Bento do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "São Bonifácio",
+    "feriados": [
+      {
+        "dataFeriado": "05 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Bonifácio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "São Carlos",
+    "feriados": [
+      {
+        "dataFeriado": "04 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Carlos Borromeu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "São Cristóvão do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "30 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Cristóvão do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "São Domingos",
+    "feriados": [
+      {
+        "dataFeriado": "07 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Domingos"
+      },
+      {
+        "dataFeriado": "08 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Domingos Gusmão"
+      },
+      {
+        "dataFeriado": "21 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de São Domingos"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "São Francisco do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "15 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Sexta-feira da Paixão, Aniversário de São Francisco do Sul"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Graça"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "São João do Oeste",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São João do Oeste"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "São João Batista",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João Batista"
+      },
+      {
+        "dataFeriado": "19 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São João Batista"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "São João do Itaperiú",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "São João do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "19 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "São Joaquim",
+    "feriados": [
+      {
+        "dataFeriado": "07 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Joaquim"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "São José",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São José"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "São José do Cedro",
+    "feriados": [
+      {
+        "dataFeriado": "27 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São José do Cedro"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "São José do Cerrito",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "São Lourenço do Oeste",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Lourenço do Oeste"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "São Ludgero",
+    "feriados": [
+      {
+        "dataFeriado": "26 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Ludgero"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "São Martinho",
+    "feriados": [
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Martinho"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "São Miguel da Boa Vista",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "São Miguel do Oeste",
+    "feriados": [
+      {
+        "dataFeriado": "15 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Miguel do Oeste"
+      },
+      {
+        "dataFeriado": "29 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Miguel Arcanjo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "São Pedro de Alcântara",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Saudades",
+    "feriados": [
+      {
+        "dataFeriado": "30 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Saudades"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Schroeder",
+    "feriados": [
+      {
+        "dataFeriado": "03 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Schroeder"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Seara",
+    "feriados": [
+      {
+        "dataFeriado": "03 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Seara"
+      },
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Colono e Motorista"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Serra Alta",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Siderópolis",
+    "feriados": [
+      {
+        "dataFeriado": "04 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Bárbara"
+      },
+      {
+        "dataFeriado": "26 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Siderópolis"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Sombrio",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Sul Brasil",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Taió",
+    "feriados": [
+      {
+        "dataFeriado": "12 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Taió"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Tangará",
+    "feriados": [
+      {
+        "dataFeriado": "19 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tangará"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Tigrinhos",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Tijucas",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tijucas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Timbé do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "16 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "23 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Timbé do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Timbó",
+    "feriados": [
+      {
+        "dataFeriado": "05 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Timbó Grande",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Timbó Grande"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Três Barras",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Treviso",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Treze de Maio",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Treze de Maio"
+      },
+      {
+        "dataFeriado": "28 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Treze Tílias",
+    "feriados": [
+      {
+        "dataFeriado": "13 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Treze Tílias"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Trombudo Central",
+    "feriados": [
+      {
+        "dataFeriado": "22 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Trombudo Central"
+      },
+      {
+        "dataFeriado": "26 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Segundo Natal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Tubarão",
+    "feriados": [
+      {
+        "dataFeriado": "15 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Piedade"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Tunápolis",
+    "feriados": [
+      {
+        "dataFeriado": "26 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tunápolis"
+      },
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Turvo",
+    "feriados": [
+      {
+        "dataFeriado": "20 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Turvo"
+      },
+      {
+        "dataFeriado": "12 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Oração"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "União do Oeste",
+    "feriados": [
+      {
+        "dataFeriado": "04 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de União do Oeste"
+      },
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Urubici",
+    "feriados": [
+      {
+        "dataFeriado": "03 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Urubici"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Ass. Nossa Senhora"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Urupema",
+    "feriados": [
+      {
+        "dataFeriado": "01 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Urupema"
+      },
+      {
+        "dataFeriado": "26 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Urussanga",
+    "feriados": [
+      {
+        "dataFeriado": "26 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Urussanga"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Vargeão",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Vargem",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Vargem Bonita",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Vidal Ramos",
+    "feriados": [
+      {
+        "dataFeriado": "17 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Vidal Ramos"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Videira",
+    "feriados": [
+      {
+        "dataFeriado": "01 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Carnaval, Aniversário de Videira"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Vitor Meireles",
+    "feriados": [
+      {
+        "dataFeriado": "26 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Witmarsum",
+    "feriados": [
+      {
+        "dataFeriado": "15 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Witmarsum"
+      },
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Xanxerê",
+    "feriados": [
+      {
+        "dataFeriado": "27 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Xanxerê"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Domingos"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Xavantina",
+    "feriados": [
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "07 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Xaxim",
+    "feriados": [
+      {
+        "dataFeriado": "20 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Xaxim"
+      },
+      {
+        "dataFeriado": "21 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Luiz Gonzaga"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Zortéa",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "SC",
+    "nomeCidade": "Balneário Rincão",
+    "feriados": [
+      {
+        "dataFeriado": "08 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "06 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "03 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  }
+]

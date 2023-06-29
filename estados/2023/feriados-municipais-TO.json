@@ -1,0 +1,1168 @@
+[
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Abreulândia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Aguiarnópolis",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Aliança do Tocantins",
+    "feriados": [
+      {
+        "dataFeriado": "10 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Aliança do Tocantins"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Almas",
+    "feriados": [
+      {
+        "dataFeriado": "29 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Alvorada",
+    "feriados": [
+      {
+        "dataFeriado": "04 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Francisco de Assis"
+      },
+      {
+        "dataFeriado": "11 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Alvorada"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Ananás",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ananás"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Angico",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Aparecida do Rio Negro",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Aragominas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Araguacema",
+    "feriados": [
+      {
+        "dataFeriado": "28 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Araguacema"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Romaria do Senhor do Bonfim"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Araguaçu",
+    "feriados": [
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Araguaçu"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Araguaína",
+    "feriados": [
+      {
+        "dataFeriado": "15 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Araguaína"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Araguanã",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Araguatins",
+    "feriados": [
+      {
+        "dataFeriado": "09 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Araguatins"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Arapoema",
+    "feriados": [
+      {
+        "dataFeriado": "01 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Arraias",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "01 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Arraias"
+      },
+      {
+        "dataFeriado": "20 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Consciência Negra"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Augustinópolis",
+    "feriados": [
+      {
+        "dataFeriado": "22 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Aurora do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Axixá do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Babaçulândia",
+    "feriados": [
+      {
+        "dataFeriado": "13 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Bandeirantes do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Barra do Ouro",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Barrolândia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Bernardo Sayão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Bom Jesus do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Brasilândia do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Brejinho de Nazaré",
+    "feriados": [
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Brejinho de Nazaré"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Buriti do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Cachoeirinha",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Campos Lindos",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Cariri do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Carmolândia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Carrasco Bonito",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Caseara",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Centenário",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Chapada de Areia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Chapada da Natividade",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Colinas do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Combinado",
+    "feriados": [
+      {
+        "dataFeriado": "01 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Combinado"
+      },
+      {
+        "dataFeriado": "02 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Conceição do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Couto Magalhães",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Cristalândia",
+    "feriados": [
+      {
+        "dataFeriado": "23 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cristalândia"
+      },
+      {
+        "dataFeriado": "27 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Perpétuo Socorro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Crixás do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Darcinópolis",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Dianópolis",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      },
+      {
+        "dataFeriado": "26 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Dianópolis"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Divinópolis do Tocantins",
+    "feriados": [
+      {
+        "dataFeriado": "01 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Divinópolis do Tocantins"
+      },
+      {
+        "dataFeriado": "16 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Dois Irmãos do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Dueré",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Esperantina",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Fátima",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Fátima"
+      },
+      {
+        "dataFeriado": "21 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Figueirópolis",
+    "feriados": [
+      {
+        "dataFeriado": "10 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Figueirópolis"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Filadélfia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Formoso do Araguaia",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "23 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "01 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Formoso do Araguaia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Tabocão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Goianorte",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Goiatins",
+    "feriados": [
+      {
+        "dataFeriado": "04 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Goiatins"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Guaraí",
+    "feriados": [
+      {
+        "dataFeriado": "11 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Guaraí"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Pedro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Gurupi",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Gurupi"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Ipueiras",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Itacajá",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Itaguatins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Itapiratins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Itaporã do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Jaú do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Juarina",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Lagoa da Confusão",
+    "feriados": [
+      {
+        "dataFeriado": "20 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Lagoa do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Lajeado",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Lavandeira",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Lizarda",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Luzinópolis",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Marianópolis do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Mateiros",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Maurilândia do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Miracema do Tocantins",
+    "feriados": [
+      {
+        "dataFeriado": "25 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Miracema do Tocantins"
+      },
+      {
+        "dataFeriado": "01 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Consciência Negra"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Miranorte",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Monte do Carmo",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Monte Santo do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Palmeiras do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Muricilândia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Natividade",
+    "feriados": [
+      {
+        "dataFeriado": "01 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Natividade"
+      },
+      {
+        "dataFeriado": "14 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Senhor do Bonfim"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Senhor do Bonfim"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Nazaré",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Nova Olinda",
+    "feriados": [
+      {
+        "dataFeriado": "10 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Olinda"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Nova Rosalândia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Novo Acordo",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Novo Alegre",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Novo Jardim",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Oliveira de Fátima",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Palmeirante",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Palmeirópolis",
+    "feriados": [
+      {
+        "dataFeriado": "10 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Palmeirópolis"
+      },
+      {
+        "dataFeriado": "27 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Paraíso do Tocantins",
+    "feriados": [
+      {
+        "dataFeriado": "23 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Paraíso do Tocantins"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Paranã",
+    "feriados": [
+      {
+        "dataFeriado": "06 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Reis"
+      },
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "25 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Pau D'Arco",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Pedro Afonso",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Pedro"
+      },
+      {
+        "dataFeriado": "15 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pedro Afonso"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Peixe",
+    "feriados": [
+      {
+        "dataFeriado": "20 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Peixe"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Pequizeiro",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Colméia",
+    "feriados": [
+      {
+        "dataFeriado": "14 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Colméia"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Pindorama do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Piraquê",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Pium",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Ponte Alta do Bom Jesus",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Ponte Alta do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Porto Alegre do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Porto Nacional",
+    "feriados": [
+      {
+        "dataFeriado": "24 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora das Mercês"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Praia Norte",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Presidente Kennedy",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Pugmil",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Recursolândia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Riachinho",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Rio da Conceição",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Rio dos Bois",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Rio Sono",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Sampaio",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Sandolândia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Santa Fé do Araguaia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Santa Maria do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Santa Rita do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Santa Rosa do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Santa Tereza do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Santa Terezinha do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "São Bento do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "São Félix do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "São Miguel do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "São Salvador do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "São Sebastião do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "São Valério",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Silvanópolis",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Silvanópolis"
+      },
+      {
+        "dataFeriado": "20 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Consciência Negra"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Sítio Novo do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Sucupira",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Taguatinga",
+    "feriados": [
+      {
+        "dataFeriado": "10 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Taguatinga"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Taipas do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Talismã",
+    "feriados": [
+      {
+        "dataFeriado": "26 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Talismã"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Palmas",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      },
+      {
+        "dataFeriado": "20 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Palmas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Tocantínia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Tocantinópolis",
+    "feriados": [
+      {
+        "dataFeriado": "28 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tocantinópolis"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Consolação"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Tupirama",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Tupiratins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Wanderlândia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "TO",
+    "nomeCidade": "Xambioá",
+    "feriados": [
+      {
+        "dataFeriado": "29 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Xambioá"
+      },
+      {
+        "dataFeriado": "30 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  }
+]

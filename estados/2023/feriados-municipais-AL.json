@@ -1,0 +1,1314 @@
+[
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Água Branca",
+    "feriados": [
+      {
+        "dataFeriado": "24 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Água Branca"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Anadia",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "18 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Anadia"
+      },
+      {
+        "dataFeriado": "20 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Arapiraca",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Bom Conselho"
+      },
+      {
+        "dataFeriado": "30 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Arapiraca"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Atalaia",
+    "feriados": [
+      {
+        "dataFeriado": "01 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Atalaia"
+      },
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Barra de Santo Antônio",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Barra de São Miguel",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "02 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Barra de São Miguel"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Batalha",
+    "feriados": [
+      {
+        "dataFeriado": "08 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Batalha"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Belém",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Belo Monte",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Boca da Mata",
+    "feriados": [
+      {
+        "dataFeriado": "22 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "11 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Boca da Mata"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Branquinha",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Cacimbinhas",
+    "feriados": [
+      {
+        "dataFeriado": "08 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "19 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cacimbinhas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Cajueiro",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Campestre",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Campo Alegre",
+    "feriados": [
+      {
+        "dataFeriado": "08 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Campo Alegre"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Campo Grande",
+    "feriados": [
+      {
+        "dataFeriado": "31 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "01 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Canapi",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Canapi"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Capela",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Carneiros",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Chã Preta",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Coité do Nóia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Colônia Leopoldina",
+    "feriados": [
+      {
+        "dataFeriado": "16 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Coqueiro Seco",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Coruripe",
+    "feriados": [
+      {
+        "dataFeriado": "16 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Coruripe"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Craíbas",
+    "feriados": [
+      {
+        "dataFeriado": "23 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Craíbas"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Delmiro Gouveia",
+    "feriados": [
+      {
+        "dataFeriado": "14 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Delmiro Gouveia"
+      },
+      {
+        "dataFeriado": "10 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Dois Riachos",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Dois Riachos"
+      },
+      {
+        "dataFeriado": "20 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Estrela de Alagoas",
+    "feriados": [
+      {
+        "dataFeriado": "05 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Estrela de Alagoas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Feira Grande",
+    "feriados": [
+      {
+        "dataFeriado": "25 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Feliz Deserto",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Flexeiras",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Girau do Ponciano",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Ibateguara",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Igaci",
+    "feriados": [
+      {
+        "dataFeriado": "04 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Igaci"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Igreja Nova",
+    "feriados": [
+      {
+        "dataFeriado": "16 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Inhapi",
+    "feriados": [
+      {
+        "dataFeriado": "22 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Inhapi"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Jacaré dos Homens",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Jacuípe",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Japaratinga",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Jaramataia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Jequiá da Praia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Joaquim Gomes",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Joaquim Gomes"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Jundiá",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Junqueiro",
+    "feriados": [
+      {
+        "dataFeriado": "09 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Junqueiro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Lagoa da Canoa",
+    "feriados": [
+      {
+        "dataFeriado": "20 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Lagoa da Canoa"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Limoeiro de Anadia",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Limoeiro de Anadia"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Maceió",
+    "feriados": [
+      {
+        "dataFeriado": "27 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Prazeres"
+      },
+      {
+        "dataFeriado": "05 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Maceió"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Major Isidoro",
+    "feriados": [
+      {
+        "dataFeriado": "01 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Maragogi",
+    "feriados": [
+      {
+        "dataFeriado": "24 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Maragogi"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Maravilha",
+    "feriados": [
+      {
+        "dataFeriado": "02 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Maravilha"
+      },
+      {
+        "dataFeriado": "07 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Marechal Deodoro",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Maribondo",
+    "feriados": [
+      {
+        "dataFeriado": "15 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Maribondo"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Mar Vermelho",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Mata Grande",
+    "feriados": [
+      {
+        "dataFeriado": "18 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Matriz de Camaragibe",
+    "feriados": [
+      {
+        "dataFeriado": "24 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Matriz de Camaragibe"
+      },
+      {
+        "dataFeriado": "24 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Messias",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Minador do Negrão",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Monteirópolis",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Murici",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Novo Lino",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "01 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Novo Lino"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Olho d'Água das Flores",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Olho d'Água do Casado",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Olho d'Água Grande",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Olivença",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Olivença"
+      },
+      {
+        "dataFeriado": "16 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Ouro Branco",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "21 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ouro Branco"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Palestina",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Palmeira dos Índios",
+    "feriados": [
+      {
+        "dataFeriado": "20 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Palmeira dos Índios"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Pão de Açúcar",
+    "feriados": [
+      {
+        "dataFeriado": "03 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pão de Açúcar"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Pariconha",
+    "feriados": [
+      {
+        "dataFeriado": "07 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pariconha"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Paripueira",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Passo de Camaragibe",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Paulo Jacinto",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "02 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Paulo Jacinto"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Penedo",
+    "feriados": [
+      {
+        "dataFeriado": "12 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Penedo"
+      },
+      {
+        "dataFeriado": "07 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Piaçabuçu",
+    "feriados": [
+      {
+        "dataFeriado": "31 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Piaçabuçu"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Pilar",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "16 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pilar"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Pindoba",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Piranhas",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "03 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Piranhas"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Poço das Trincheiras",
+    "feriados": [
+      {
+        "dataFeriado": "06 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Reis"
+      },
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Poço das Trincheiras"
+      },
+      {
+        "dataFeriado": "20 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Porto Calvo",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Porto Calvo"
+      },
+      {
+        "dataFeriado": "22 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "21 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Porto de Pedras",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Porto Real do Colégio",
+    "feriados": [
+      {
+        "dataFeriado": "07 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "16 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Quebrangulo",
+    "feriados": [
+      {
+        "dataFeriado": "16 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Quebrangulo"
+      },
+      {
+        "dataFeriado": "27 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Rio Largo",
+    "feriados": [
+      {
+        "dataFeriado": "13 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rio Largo"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Roteiro",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Santa Luzia do Norte",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Santana do Ipanema",
+    "feriados": [
+      {
+        "dataFeriado": "24 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santana do Ipanema"
+      },
+      {
+        "dataFeriado": "26 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Santana do Mundaú",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "São Brás",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "São José da Laje",
+    "feriados": [
+      {
+        "dataFeriado": "06 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Reis"
+      },
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São José da Laje"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "São José da Tapera",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São José da Tapera"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "São Luís do Quitunde",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "16 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Luís do Quitunde"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "São Miguel dos Campos",
+    "feriados": [
+      {
+        "dataFeriado": "29 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "18 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "São Miguel dos Milagres",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "São Sebastião",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "31 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Satuba",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Senador Rui Palmeira",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Tanque d'Arca",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Taquarana",
+    "feriados": [
+      {
+        "dataFeriado": "03 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "24 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Taquarana"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Teotônio Vilela",
+    "feriados": [
+      {
+        "dataFeriado": "12 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Teotônio Vilela"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Traipu",
+    "feriados": [
+      {
+        "dataFeriado": "16 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Traipu"
+      },
+      {
+        "dataFeriado": "18 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "União dos Palmares",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de Santa Maria Madalena"
+      },
+      {
+        "dataFeriado": "22 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Maria Madalena"
+      },
+      {
+        "dataFeriado": "13 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de União dos Palmares"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "AL",
+    "nomeCidade": "Viçosa",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Viçosa"
+      }
+    ]
+  }
+]

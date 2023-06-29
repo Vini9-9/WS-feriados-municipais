@@ -1,0 +1,1158 @@
+[
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Água Clara",
+    "feriados": [
+      {
+        "dataFeriado": "08 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Água Clara"
+      },
+      {
+        "dataFeriado": "11 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Evangélico"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Alcinópolis",
+    "feriados": [
+      {
+        "dataFeriado": "22 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Alcinópolis"
+      },
+      {
+        "dataFeriado": "12 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Aparecida, Dia de Nossa Senhora Aparecida"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Amambai",
+    "feriados": [
+      {
+        "dataFeriado": "24 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Auxiliadora"
+      },
+      {
+        "dataFeriado": "28 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Amambaí"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Anastácio",
+    "feriados": [
+      {
+        "dataFeriado": "11 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora de Lourdes"
+      },
+      {
+        "dataFeriado": "08 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Anastácio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Anaurilândia",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João Batista"
+      },
+      {
+        "dataFeriado": "11 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Anaurilândia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Angélica",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Angélica"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Pedro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Antônio João",
+    "feriados": [
+      {
+        "dataFeriado": "16 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Aparecida do Taboado",
+    "feriados": [
+      {
+        "dataFeriado": "28 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Aparecida do Taboado"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Aquidauana",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Aquidauana"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Aral Moreira",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Bandeirantes",
+    "feriados": [
+      {
+        "dataFeriado": "20 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bandeirantes"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Bataguassu",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João Batista"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Navegantes"
+      },
+      {
+        "dataFeriado": "11 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bataguassu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Batayporã",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio de Pádua"
+      },
+      {
+        "dataFeriado": "12 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Batayporã"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Bela Vista",
+    "feriados": [
+      {
+        "dataFeriado": "20 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bela Vista"
+      },
+      {
+        "dataFeriado": "01 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Bodoquena",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bodoquena"
+      },
+      {
+        "dataFeriado": "27 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Perpétuo Socorro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Bonito",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Pedro"
+      },
+      {
+        "dataFeriado": "02 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bonito"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Brasilândia",
+    "feriados": [
+      {
+        "dataFeriado": "25 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Brasilândia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Caarapó",
+    "feriados": [
+      {
+        "dataFeriado": "06 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Senhor Bom Jesus"
+      },
+      {
+        "dataFeriado": "20 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Caarapó"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Camapuã",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João Batista"
+      },
+      {
+        "dataFeriado": "30 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Camapuã"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Campo Grande",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      },
+      {
+        "dataFeriado": "26 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Campo Grande"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Caracol",
+    "feriados": [
+      {
+        "dataFeriado": "01 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Caracol, Dia do trabalhador"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Cassilândia",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      },
+      {
+        "dataFeriado": "03 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cassilândia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Chapadão do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Pedro"
+      },
+      {
+        "dataFeriado": "23 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Corguinho",
+    "feriados": [
+      {
+        "dataFeriado": "11 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Corguinho"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Coronel Sapucaia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Corumbá",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Candelária"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Retomada de Corumbá"
+      },
+      {
+        "dataFeriado": "21 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Corumbá"
+      },
+      {
+        "dataFeriado": "20 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Consciência Negra"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Costa Rica",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      },
+      {
+        "dataFeriado": "11 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Costa Rica"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio de Pádua"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Coxim",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Deodápolis",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Deodápolis"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Dois Irmãos do Buriti",
+    "feriados": [
+      {
+        "dataFeriado": "07 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Rosário"
+      },
+      {
+        "dataFeriado": "13 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Dois Irmãos do Buriti"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Douradina",
+    "feriados": [
+      {
+        "dataFeriado": "12 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Douradina"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Dourados",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      },
+      {
+        "dataFeriado": "20 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Dourados"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Eldorado",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Eldorado"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Fátima do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora de Fátima"
+      },
+      {
+        "dataFeriado": "09 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Fátima do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Figueirão",
+    "feriados": [
+      {
+        "dataFeriado": "29 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Figueirão"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Glória de Dourados",
+    "feriados": [
+      {
+        "dataFeriado": "02 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Glória de Dourados"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Glória"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Guia Lopes da Laguna",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Guia Lopes da Laguna"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Iguatemi",
+    "feriados": [
+      {
+        "dataFeriado": "08 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Iguatemi"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Inocência",
+    "feriados": [
+      {
+        "dataFeriado": "06 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Senhor Bom Jesus"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Itaporã",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      },
+      {
+        "dataFeriado": "10 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itaporã"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Itaquiraí",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itaquiraí"
+      },
+      {
+        "dataFeriado": "27 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Perpétuo Socorro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Ivinhema",
+    "feriados": [
+      {
+        "dataFeriado": "25 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Paulo Apóstolo"
+      },
+      {
+        "dataFeriado": "11 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ivinhema"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Japorã",
+    "feriados": [
+      {
+        "dataFeriado": "30 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Japorã"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Jaraguari",
+    "feriados": [
+      {
+        "dataFeriado": "22 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Rita de Cássia"
+      },
+      {
+        "dataFeriado": "20 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Consciência Negra"
+      },
+      {
+        "dataFeriado": "12 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jaraguari"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Jardim",
+    "feriados": [
+      {
+        "dataFeriado": "14 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jardim"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio de Pádua"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Jateí",
+    "feriados": [
+      {
+        "dataFeriado": "11 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jateí"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Juti",
+    "feriados": [
+      {
+        "dataFeriado": "14 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Juti"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Ladário",
+    "feriados": [
+      {
+        "dataFeriado": "02 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ladário"
+      },
+      {
+        "dataFeriado": "24 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Remédios"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Laguna Carapã",
+    "feriados": [
+      {
+        "dataFeriado": "22 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Laguna Carapã"
+      },
+      {
+        "dataFeriado": "26 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Laguna Carapã"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Maracaju",
+    "feriados": [
+      {
+        "dataFeriado": "11 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Maracaju"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Miranda",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Mundo Novo",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mundo Novo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Naviraí",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora de Fátima"
+      },
+      {
+        "dataFeriado": "11 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Naviraí"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Nioaque",
+    "feriados": [
+      {
+        "dataFeriado": "08 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nioaque"
+      },
+      {
+        "dataFeriado": "22 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Rita de Cássia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Nova Alvorada do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "27 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Alvorada do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Nova Andradina",
+    "feriados": [
+      {
+        "dataFeriado": "30 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Andradina"
+      },
+      {
+        "dataFeriado": "31 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculado Coração de Maria"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Novo Horizonte do Sul",
+    "feriados": [
+      {
+        "dataFeriado": "30 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Novo Horizonte do Sul"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Paraíso das Águas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Paranaíba",
+    "feriados": [
+      {
+        "dataFeriado": "08 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Mãe da Divina Graça"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Francisco"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Paranhos",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "17 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Paranhos"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santíssiima Virgem Maria"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Pedro Gomes",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "11 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pedro Gomes"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Ponta Porã",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      },
+      {
+        "dataFeriado": "18 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ponta Porã"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Porto Murtinho",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João Batista"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora de Cacupê"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Ribas do Rio Pardo",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ribas do Rio Pardo"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Rio Brilhante",
+    "feriados": [
+      {
+        "dataFeriado": "26 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Rio Negro",
+    "feriados": [
+      {
+        "dataFeriado": "09 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rio Negro"
+      },
+      {
+        "dataFeriado": "13 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora de Fátima"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Rio Verde de Mato Grosso",
+    "feriados": [
+      {
+        "dataFeriado": "24 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Auxiliadora"
+      },
+      {
+        "dataFeriado": "16 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rio Verde de Mato Grosso"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Rochedo",
+    "feriados": [
+      {
+        "dataFeriado": "23 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rochedo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Santa Rita do Pardo",
+    "feriados": [
+      {
+        "dataFeriado": "22 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Rita de Cássia"
+      },
+      {
+        "dataFeriado": "18 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Rita do Pardo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "São Gabriel do Oeste",
+    "feriados": [
+      {
+        "dataFeriado": "12 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Gabriel do Oeste"
+      },
+      {
+        "dataFeriado": "29 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Pedro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Sete Quedas",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Sete Quedas"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Abadia"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Selvíria",
+    "feriados": [
+      {
+        "dataFeriado": "12 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Selvíria"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Sidrolândia",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Abadia"
+      },
+      {
+        "dataFeriado": "11 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Sidrolândia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Sonora",
+    "feriados": [
+      {
+        "dataFeriado": "03 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Sonora"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Tacuru",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "13 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tacuru"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Taquarussu",
+    "feriados": [
+      {
+        "dataFeriado": "12 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Taquarussu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Terenos",
+    "feriados": [
+      {
+        "dataFeriado": "08 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Terenos"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio de Pádua"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Três Lagoas",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio de Pádua"
+      },
+      {
+        "dataFeriado": "15 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Três Lagoas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "MS",
+    "nomeCidade": "Vicentina",
+    "feriados": [
+      {
+        "dataFeriado": "20 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Vicentina"
+      }
+    ]
+  }
+]

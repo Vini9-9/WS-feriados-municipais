@@ -1,0 +1,1347 @@
+[
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Angra dos Reis",
+    "feriados": [
+      {
+        "dataFeriado": "06 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Angra dos Reis"
+      },
+      {
+        "dataFeriado": "05 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Benedito"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Aperibé",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Aperibé"
+      },
+      {
+        "dataFeriado": "02 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Araruama",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "06 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Araruama"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Areal",
+    "feriados": [
+      {
+        "dataFeriado": "10 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Areal"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Armação dos Búzios",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Armação dos Búzios"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Arraial do Cabo",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Arraial do Cabo"
+      },
+      {
+        "dataFeriado": "18 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "23 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Barra do Piraí",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Santana"
+      },
+      {
+        "dataFeriado": "17 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Margarida"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Barra Mansa",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "03 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Barra Mansa"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Belford Roxo",
+    "feriados": [
+      {
+        "dataFeriado": "03 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Belford Roxo"
+      },
+      {
+        "dataFeriado": "20 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Morte do Ex-prefeito Joca"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Bom Jardim",
+    "feriados": [
+      {
+        "dataFeriado": "05 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bom Jardim"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Bom Jesus do Itabapoana",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bom Jesus do Itabapoana"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Cabo Frio",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      },
+      {
+        "dataFeriado": "13 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cabo Frio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Cachoeiras de Macacu",
+    "feriados": [
+      {
+        "dataFeriado": "15 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cachoeiras de Macacu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Cambuci",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Carapebus",
+    "feriados": [
+      {
+        "dataFeriado": "13 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Carapebus"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Assunção de Nossa Senhora"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Comendador Levy Gasparian",
+    "feriados": [
+      {
+        "dataFeriado": "30 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Comendador Levy Gasparian"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Campos dos Goytacazes",
+    "feriados": [
+      {
+        "dataFeriado": "15 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Amaro"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Salvador"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Cantagalo",
+    "feriados": [
+      {
+        "dataFeriado": "22 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Cardoso Moreira",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cardoso Moreira"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Carmo",
+    "feriados": [
+      {
+        "dataFeriado": "16 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Carmo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Casimiro de Abreu",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Casimiro de Abreu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Conceição de Macabu",
+    "feriados": [
+      {
+        "dataFeriado": "15 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Conceição de Macabu"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Cordeiro",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Duas Barras",
+    "feriados": [
+      {
+        "dataFeriado": "08 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Duas Barras"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Guia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Duque de Caxias",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Engenheiro Paulo de Frontin",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Engenheiro Paulo de Frontin"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Guapimirim",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Ajuda"
+      },
+      {
+        "dataFeriado": "25 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Guapimirim"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Iguaba Grande",
+    "feriados": [
+      {
+        "dataFeriado": "08 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Iguaba Grande"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Itaboraí",
+    "feriados": [
+      {
+        "dataFeriado": "22 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itaboraí"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Itaguaí",
+    "feriados": [
+      {
+        "dataFeriado": "05 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itaguaí"
+      },
+      {
+        "dataFeriado": "03 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Francisco Xavier"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Italva",
+    "feriados": [
+      {
+        "dataFeriado": "12 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Italva"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Itaocara",
+    "feriados": [
+      {
+        "dataFeriado": "04 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José de Leonissa"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Itaperuna",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      },
+      {
+        "dataFeriado": "10 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itaperuna"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Itatiaia",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "01 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itatiaia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Japeri",
+    "feriados": [
+      {
+        "dataFeriado": "30 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Japeri"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Laje do Muriaé",
+    "feriados": [
+      {
+        "dataFeriado": "14 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Laje do Muriaé"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Macaé",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "29 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Macaé"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Macuco",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "28 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Macuco"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Magé",
+    "feriados": [
+      {
+        "dataFeriado": "09 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Magé"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Piedade"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Mangaratiba",
+    "feriados": [
+      {
+        "dataFeriado": "08 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "11 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mangaratiba"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Maricá",
+    "feriados": [
+      {
+        "dataFeriado": "26 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Maricá"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Amparo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Mendes",
+    "feriados": [
+      {
+        "dataFeriado": "11 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mendes"
+      },
+      {
+        "dataFeriado": "14 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Mesquita",
+    "feriados": [
+      {
+        "dataFeriado": "25 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mesquita"
+      },
+      {
+        "dataFeriado": "27 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora das Graças"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Miguel Pereira",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Miracema",
+    "feriados": [
+      {
+        "dataFeriado": "03 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Miracema"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Natividade",
+    "feriados": [
+      {
+        "dataFeriado": "20 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Natividade"
+      },
+      {
+        "dataFeriado": "06 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Nilópolis",
+    "feriados": [
+      {
+        "dataFeriado": "21 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nilópolis"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Niterói",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "22 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Niterói"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Nova Friburgo",
+    "feriados": [
+      {
+        "dataFeriado": "16 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Friburgo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Nova Iguaçu",
+    "feriados": [
+      {
+        "dataFeriado": "15 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Iguaçu"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Paracambi",
+    "feriados": [
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Paracambi"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Paraíba do Sul",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Paraty",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Paty do Alferes",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Petrópolis",
+    "feriados": [
+      {
+        "dataFeriado": "16 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Petrópolis"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Chegada dos Primeiros Colonos"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Pinheiral",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pinheiral"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Piraí",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "17 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Piraí"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Porciúncula",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      },
+      {
+        "dataFeriado": "11 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Clara"
+      },
+      {
+        "dataFeriado": "21 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Porciúncula"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Porto Real",
+    "feriados": [
+      {
+        "dataFeriado": "15 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Quatis",
+    "feriados": [
+      {
+        "dataFeriado": "07 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Quatis"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Queimados",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Quissamã",
+    "feriados": [
+      {
+        "dataFeriado": "04 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "17 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Desterro"
+      },
+      {
+        "dataFeriado": "12 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emacipação de Quissamã"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Resende",
+    "feriados": [
+      {
+        "dataFeriado": "29 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Resende"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Rio Bonito",
+    "feriados": [
+      {
+        "dataFeriado": "07 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rio Bonito"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Rio Claro",
+    "feriados": [
+      {
+        "dataFeriado": "19 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rio Claro"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora Piedade"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Rio das Flores",
+    "feriados": [
+      {
+        "dataFeriado": "17 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rio das Flores"
+      },
+      {
+        "dataFeriado": "15 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Rio das Ostras",
+    "feriados": [
+      {
+        "dataFeriado": "10 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rio das Ostras"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Rio de Janeiro",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Santa Maria Madalena",
+    "feriados": [
+      {
+        "dataFeriado": "08 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Maria Madalena"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Santo Antônio de Pádua",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santo Antônio de Pádua"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "São Francisco de Itabapoana",
+    "feriados": [
+      {
+        "dataFeriado": "18 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Francisco de Itabapoana"
+      },
+      {
+        "dataFeriado": "02 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Francisco de Paula"
+      },
+      {
+        "dataFeriado": "30 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Evangélico"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "São Fidélis",
+    "feriados": [
+      {
+        "dataFeriado": "24 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Fidelis de Sigmaringa"
+      },
+      {
+        "dataFeriado": "06 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Evangelho"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "São Gonçalo",
+    "feriados": [
+      {
+        "dataFeriado": "10 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Gonçalo"
+      },
+      {
+        "dataFeriado": "22 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Gonçalo"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "São João da Barra",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Navegantes"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      },
+      {
+        "dataFeriado": "17 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São João da Barra"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Pedro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "São João de Meriti",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "21 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São João de Meriti"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "São José de Ubá",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São José de Ubá"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "São José do Vale do Rio Preto",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      },
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Glória"
+      },
+      {
+        "dataFeriado": "15 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São José do Vale do Rio Preto"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "São Pedro da Aldeia",
+    "feriados": [
+      {
+        "dataFeriado": "16 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Pedro da Aldeia"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "São Sebastião do Alto",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Sapucaia",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      },
+      {
+        "dataFeriado": "07 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Saquarema",
+    "feriados": [
+      {
+        "dataFeriado": "08 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Saquarema"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora de Nazareth"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Seropédica",
+    "feriados": [
+      {
+        "dataFeriado": "13 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "01 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Silva Jardim",
+    "feriados": [
+      {
+        "dataFeriado": "08 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Silva Jardim"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Lapa"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Sumidouro",
+    "feriados": [
+      {
+        "dataFeriado": "10 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Sumidouro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Tanguá",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Amparo"
+      },
+      {
+        "dataFeriado": "15 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tanguá, Proclamação da República do Brasil"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Teresópolis",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santo Antônio"
+      },
+      {
+        "dataFeriado": "06 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Teresópolis"
+      },
+      {
+        "dataFeriado": "15 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Santa Teresa"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Trajano de Moraes",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Três Rios",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Valença",
+    "feriados": [
+      {
+        "dataFeriado": "15 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Varre-Sai",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "25 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Varre-Sai"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Vassouras",
+    "feriados": [
+      {
+        "dataFeriado": "29 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Vassouras"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "RJ",
+    "nomeCidade": "Volta Redonda",
+    "feriados": [
+      {
+        "dataFeriado": "17 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Volta Redonda"
+      }
+    ]
+  }
+]

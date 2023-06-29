@@ -1,0 +1,1835 @@
+[
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Abaetetuba",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "18 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Abel Figueiredo",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Acará",
+    "feriados": [
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "17 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Afuá",
+    "feriados": [
+      {
+        "dataFeriado": "02 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Afuá"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Água Azul do Norte",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Alenquer",
+    "feriados": [
+      {
+        "dataFeriado": "06 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Reis"
+      },
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Alenquer"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Almeirim",
+    "feriados": [
+      {
+        "dataFeriado": "28 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "23 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Almeirim"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Altamira",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "06 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Altamira"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Anajás",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Ananindeua",
+    "feriados": [
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Imaculada Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Anapu",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Augusto Corrêa",
+    "feriados": [
+      {
+        "dataFeriado": "28 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Augusto Corrêa"
+      },
+      {
+        "dataFeriado": "26 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Aurora do Pará",
+    "feriados": [
+      {
+        "dataFeriado": "20 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Aurora do Pará"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Aveiro",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Bagre",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Baião",
+    "feriados": [
+      {
+        "dataFeriado": "01 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "31 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Baião"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Bannach",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Barcarena",
+    "feriados": [
+      {
+        "dataFeriado": "03 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Belém",
+    "feriados": [
+      {
+        "dataFeriado": "12 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Belém"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Belterra",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Benevides",
+    "feriados": [
+      {
+        "dataFeriado": "30 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "16 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Benevides"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Bom Jesus do Tocantins",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Bonito",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "29 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Bragança",
+    "feriados": [
+      {
+        "dataFeriado": "08 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Bragança"
+      },
+      {
+        "dataFeriado": "07 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora do Rosário"
+      },
+      {
+        "dataFeriado": "12 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Pós-Círio"
+      },
+      {
+        "dataFeriado": "26 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Benedito"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Brasil Novo",
+    "feriados": [
+      {
+        "dataFeriado": "30 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Brejo Grande do Araguaia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Breu Branco",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Breu Branco"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Breves",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "26 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora de Santana"
+      },
+      {
+        "dataFeriado": "30 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Breves"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Bujaru",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Cachoeira do Piriá",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Cachoeira do Arari",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Cametá",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João"
+      },
+      {
+        "dataFeriado": "24 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Cametá"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Canaã dos Carajás",
+    "feriados": [
+      {
+        "dataFeriado": "05 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Canaã dos Carajás"
+      },
+      {
+        "dataFeriado": "30 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Capanema",
+    "feriados": [
+      {
+        "dataFeriado": "04 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Francisco de Assis"
+      },
+      {
+        "dataFeriado": "05 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Capitão Poço",
+    "feriados": [
+      {
+        "dataFeriado": "05 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Capitão Poço"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Castanhal",
+    "feriados": [
+      {
+        "dataFeriado": "28 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Castanhal"
+      },
+      {
+        "dataFeriado": "19 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São José"
+      },
+      {
+        "dataFeriado": "22 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Pós-Círio"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Chaves",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Colares",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Conceição do Araguaia",
+    "feriados": [
+      {
+        "dataFeriado": "01 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Conceição do Araguaia"
+      },
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia do Imigrante"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Concórdia do Pará",
+    "feriados": [
+      {
+        "dataFeriado": "08 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "10 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Concórdia do Pará"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Consciência Negra"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Cumaru do Norte",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Curionópolis",
+    "feriados": [
+      {
+        "dataFeriado": "10 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Curionópolis"
+      },
+      {
+        "dataFeriado": "27 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Curralinho",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Curuá",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Curuçá",
+    "feriados": [
+      {
+        "dataFeriado": "14 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Emancipação de Curuçá"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Curuçá"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Dom Eliseu",
+    "feriados": [
+      {
+        "dataFeriado": "09 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "12 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Eldorado do Carajás",
+    "feriados": [
+      {
+        "dataFeriado": "17 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Páscoa, Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Eldorado do Carajás"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Faro",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Floresta do Araguaia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Garrafão do Norte",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Goianésia do Pará",
+    "feriados": [
+      {
+        "dataFeriado": "20 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Gurupá",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "11 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Gurupá"
+      },
+      {
+        "dataFeriado": "27 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Igarapé-Açu",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "23 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Igarapé-Açu"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Igarapé-Miri",
+    "feriados": [
+      {
+        "dataFeriado": "16 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Inhangapi",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Ipixuna do Pará",
+    "feriados": [
+      {
+        "dataFeriado": "13 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ipixuna do Pará"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Irituia",
+    "feriados": [
+      {
+        "dataFeriado": "18 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "16 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Irituia"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Itaituba",
+    "feriados": [
+      {
+        "dataFeriado": "26 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "15 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itaituba"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Itupiranga",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      },
+      {
+        "dataFeriado": "14 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Itupiranga"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Jacareacanga",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Jacundá",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "29 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Jacundá"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Juruti",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "09 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Juruti"
+      },
+      {
+        "dataFeriado": "02 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Limoeiro do Ajuru",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Mãe do Rio",
+    "feriados": [
+      {
+        "dataFeriado": "11 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Mãe do Rio"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Magalhães Barata",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Marabá",
+    "feriados": [
+      {
+        "dataFeriado": "05 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Marabá"
+      },
+      {
+        "dataFeriado": "22 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Pós-Círio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Maracanã",
+    "feriados": [
+      {
+        "dataFeriado": "29 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Marapanim",
+    "feriados": [
+      {
+        "dataFeriado": "06 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Marituba",
+    "feriados": [
+      {
+        "dataFeriado": "22 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Medicilândia",
+    "feriados": [
+      {
+        "dataFeriado": "12 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Medicilândia"
+      },
+      {
+        "dataFeriado": "25 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Melgaço",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Mocajuba",
+    "feriados": [
+      {
+        "dataFeriado": "31 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "28 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Moju",
+    "feriados": [
+      {
+        "dataFeriado": "28 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Moju"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Mojuí dos Campos",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Monte Alegre",
+    "feriados": [
+      {
+        "dataFeriado": "15 de março de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Monte Alegre"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Muaná",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Nova Esperança do Piriá",
+    "feriados": [
+      {
+        "dataFeriado": "27 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Nova Ipixuna",
+    "feriados": [
+      {
+        "dataFeriado": "04 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Ipixuna"
+      },
+      {
+        "dataFeriado": "20 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Consciência Negra"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Nova Timboteua",
+    "feriados": [
+      {
+        "dataFeriado": "04 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Nova Timboteua"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Novo Progresso",
+    "feriados": [
+      {
+        "dataFeriado": "13 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Novo Progresso"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Novo Repartimento",
+    "feriados": [
+      {
+        "dataFeriado": "04 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "20 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Novo Repartimento"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Óbidos",
+    "feriados": [
+      {
+        "dataFeriado": "04 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "26 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "02 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Óbidos"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Oeiras do Pará",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Oriximiná",
+    "feriados": [
+      {
+        "dataFeriado": "24 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Ourém",
+    "feriados": [
+      {
+        "dataFeriado": "29 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ourém"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Ourilândia do Norte",
+    "feriados": [
+      {
+        "dataFeriado": "22 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Pacajá",
+    "feriados": [
+      {
+        "dataFeriado": "10 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Pacajá"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Palestina do Pará",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Paragominas",
+    "feriados": [
+      {
+        "dataFeriado": "23 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Paragominas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Parauapebas",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Sebastião"
+      },
+      {
+        "dataFeriado": "10 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Parauapebas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Pau D'Arco",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Peixe-Boi",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Piçarra",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Placas",
+    "feriados": [
+      {
+        "dataFeriado": "26 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Placas"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Ponta de Pedras",
+    "feriados": [
+      {
+        "dataFeriado": "30 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Ponta de Pedras"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Portel",
+    "feriados": [
+      {
+        "dataFeriado": "24 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Portel"
+      },
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Porto de Moz",
+    "feriados": [
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Festa de São João"
+      },
+      {
+        "dataFeriado": "19 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Porto de Moz"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Prainha",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Primavera",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Quatipuru",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Redenção",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Redenção"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Rio Maria",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rio Maria"
+      },
+      {
+        "dataFeriado": "13 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Rondon do Pará",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rondon do Pará"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Rurópolis",
+    "feriados": [
+      {
+        "dataFeriado": "12 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Rurópolis"
+      },
+      {
+        "dataFeriado": "10 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Salinópolis",
+    "feriados": [
+      {
+        "dataFeriado": "08 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "22 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Salinópolis"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Salvaterra",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Santa Bárbara do Pará",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Santa Cruz do Arari",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Santa Izabel do Pará",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Santa Luzia do Pará",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Santa Maria das Barreiras",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Santa Maria do Pará",
+    "feriados": [
+      {
+        "dataFeriado": "24 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "29 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santa Maria do Pará"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Santana do Araguaia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Santarém",
+    "feriados": [
+      {
+        "dataFeriado": "22 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Santarém"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora da Conceição"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Santarém Novo",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Santo Antônio do Tauá",
+    "feriados": [
+      {
+        "dataFeriado": "13 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia de Santo Antônio"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "São Caetano de Odivelas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "São Domingos do Araguaia",
+    "feriados": [
+      {
+        "dataFeriado": "08 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "27 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "São Domingos do Capim",
+    "feriados": [
+      {
+        "dataFeriado": "08 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "09 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Domingos do Capim"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "São Félix do Xingu",
+    "feriados": [
+      {
+        "dataFeriado": "10 de abril de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Félix do Xingu"
+      },
+      {
+        "dataFeriado": "20 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Dia da Consciência Negra"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "São Francisco do Pará",
+    "feriados": [
+      {
+        "dataFeriado": "04 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "30 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Francisco do Pará"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "São Geraldo do Araguaia",
+    "feriados": [
+      {
+        "dataFeriado": "10 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Geraldo do Araguaia"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "São João da Ponta",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "São João de Pirabas",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "São João do Araguaia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "São Miguel do Guamá",
+    "feriados": [
+      {
+        "dataFeriado": "29 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "31 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de São Miguel do Guamá"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "São Sebastião da Boa Vista",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Sapucaia",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Senador José Porfírio",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Soure",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Soure"
+      },
+      {
+        "dataFeriado": "29 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São Pedro"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Tailândia",
+    "feriados": [
+      {
+        "dataFeriado": "10 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tailândia"
+      },
+      {
+        "dataFeriado": "04 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Terra Alta",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Terra Santa",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Terra Santa"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Tomé-Açu",
+    "feriados": [
+      {
+        "dataFeriado": "01 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tomé-Açu"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Tracuateua",
+    "feriados": [
+      {
+        "dataFeriado": "29 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tracuateua"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Trairão",
+    "feriados": [
+      {
+        "dataFeriado": "02 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Nossa Senhora dos Navegantes"
+      },
+      {
+        "dataFeriado": "24 de junho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "São João Batista"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Tucumã",
+    "feriados": [
+      {
+        "dataFeriado": "10 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tucumã"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Tucuruí",
+    "feriados": [
+      {
+        "dataFeriado": "31 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Tucuruí"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Ulianópolis",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Uruará",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "13 de setembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Uruará"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Vigia",
+    "feriados": [
+      {
+        "dataFeriado": "20 de janeiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "14 de fevereiro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "05 de agosto de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "02 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "08 de dezembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Viseu",
+    "feriados": [
+      {
+        "dataFeriado": "06 de julho de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "17 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      },
+      {
+        "dataFeriado": "18 de novembro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Vitória do Xingu",
+    "feriados": []
+  },
+  {
+    "siglaEstado": "PA",
+    "nomeCidade": "Xinguara",
+    "feriados": [
+      {
+        "dataFeriado": "13 de maio de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Aniversário de Xinguara"
+      },
+      {
+        "dataFeriado": "15 de outubro de 2023",
+        "tipoFeriado": "Municipal",
+        "nomeFeriado": "Feriado Municipal"
+      }
+    ]
+  }
+]
