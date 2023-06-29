@@ -27,13 +27,18 @@ function searchForFile(directory, fileName) {
 function replaceTextInJSONFile(filePath, searchText, replacementText) {
     const fileData = fs.readFileSync(filePath, 'utf8');
     const updatedData = fileData.replace(new RegExp(searchText, 'g'), replacementText);
-    fs.writeFileSync(filePath, updatedData, 'utf8');
+    return updatedData;
 }
 
 function getYearFolder (dir, filePath) {
     const pureDir = dir.replace(/[./]/g, '');
     return filePath.slice(pureDir.length + 1, pureDir.length + 5);
 }
+
+function saveOnCorrectFolder(outputDirectory, modifiedData) {
+    fs.writeFileSync(outputDirectory, modifiedData, 'utf8')
+}
+
 
 function execute(siglaEstado) {
     const dir = "./estados/";
@@ -43,7 +48,9 @@ function execute(siglaEstado) {
     const currentYear = moment().get('year');
 
     if(filePath){
-        replaceTextInJSONFile(filePath, yearFolder, currentYear);
+        const updatedData = replaceTextInJSONFile(filePath, yearFolder, currentYear);
+        const dirToSave = path.join(dir, `${currentYear}`, filename);
+        saveOnCorrectFolder(dirToSave, updatedData)
         console.log(`Atualizado feriados de "${yearFolder}" para "${currentYear}"`);
     } else {
         // criarArquivo current Year
