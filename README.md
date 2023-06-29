@@ -70,15 +70,14 @@ Consegui criar o arquivo feriados-municipais-DF.json //localizado na pasta 'esta
 
 * Para atualizar o ano dos feriados municipais de todas as cidades de um Estado
 ```
-node updateYearHoliday.js 
+npm run update 
 ```
 Deve-se informar os dados solicitados:
 ```
-Qual a sigla do estado onde fica a cidade? R.:DF
+Qual a sigla do estado? R.: DF
 LOG: Sigla informada: DF
 ```
-Após informado os sites de cada cidade serão acessados via WS
-e você será informado quando o arquivo com os feriados for criado.
+Você será informado quando o arquivo com os feriados atualizados for criado na pasta correspondente ao ano
 ```
 Atualizado feriados de "2022" para "2023"
 ```
