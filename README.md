@@ -30,29 +30,6 @@ cd WS-feriados-municipais
 npm install
 ```
 ## Executando o Programa ##
-* Para listar todas as cidades (será gerado um arquivo 'cidades.json')
-```
-node getCidades.js 
-```
-
-* Para listar os feriados municipais de uma cidade
-```
-node getFeriadosPorCidade.js 
-```
-Deve-se informar os dados solicitados:
-```
-Qual a sigla do estado onde fica a cidade? R.:SP
-LOG: Sigla informada: SP
-Qual o nome da cidade? R.:Taubate
-LOG: Cidade informada: Taubate
-```
-Após informado o site de referência será acessado para o WS
-e informará quando o arquivo com os feriados for criado.
-```
-URL: https://calendario.online/feriados-taubate-SP.html
-Consegui criar o arquivo f-m-Taubate-SP.json //localizado na pasta 'cidades'
-```
-
 * Para listar os feriados municipais de todas as cidades de um Estado
 ```
 npm run list-state 
